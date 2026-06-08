@@ -3,7 +3,7 @@ name: 🏟️ Extract Streams
 on:
   # ── Run automatically every 6 hours ──
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */2 * * *"
 
   # ── Also allow manual trigger from Actions tab ──
   workflow_dispatch:
@@ -47,6 +47,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add nowstreams.m3u nowstreams.m3u8 epg.xml nowstreams.json nowstreams_categories.json
+          git add Roxiestreams.m3u Roxiestreams_schedule.json
           git diff --cached --quiet || git commit -m "♻️ Auto-update streams $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

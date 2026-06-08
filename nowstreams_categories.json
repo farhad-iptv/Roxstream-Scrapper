@@ -1,0 +1,969 @@
+{
+  "generated_at": "2026-06-08 19:49:54 UTC",
+  "categories": {
+    "Athletics - Diamond League": [
+      {
+        "name": "Oslo Diamond League [SVT1] (SE)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do71.m3u8?md5=zSjGOCzX_srcvkqZ1kWFGg&expires=1780955370",
+        "start": "2026-06-10 18:30 UTC",
+        "language": "SE",
+        "channel": "SVT1"
+      }
+    ],
+    "Athletics - International Friendly Women": [
+      {
+        "name": "Brazil vs United States [TNT] (US)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do3.m3u8?md5=Pc9Zy8bKb_8RifwS6Y4RCA&expires=1780955385",
+        "start": "2026-06-10 00:30 UTC",
+        "language": "US",
+        "channel": "TNT"
+      }
+    ],
+    "Australian Football - AFL": [
+      {
+        "name": "Adelaide Crows vs Western Bulldogs [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-11 09:30 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      },
+      {
+        "name": "Gold Coast Suns vs Geelong Cats [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-12 09:40 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      }
+    ],
+    "Basketball - NBA": [
+      {
+        "name": "San Antonio Spurs vs New York Knicks [ABC] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-09 00:30 UTC",
+        "language": "US",
+        "channel": "ABC"
+      },
+      {
+        "name": "San Antonio Spurs vs New York Knicks [ESPN] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do2.m3u8?md5=0qRLpi2_xqVSOKSUIoGxuw&expires=1780955376",
+        "start": "2026-06-09 00:30 UTC",
+        "language": "US",
+        "channel": "ESPN"
+      },
+      {
+        "name": "San Antonio Spurs vs New York Knicks [ESPN Deportes] (ES)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do86.m3u8?md5=uqUqgzlbl6eESW0NywGPUw&expires=1780955376",
+        "start": "2026-06-09 00:30 UTC",
+        "language": "ES",
+        "channel": "ESPN Deportes"
+      }
+    ],
+    "Basketball - WNBA": [
+      {
+        "name": "Seattle Storm vs Las Vegas Aces [USA Network] (US)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do10.m3u8?md5=xew7_HAgpwLpBMXkr0biTQ&expires=1780955378",
+        "start": "2026-06-09 02:00 UTC",
+        "language": "US",
+        "channel": "USA Network"
+      },
+      {
+        "name": "Atlanta Dream vs Chicago Sky [ESPN] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do9.m3u8?md5=d52-I_cWrs24h8SFtaAyAw&expires=1780955377",
+        "start": "2026-06-09 23:00 UTC",
+        "language": "US",
+        "channel": "ESPN"
+      }
+    ],
+    "Boxing - Fighting": [
+      {
+        "name": "Wilkens Mathieu vs Esquiva Falcao [DAZN] (DE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do12.m3u8?md5=Elg4yu_xZ_UBkKofURhCfg&expires=1780955393",
+        "start": "2026-06-12 00:00 UTC",
+        "language": "DE",
+        "channel": "DAZN"
+      }
+    ],
+    "Canadian Football - CFL": [
+      {
+        "name": "Hamilton Tiger vs Cats vs Winnipeg Blue Bombers [CBS Sports Network] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do8.m3u8?md5=8G4DSDEAO8cVJ_IntOSpyg&expires=1780955376",
+        "start": "2026-06-12 00:30 UTC",
+        "language": "US",
+        "channel": "CBS Sports Network"
+      }
+    ],
+    "Darts - PDC": [
+      {
+        "name": "PDC World Cup of Darts [DAZN2] (DE)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do18.m3u8?md5=AaTQt8bkE6ZESElX-sFMWA&expires=1780955393",
+        "start": "2026-06-12 17:00 UTC",
+        "language": "DE",
+        "channel": "DAZN2"
+      }
+    ],
+    "Football - Canada Canadian Premier League": [
+      {
+        "name": "Atl. Ottawa vs Supra du Quebec [TSN1] (CA)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do31.m3u8?md5=HiYhGzkq5YnBcdK2LnSanQ&expires=1780955386",
+        "start": "2026-06-09 23:00 UTC",
+        "language": "CA",
+        "channel": "TSN1"
+      },
+      {
+        "name": "Forge vs HFX Wanderers [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-10 23:00 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      },
+      {
+        "name": "Inter Toronto vs Cavalry [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-10 23:30 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      }
+    ],
+    "Football - FIFA Women's World Cup Qualifying": [
+      {
+        "name": "Slovenia vs Germany [ZDF] (DE)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do11.m3u8?md5=juC-l1_YSuurUGAgh7_qfQ&expires=1780955379",
+        "start": "2026-06-09 16:00 UTC",
+        "language": "DE",
+        "channel": "ZDF"
+      },
+      {
+        "name": "Norway vs Austria [TV 2 Direkte] (NO)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do68.m3u8?md5=njemgosdqlLIT3YGD8NPxA&expires=1780955373",
+        "start": "2026-06-09 16:00 UTC",
+        "language": "NO",
+        "channel": "TV 2 Direkte"
+      },
+      {
+        "name": "Sweden vs Italy [CBS Sports Network] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do8.m3u8?md5=8G4DSDEAO8cVJ_IntOSpyg&expires=1780955376",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "US",
+        "channel": "CBS Sports Network"
+      },
+      {
+        "name": "Sweden vs Italy [SVT2] (SE)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do72.m3u8?md5=kyCxbHuZmVI00Mgy_zrwwg&expires=1780955377",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "SE",
+        "channel": "SVT2"
+      },
+      {
+        "name": "Finland vs Portugal [Canal 11] (PT)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do21.m3u8?md5=Sv4C-jjMQEUQZ8fqdZFQpw&expires=1780955379",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "PT",
+        "channel": "Canal 11"
+      },
+      {
+        "name": "Wales vs Czech Republic [CT Sport] (CZ)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do41.m3u8?md5=sRT8DcjSmKgw5zWhViy4bg&expires=1780955380",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "CZ",
+        "channel": "CT Sport"
+      },
+      {
+        "name": "Serbia vs Denmark [DR1] (DK)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do69.m3u8?md5=CU3zdmPIq9SMQFwRWhx_pA&expires=1780955384",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "DK",
+        "channel": "DR1"
+      },
+      {
+        "name": "England vs Ukraine [ITV 1] (GB)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "GB",
+        "channel": "ITV 1"
+      },
+      {
+        "name": "England vs Ukraine [CBS Sports Network] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do8.m3u8?md5=8G4DSDEAO8cVJ_IntOSpyg&expires=1780955376",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "US",
+        "channel": "CBS Sports Network"
+      },
+      {
+        "name": "France vs Republic of Ireland [CBS Sports Golazo Network] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do9.m3u8?md5=d52-I_cWrs24h8SFtaAyAw&expires=1780955377",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "US",
+        "channel": "CBS Sports Golazo Network"
+      },
+      {
+        "name": "France vs Republic of Ireland [France 4] (FR)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do54.m3u8?md5=Nt4k-6yj2JP2J2RnhlIyCg&expires=1780955378",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "FR",
+        "channel": "France 4"
+      },
+      {
+        "name": "Netherlands vs Poland [TVP Sport] (PL)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do60.m3u8?md5=M29m0lsYlvJaZyd6BtEHQQ&expires=1780955382",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "PL",
+        "channel": "TVP Sport"
+      },
+      {
+        "name": "Netherlands vs Poland [NPO3] (NL)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do88.m3u8?md5=UvOu_ELwg69SlDgyFHgCZg&expires=1780955374",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "NL",
+        "channel": "NPO3"
+      },
+      {
+        "name": "Iceland vs Spain [RUV2] (IC)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do64.m3u8?md5=YYDQDoZLSCnG3YC8PxZP6w&expires=1780955383",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "IC",
+        "channel": "RUV2"
+      }
+    ],
+    "Football - FIFA World Cup": [
+      {
+        "name": "Mexico vs South Africa [ITV 1] (GB)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "GB",
+        "channel": "ITV 1"
+      },
+      {
+        "name": "Mexico vs South Africa [SBS] (AU)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do9.m3u8?md5=d52-I_cWrs24h8SFtaAyAw&expires=1780955377",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "AU",
+        "channel": "SBS"
+      },
+      {
+        "name": "Mexico vs South Africa [ZDF] (DE)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do11.m3u8?md5=juC-l1_YSuurUGAgh7_qfQ&expires=1780955379",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "DE",
+        "channel": "ZDF"
+      },
+      {
+        "name": "Mexico vs South Africa [Sport TV1] (PT)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do21.m3u8?md5=Sv4C-jjMQEUQZ8fqdZFQpw&expires=1780955379",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "PT",
+        "channel": "Sport TV1"
+      },
+      {
+        "name": "Mexico vs South Africa [ERT 1] (GR)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do23.m3u8?md5=6hCeKhhjSdGu4I7_W6BkOA&expires=1780955387",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "GR",
+        "channel": "ERT 1"
+      },
+      {
+        "name": "Mexico vs South Africa [Azteca 7] (MX)",
+        "url": "https://cdn9.zohanayaan.com:1686/hls/do27.m3u8?md5=2Pdw_70FtWU4Xy0YRy06Hg&expires=1780955387",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "MX",
+        "channel": "Azteca 7"
+      },
+      {
+        "name": "Mexico vs South Africa [TSN1] (CA)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do31.m3u8?md5=HiYhGzkq5YnBcdK2LnSanQ&expires=1780955386",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "CA",
+        "channel": "TSN1"
+      },
+      {
+        "name": "Mexico vs South Africa [ČT Sport] (CZ)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do41.m3u8?md5=sRT8DcjSmKgw5zWhViy4bg&expires=1780955380",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "CZ",
+        "channel": "ČT Sport"
+      },
+      {
+        "name": "Mexico vs South Africa [RAI 1] (IT)",
+        "url": "https://cdn8.zohanayaan.com:1686/hls/do47.m3u8?md5=qHrhbrKBpynmACnJ2CUI_Q&expires=1780955388",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "IT",
+        "channel": "RAI 1"
+      },
+      {
+        "name": "Mexico vs South Africa [M6] (FR)",
+        "url": "https://cdn8.zohanayaan.com:1686/hls/do56.m3u8?md5=o9fSCykkB5_cqAGTQ-lJOg&expires=1780955388",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "FR",
+        "channel": "M6"
+      },
+      {
+        "name": "Mexico vs South Africa [TVP Sport] (PL)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do60.m3u8?md5=M29m0lsYlvJaZyd6BtEHQQ&expires=1780955382",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "PL",
+        "channel": "TVP Sport"
+      },
+      {
+        "name": "Mexico vs South Africa [TV 2 Direkte] (NO)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do68.m3u8?md5=njemgosdqlLIT3YGD8NPxA&expires=1780955373",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "NO",
+        "channel": "TV 2 Direkte"
+      },
+      {
+        "name": "Mexico vs South Africa [TV2] (DK)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do69.m3u8?md5=CU3zdmPIq9SMQFwRWhx_pA&expires=1780955384",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "DK",
+        "channel": "TV2"
+      },
+      {
+        "name": "Mexico vs South Africa [HRT 2] (HR)",
+        "url": "https://cdn2.zohanayaan.com:1686/hls/do70.m3u8?md5=Ud2E2nOFM5bYx3NFzzJxnQ&expires=1780955388",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "HR",
+        "channel": "HRT 2"
+      },
+      {
+        "name": "Mexico vs South Africa [MTV Urheilu 1] (FI)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do71.m3u8?md5=zSjGOCzX_srcvkqZ1kWFGg&expires=1780955370",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "FI",
+        "channel": "MTV Urheilu 1"
+      },
+      {
+        "name": "Mexico vs South Africa [TV4 Sweden] (SE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do74.m3u8?md5=mQZNJeahYBCZw0mivnwpkw&expires=1780955384",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "SE",
+        "channel": "TV4 Sweden"
+      },
+      {
+        "name": "Mexico vs South Africa [NPO 1] (NL)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do88.m3u8?md5=UvOu_ELwg69SlDgyFHgCZg&expires=1780955374",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "NL",
+        "channel": "NPO 1"
+      },
+      {
+        "name": "Mexico vs South Africa [TRT 1] (TR)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do91.m3u8?md5=GSgWjGOPVk4pQlIaY6qn8A&expires=1780955389",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "TR",
+        "channel": "TRT 1"
+      },
+      {
+        "name": "Mexico vs South Africa [DAZN Mundial] (ES)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do29.m3u8?md5=b-yIxRNvCJXbBCk41JCnxg&expires=1780955380",
+        "start": "2026-06-11 19:00 UTC",
+        "language": "ES",
+        "channel": "DAZN Mundial"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [ITV 1] (GB)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "GB",
+        "channel": "ITV 1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [SBS] (AU)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do9.m3u8?md5=d52-I_cWrs24h8SFtaAyAw&expires=1780955377",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "AU",
+        "channel": "SBS"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [MagentaTV] (DE)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do11.m3u8?md5=juC-l1_YSuurUGAgh7_qfQ&expires=1780955379",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "DE",
+        "channel": "MagentaTV"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [ERT 1] (GR)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do23.m3u8?md5=6hCeKhhjSdGu4I7_W6BkOA&expires=1780955387",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "GR",
+        "channel": "ERT 1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [TSN1] (CA)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do31.m3u8?md5=HiYhGzkq5YnBcdK2LnSanQ&expires=1780955386",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "CA",
+        "channel": "TSN1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [CT Sport] (CZ)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do41.m3u8?md5=sRT8DcjSmKgw5zWhViy4bg&expires=1780955380",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "CZ",
+        "channel": "CT Sport"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [beIN Sports 1] (FR)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do51.m3u8?md5=rSHb6QqciPBNudsO4oXjbw&expires=1780955389",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "FR",
+        "channel": "beIN Sports 1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [TVP Sport] (PL)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do60.m3u8?md5=M29m0lsYlvJaZyd6BtEHQQ&expires=1780955382",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "PL",
+        "channel": "TVP Sport"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [TV2 Sport X] (DK)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do69.m3u8?md5=CU3zdmPIq9SMQFwRWhx_pA&expires=1780955384",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "DK",
+        "channel": "TV2 Sport X"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [MTV Urheilu 1] (FI)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do71.m3u8?md5=zSjGOCzX_srcvkqZ1kWFGg&expires=1780955370",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "FI",
+        "channel": "MTV Urheilu 1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [TV4] (SE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do74.m3u8?md5=mQZNJeahYBCZw0mivnwpkw&expires=1780955384",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "SE",
+        "channel": "TV4"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [Fox Sports 1] (US)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do81.m3u8?md5=LzvVuIhYgdYOJxyWDTCvgg&expires=1780955390",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "US",
+        "channel": "Fox Sports 1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [NPO 1] (NL)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do88.m3u8?md5=UvOu_ELwg69SlDgyFHgCZg&expires=1780955374",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "NL",
+        "channel": "NPO 1"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [TRT Spor] (TR)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do91.m3u8?md5=GSgWjGOPVk4pQlIaY6qn8A&expires=1780955389",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "TR",
+        "channel": "TRT Spor"
+      },
+      {
+        "name": "Korea Republic vs Czech Republic [DAZN Mundial] (ES)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do100.m3u8?md5=mp-WYtF-5YjXobcbsOUz7g&expires=1780955391",
+        "start": "2026-06-12 02:00 UTC",
+        "language": "ES",
+        "channel": "DAZN Mundial"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [BBC One] (GB)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "GB",
+        "channel": "BBC One"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [SBS] (AU)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do9.m3u8?md5=d52-I_cWrs24h8SFtaAyAw&expires=1780955377",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "AU",
+        "channel": "SBS"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [MagentaTV] (DE)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do11.m3u8?md5=juC-l1_YSuurUGAgh7_qfQ&expires=1780955379",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "DE",
+        "channel": "MagentaTV"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [Sport TV1] (PT)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do21.m3u8?md5=Sv4C-jjMQEUQZ8fqdZFQpw&expires=1780955379",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "PT",
+        "channel": "Sport TV1"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [ERT 2] (GR)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do24.m3u8?md5=Qa7Cbesn7uOOzBe4_EoL4A&expires=1780955391",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "GR",
+        "channel": "ERT 2"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [TSN1] (CA)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do31.m3u8?md5=HiYhGzkq5YnBcdK2LnSanQ&expires=1780955386",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "CA",
+        "channel": "TSN1"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [RAI 1] (IT)",
+        "url": "https://cdn8.zohanayaan.com:1686/hls/do47.m3u8?md5=qHrhbrKBpynmACnJ2CUI_Q&expires=1780955388",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "IT",
+        "channel": "RAI 1"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [M6] (FR)",
+        "url": "https://cdn8.zohanayaan.com:1686/hls/do56.m3u8?md5=o9fSCykkB5_cqAGTQ-lJOg&expires=1780955388",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "FR",
+        "channel": "M6"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [TVP Sport] (PL)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do60.m3u8?md5=M29m0lsYlvJaZyd6BtEHQQ&expires=1780955382",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "PL",
+        "channel": "TVP Sport"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [HRT 2] (HR)",
+        "url": "https://cdn2.zohanayaan.com:1686/hls/do70.m3u8?md5=Ud2E2nOFM5bYx3NFzzJxnQ&expires=1780955388",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "HR",
+        "channel": "HRT 2"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [YLE TV2] (FI)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do72.m3u8?md5=kyCxbHuZmVI00Mgy_zrwwg&expires=1780955377",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "FI",
+        "channel": "YLE TV2"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [SVT 1] (SE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do74.m3u8?md5=mQZNJeahYBCZw0mivnwpkw&expires=1780955384",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "SE",
+        "channel": "SVT 1"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [NPO 1] (NL)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do88.m3u8?md5=UvOu_ELwg69SlDgyFHgCZg&expires=1780955374",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "NL",
+        "channel": "NPO 1"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [TRT Spor] (TR)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do91.m3u8?md5=GSgWjGOPVk4pQlIaY6qn8A&expires=1780955389",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "TR",
+        "channel": "TRT Spor"
+      },
+      {
+        "name": "Canada vs Bosnia and Herzegovina [DAZN Mundial] (ES)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do100.m3u8?md5=mp-WYtF-5YjXobcbsOUz7g&expires=1780955391",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "ES",
+        "channel": "DAZN Mundial"
+      }
+    ],
+    "Football - International Friendly Matches": [
+      {
+        "name": "Netherlands vs Uzbekistan [TV 2 Sport 2] (NO)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do68.m3u8?md5=njemgosdqlLIT3YGD8NPxA&expires=1780955373",
+        "start": "2026-06-08 18:45 UTC",
+        "language": "NO",
+        "channel": "TV 2 Sport 2"
+      },
+      {
+        "name": "Netherlands vs Uzbekistan [Viaplay Sport] (SE)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do80.m3u8?md5=hguFAEg_KzaaEvKsJhjpow&expires=1780955372",
+        "start": "2026-06-08 18:45 UTC",
+        "language": "SE",
+        "channel": "Viaplay Sport"
+      },
+      {
+        "name": "Netherlands vs Uzbekistan [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-08 18:45 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      },
+      {
+        "name": "Netherlands vs Uzbekistan [NPO 3] (NL)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do88.m3u8?md5=UvOu_ELwg69SlDgyFHgCZg&expires=1780955374",
+        "start": "2026-06-08 18:45 UTC",
+        "language": "NL",
+        "channel": "NPO 3"
+      },
+      {
+        "name": "France vs Northern Ireland [TF1] (FR)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do50.m3u8?md5=BQtcH-tWqNAfSG_lQ0lcEw&expires=1780955371",
+        "start": "2026-06-08 19:10 UTC",
+        "language": "FR",
+        "channel": "TF1"
+      },
+      {
+        "name": "France vs Northern Ireland [MTV Urheilu 1] (FI)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do71.m3u8?md5=zSjGOCzX_srcvkqZ1kWFGg&expires=1780955370",
+        "start": "2026-06-08 19:10 UTC",
+        "language": "FI",
+        "channel": "MTV Urheilu 1"
+      },
+      {
+        "name": "France vs Northern Ireland [V Sport Premium] (SE)",
+        "url": "https://cdn9.zohanayaan.com:1686/hls/do78.m3u8?md5=d7jCvA5cZ-VmeTM-wBTJqQ&expires=1780955370",
+        "start": "2026-06-08 19:10 UTC",
+        "language": "SE",
+        "channel": "V Sport Premium"
+      },
+      {
+        "name": "France vs Northern Ireland [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-08 19:10 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      },
+      {
+        "name": "Peru vs Spain [Sport TV1] (PT)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do21.m3u8?md5=Sv4C-jjMQEUQZ8fqdZFQpw&expires=1780955379",
+        "start": "2026-06-09 02:00 UTC",
+        "language": "PT",
+        "channel": "Sport TV1"
+      },
+      {
+        "name": "Peru vs Spain [TVE La 1] (ES)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do29.m3u8?md5=b-yIxRNvCJXbBCk41JCnxg&expires=1780955380",
+        "start": "2026-06-09 02:00 UTC",
+        "language": "ES",
+        "channel": "TVE La 1"
+      },
+      {
+        "name": "Peru vs Spain [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-09 02:00 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      },
+      {
+        "name": "Azerbaijan U21 vs Kyrgyzstan U21 [CBC Sport] (AZ)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do66.m3u8?md5=bktvn2WAaor_gGtGvFrYog&expires=1780955382",
+        "start": "2026-06-09 14:00 UTC",
+        "language": "AZ",
+        "channel": "CBC Sport"
+      },
+      {
+        "name": "Armenia vs Moldova [Sport 2] (CZ)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do42.m3u8?md5=N-wtuhzneVlpk-I4A5enwQ&expires=1780955381",
+        "start": "2026-06-09 14:30 UTC",
+        "language": "CZ",
+        "channel": "Sport 2"
+      },
+      {
+        "name": "Armenia vs Moldova [Diema Sport 3] (BG)",
+        "url": "https://cdn2.zohanayaan.com:1686/hls/do48.m3u8?md5=-S6XvbgYYcmu5Wl2mbKX8w&expires=1780955381",
+        "start": "2026-06-09 14:30 UTC",
+        "language": "BG",
+        "channel": "Diema Sport 3"
+      },
+      {
+        "name": "Kyrgyzstan vs Palestine [Palestine Sport] (SA)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do65.m3u8?md5=EIPr3RIg_L8EAdTv5t9jpw&expires=1780955383",
+        "start": "2026-06-09 14:30 UTC",
+        "language": "SA",
+        "channel": "Palestine Sport"
+      },
+      {
+        "name": "Belarus vs Burkina Faso [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-09 16:30 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      },
+      {
+        "name": "Hungary vs Kazakhstan [M4 Sports] (HU)",
+        "url": "https://cdn9.zohanayaan.com:1686/hls/do67.m3u8?md5=C2SeupwqXvhS8xMktFu-xw&expires=1780955384",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "HU",
+        "channel": "M4 Sports"
+      },
+      {
+        "name": "Hungary vs Kazakhstan [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      },
+      {
+        "name": "Azerbaijan vs San Marino [Diema Sport 3] (BG)",
+        "url": "https://cdn2.zohanayaan.com:1686/hls/do48.m3u8?md5=-S6XvbgYYcmu5Wl2mbKX8w&expires=1780955381",
+        "start": "2026-06-09 18:00 UTC",
+        "language": "BG",
+        "channel": "Diema Sport 3"
+      },
+      {
+        "name": "Azerbaijan vs San Marino [CBC Sport] (AZ)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do66.m3u8?md5=bktvn2WAaor_gGtGvFrYog&expires=1780955382",
+        "start": "2026-06-09 18:00 UTC",
+        "language": "AZ",
+        "channel": "CBC Sport"
+      },
+      {
+        "name": "Argentina vs Iceland [ESPN] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do9.m3u8?md5=d52-I_cWrs24h8SFtaAyAw&expires=1780955377",
+        "start": "2026-06-10 01:00 UTC",
+        "language": "US",
+        "channel": "ESPN"
+      },
+      {
+        "name": "Argentina vs Iceland [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-10 01:00 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      },
+      {
+        "name": "Argentina vs Iceland [ESPN Deportes] (ES)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do86.m3u8?md5=uqUqgzlbl6eESW0NywGPUw&expires=1780955376",
+        "start": "2026-06-10 01:00 UTC",
+        "language": "ES",
+        "channel": "ESPN Deportes"
+      },
+      {
+        "name": "Iraq vs Venezuela [Al Iraqiya Sports] (SA)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do65.m3u8?md5=EIPr3RIg_L8EAdTv5t9jpw&expires=1780955383",
+        "start": "2026-06-10 01:00 UTC",
+        "language": "SA",
+        "channel": "Al Iraqiya Sports"
+      },
+      {
+        "name": "Portugal vs Nigeria [Sport TV1] (PT)",
+        "url": "https://cdn6.zohanayaan.com:1686/hls/do21.m3u8?md5=Sv4C-jjMQEUQZ8fqdZFQpw&expires=1780955379",
+        "start": "2026-06-10 19:45 UTC",
+        "language": "PT",
+        "channel": "Sport TV1"
+      },
+      {
+        "name": "Portugal vs Nigeria [Nova Sports Prime] (GR)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do25.m3u8?md5=43o8fOa4l-0PgW195A15Wg&expires=1780955386",
+        "start": "2026-06-10 19:45 UTC",
+        "language": "GR",
+        "channel": "Nova Sports Prime"
+      },
+      {
+        "name": "Portugal vs Nigeria [Viaplay Sport] (SE)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do80.m3u8?md5=hguFAEg_KzaaEvKsJhjpow&expires=1780955372",
+        "start": "2026-06-10 19:45 UTC",
+        "language": "SE",
+        "channel": "Viaplay Sport"
+      },
+      {
+        "name": "Portugal vs Nigeria [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-10 19:45 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      },
+      {
+        "name": "England vs Costa Rica [ITV 1] (GB)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-10 20:00 UTC",
+        "language": "GB",
+        "channel": "ITV 1"
+      },
+      {
+        "name": "England vs Costa Rica [V Sport Premium] (SE)",
+        "url": "https://cdn9.zohanayaan.com:1686/hls/do78.m3u8?md5=d7jCvA5cZ-VmeTM-wBTJqQ&expires=1780955370",
+        "start": "2026-06-10 20:00 UTC",
+        "language": "SE",
+        "channel": "V Sport Premium"
+      },
+      {
+        "name": "England vs Costa Rica [Fox Sports 2] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372",
+        "start": "2026-06-10 20:00 UTC",
+        "language": "US",
+        "channel": "Fox Sports 2"
+      }
+    ],
+    "Football - Spain Segunda Division": [
+      {
+        "name": "Almería vs CD Castellon [LALIGA TV Hypermotion] (ES)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do26.m3u8?md5=tzUNhMaKGrImjovAtfblug&expires=1780955380",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "ES",
+        "channel": "LALIGA TV Hypermotion"
+      },
+      {
+        "name": "Almería vs CD Castellon [ESPN Deportes] (ES)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do86.m3u8?md5=uqUqgzlbl6eESW0NywGPUw&expires=1780955376",
+        "start": "2026-06-09 19:00 UTC",
+        "language": "ES",
+        "channel": "ESPN Deportes"
+      },
+      {
+        "name": "Málaga vs Las Palmas [LALIGA TV Hypermotion] (ES)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do26.m3u8?md5=tzUNhMaKGrImjovAtfblug&expires=1780955380",
+        "start": "2026-06-10 19:00 UTC",
+        "language": "ES",
+        "channel": "LALIGA TV Hypermotion"
+      },
+      {
+        "name": "Málaga vs Las Palmas [TV4 Sportkanalen] (SE)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do75.m3u8?md5=S5xIAoqgnpVZ2M3Jmog6Xg&expires=1780955385",
+        "start": "2026-06-10 19:00 UTC",
+        "language": "SE",
+        "channel": "TV4 Sportkanalen"
+      },
+      {
+        "name": "Málaga vs Las Palmas [ESPN Deportes] (ES)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do86.m3u8?md5=uqUqgzlbl6eESW0NywGPUw&expires=1780955376",
+        "start": "2026-06-10 19:00 UTC",
+        "language": "ES",
+        "channel": "ESPN Deportes"
+      }
+    ],
+    "Football - Sweden Superettan": [
+      {
+        "name": "Oddevold vs Norrköping [TV4 Fotball] (SE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do74.m3u8?md5=mQZNJeahYBCZw0mivnwpkw&expires=1780955384",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "SE",
+        "channel": "TV4 Fotball"
+      },
+      {
+        "name": "Öster vs Värnamo [TV4 Sportkanalen] (SE)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do75.m3u8?md5=S5xIAoqgnpVZ2M3Jmog6Xg&expires=1780955385",
+        "start": "2026-06-09 17:00 UTC",
+        "language": "SE",
+        "channel": "TV4 Sportkanalen"
+      },
+      {
+        "name": "Örebro vs GIF Sundsvall [TV4 Fotball] (SE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do74.m3u8?md5=mQZNJeahYBCZw0mivnwpkw&expires=1780955384",
+        "start": "2026-06-10 17:00 UTC",
+        "language": "SE",
+        "channel": "TV4 Fotball"
+      },
+      {
+        "name": "Helsingborg vs Landskrona [TV4 Sportkanalen] (SE)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do75.m3u8?md5=S5xIAoqgnpVZ2M3Jmog6Xg&expires=1780955385",
+        "start": "2026-06-11 17:00 UTC",
+        "language": "SE",
+        "channel": "TV4 Sportkanalen"
+      }
+    ],
+    "Hockey - NHL": [
+      {
+        "name": "Carolina Hurricanes vs Vegas Golden Knights [ABC] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do1.m3u8?md5=L3Y1exDgbaRKulnknsIBrQ&expires=1780955375",
+        "start": "2026-06-10 00:00 UTC",
+        "language": "US",
+        "channel": "ABC"
+      },
+      {
+        "name": "Carolina Hurricanes vs Vegas Golden Knights [TVA Sports] (CA)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do2.m3u8?md5=0qRLpi2_xqVSOKSUIoGxuw&expires=1780955376",
+        "start": "2026-06-10 00:00 UTC",
+        "language": "CA",
+        "channel": "TVA Sports"
+      },
+      {
+        "name": "Carolina Hurricanes vs Vegas Golden Knights [Viaplay Sport] (SE)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do80.m3u8?md5=hguFAEg_KzaaEvKsJhjpow&expires=1780955372",
+        "start": "2026-06-10 00:00 UTC",
+        "language": "SE",
+        "channel": "Viaplay Sport"
+      },
+      {
+        "name": "Vegas Golden Knights vs Carolina Hurricanes [ABC] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do2.m3u8?md5=0qRLpi2_xqVSOKSUIoGxuw&expires=1780955376",
+        "start": "2026-06-12 00:00 UTC",
+        "language": "US",
+        "channel": "ABC"
+      },
+      {
+        "name": "Vegas Golden Knights vs Carolina Hurricanes [Viaplay Sport] (SE)",
+        "url": "https://cdn4.zohanayaan.com:1686/hls/do80.m3u8?md5=hguFAEg_KzaaEvKsJhjpow&expires=1780955372",
+        "start": "2026-06-12 00:00 UTC",
+        "language": "SE",
+        "channel": "Viaplay Sport"
+      },
+      {
+        "name": "Vegas Golden Knights vs Carolina Hurricanes [ESPN Deportes] (ES)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do86.m3u8?md5=uqUqgzlbl6eESW0NywGPUw&expires=1780955376",
+        "start": "2026-06-12 00:00 UTC",
+        "language": "ES",
+        "channel": "ESPN Deportes"
+      }
+    ],
+    "MMA - Hexagone": [
+      {
+        "name": "Hexagone MMA: 45 Lyon [RMC Sport 1] (FR)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do50.m3u8?md5=BQtcH-tWqNAfSG_lQ0lcEw&expires=1780955371",
+        "start": "2026-06-12 19:00 UTC",
+        "language": "FR",
+        "channel": "RMC Sport 1"
+      }
+    ],
+    "MMA - One": [
+      {
+        "name": "One Friday Fights [beIN Sport] (US)",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do39.m3u8?md5=g4WosWBhskNJWyd0lmrSfA&expires=1780955393",
+        "start": "2026-06-12 13:30 UTC",
+        "language": "US",
+        "channel": "beIN Sport"
+      }
+    ],
+    "Motorsport - Formula 1": [
+      {
+        "name": "Spanish Grand Prix [Sky Sports F1] (GB)",
+        "url": "https://cdn3.zohanayaan.com:1686/hls/do7.m3u8?md5=OwB5bJd_so1BYnPHmlbFTg&expires=1780955391",
+        "start": "2026-06-12 11:30 UTC",
+        "language": "GB",
+        "channel": "Sky Sports F1"
+      },
+      {
+        "name": "Spanish Grand Prix [DAZN F1] (ES)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/do30.m3u8?md5=2egBanA07TzvfROPY9-XtQ&expires=1780955392",
+        "start": "2026-06-12 11:30 UTC",
+        "language": "ES",
+        "channel": "DAZN F1"
+      },
+      {
+        "name": "Spanish Grand Prix [V Sport Motor] (SE)",
+        "url": "https://cdn10.zohanayaan.com:1686/hls/do77.m3u8?md5=VsV8jqaMaCcIP3-tD--gTA&expires=1780955392",
+        "start": "2026-06-12 11:30 UTC",
+        "language": "SE",
+        "channel": "V Sport Motor"
+      }
+    ],
+    "Rugby - NRL": [
+      {
+        "name": "Brisbane Broncos vs South Sydney Rabbitohs [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-11 09:50 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      },
+      {
+        "name": "Sydney Roosters vs Dolphins [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-12 10:00 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      }
+    ],
+    "Rugby - Super League": [
+      {
+        "name": "Leeds Rhinos vs Toulouse Olympique [Fox Soccer Plus] (US)",
+        "url": "https://cdn5.zohanayaan.com:1686/hls/do83.m3u8?md5=tFxggDw7_IOskDwU6whf8Q&expires=1780955374",
+        "start": "2026-06-12 17:00 UTC",
+        "language": "US",
+        "channel": "Fox Soccer Plus"
+      }
+    ]
+  }
+}

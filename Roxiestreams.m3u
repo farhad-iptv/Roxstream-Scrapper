@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Uzbekistan
+https://daffodil.thelistener.pk/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Uzbekistan (Mirror 1)
+https://daffodil.sandhost.qzz.io/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Uzbekistan (Mirror 2)
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Northern Ireland
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Northern Ireland (Mirror 1)
+https://daffodil.thelistener.pk/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Northern Ireland (Mirror 2)
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Northern Ireland (Mirror 3)
+https://daffodil.formaturamaxi.com.br/sky2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Northern Ireland (Mirror 4)
+https://daffodil.sandhost.qzz.io/sky2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Northern Ireland (Mirror 5)
+https://daffodil.thelistener.pk/sky2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Peru vs Spain
+https://daffodil.formaturamaxi.com.br/la.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Peru vs Spain (Mirror 1)
+https://daffodil.thelistener.pk/la.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Peru vs Spain (Mirror 2)
+https://daffodil.sandhost.qzz.io/la.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Cleveland Guardians
+https://601.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Los Angeles Angels
+https://601.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs San Diego Padres
+https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs San Francisco Giants
+https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Athletics
+https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs New York Knicks
+https://daffodil.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs New York Knicks (Mirror 1)
+https://daffodil.thelistener.pk/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs New York Knicks (Mirror 2)
+https://daffodil.sandhost.qzz.io/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs New York Knicks (Mirror 3)
+https://daffodil.thelistener.pk/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs New York Knicks (Mirror 4)
+https://daffodil.sandhost.qzz.io/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs New York Knicks (Mirror 5)
+https://daffodil.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights
+https://daffodil.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights (Mirror 1)
+https://daffodil.thelistener.pk/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights (Mirror 2)
+https://daffodil.sandhost.qzz.io/nhl.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
+https://daffodil.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW (Mirror 1)
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW (Mirror 2)
+https://daffodil.thelistener.pk/wwe.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MX2 - Race 1 & 2
+https://601.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Monaco Grand Prix
+https://daffodil.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Monaco Grand Prix (Mirror 1)
+https://daffodil.thelistener.pk/f1.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Monaco Grand Prix (Mirror 2)
+https://daffodil.sandhost.qzz.io/f1.m3u8

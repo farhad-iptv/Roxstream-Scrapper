@@ -1,3 +1,4 @@
-httpx
-playwright
+requests
 beautifulsoup4
+playwright
+lxml

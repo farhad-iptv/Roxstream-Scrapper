@@ -43,7 +43,7 @@ jobs:
       # ── 5. Run the scraper ─────────────────────────────────────────────
       - name: Run scraper
         run: |
-          python scraper.py
+          python main.py
 
       # ── 6. Commit and push output files ────────────────────────────────
       - name: Commit and push results

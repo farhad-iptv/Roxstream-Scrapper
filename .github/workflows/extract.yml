@@ -1,0 +1,52 @@
+name: 🏟️ Extract Streams
+
+on:
+  # ── Run automatically every 6 hours ──
+  schedule:
+    - cron: "0 */1 * * *"
+
+  # ── Also allow manual trigger from Actions tab ──
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    permissions:
+      contents: write       # needed to push output files
+
+    steps:
+
+      # 1. Check out your repo
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      # 2. Set up Python
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Install Python dependencies
+      - name: 📦 Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install httpx playwright
+
+      # 4. Install Chromium browser for Playwright
+      - name: 🌐 Install Playwright browsers
+        run: python -m playwright install chromium --with-deps
+
+      # 5. Run the extractor
+      - name: 🚀 Run extractor
+        run: python main.py
+
+      # 6. Commit and push the generated files back to repo
+      - name: 💾 Commit & push output files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nowstreams.m3u nowstreams.m3u8 epg.xml nowstreams.json nowstreams_categories.json
+          git diff --cached --quiet || git commit -m "♻️ Auto-update streams $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

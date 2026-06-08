@@ -1,52 +1,59 @@
-name: 🏟️ Extract Streams
+name: Roxie Streams Scraper
 
 on:
-  # ── Run automatically every 6 hours ──
+  # Run automatically every 4 hours
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: '0 */4 * * *'
 
-  # ── Also allow manual trigger from Actions tab ──
+  # Allow manual trigger from GitHub UI
   workflow_dispatch:
 
 jobs:
-  extract:
+  scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     permissions:
-      contents: write       # needed to push output files
+      contents: write
 
     steps:
-
-      # 1. Check out your repo
-      - name: 📥 Checkout
+      # ── 1. Checkout repo ───────────────────────────────────────────────
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Set up Python
-      - name: 🐍 Setup Python
+      # ── 2. Setup Python ────────────────────────────────────────────────
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
+          cache: 'pip'
 
-      # 3. Install Python dependencies
-      - name: 📦 Install dependencies
+      # ── 3. Install Python dependencies ─────────────────────────────────
+      - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install httpx playwright
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      # 4. Install Chromium browser for Playwright
-      - name: 🌐 Install Playwright browsers
-        run: python -m playwright install chromium --with-deps
-
-      # 5. Run the extractor
-      - name: 🚀 Run extractor
-        run: python main.py
-
-      # 6. Commit and push the generated files back to repo
-      - name: 💾 Commit & push output files
+      # ── 4. Install Playwright + Chromium ───────────────────────────────
+      - name: Install Playwright browsers
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Roxiestreams.m3u Roxiestreams_schedule.json
-          git diff --cached --quiet || git commit -m "♻️ Auto-update streams $(date -u '+%Y-%m-%d %H:%M UTC')"
+          playwright install chromium
+          playwright install-deps chromium
+
+      # ── 5. Run the scraper ─────────────────────────────────────────────
+      - name: Run scraper
+        run: |
+          python scraper.py
+
+      # ── 6. Commit and push output files ────────────────────────────────
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name  "GitHub Action"
+
+          git add Roxiestreams.m3u
+          git add Roxiestreams_schedule.json
+
+          # Only commit if something actually changed
+          git diff --staged --quiet || git commit -m "Update streams - $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

@@ -1,8 +1,8 @@
 [
   {
     "category": "Soccer",
-    "title": "Netherlands vs Uzbekistan",
-    "start_time": "June 8, 2026 11:45 AM",
+    "title": "Congo DR vs Chile",
+    "start_time": "June 9, 2026 8:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
@@ -12,12 +12,12 @@
       "https://daffodil.sandhost.qzz.io/fsp.m3u8",
       "https://daffodil.thelistener.pk/fsp.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Soccer",
-    "title": "France vs Northern Ireland",
-    "start_time": "June 8, 2026 12:10 PM",
+    "title": "Armenia vs Moldova",
+    "start_time": "June 9, 2026 8:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
@@ -30,12 +30,12 @@
       "https://daffodil.thelistener.pk/fs2.m3u8",
       "https://daffodil.thelistener.pk/sky2.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Soccer",
-    "title": "Peru vs Spain",
-    "start_time": "June 8, 2026 7:00 PM",
+    "title": "Belarus vs Burkina Faso",
+    "start_time": "June 9, 2026 9:30 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
@@ -48,12 +48,75 @@
       "https://601.thelistener.pk/fs2.m3u8",
       "https://601.thelistener.pk/la.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Hungary vs Kazakhstan",
+    "start_time": "June 9, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-4",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://daffodil.formaturamaxi.com.br/dep.m3u8",
+      "https://daffodil.sandhost.qzz.io/dep.m3u8",
+      "https://daffodil.thelistener.pk/dep.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "AlmerÃ­a vs Castellon",
+    "start_time": "June 9, 2026 12:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/ecdf.m3u8",
+      "https://601.formaturamaxi.com.br/ppv.m3u8",
+      "https://601.sandhost.qzz.io/ecdf.m3u8",
+      "https://601.sandhost.qzz.io/ppv.m3u8",
+      "https://601.thelistener.pk/ecdf.m3u8",
+      "https://601.thelistener.pk/ppv.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Argentina vs Iceland",
+    "start_time": "June 9, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://daffodil.formaturamaxi.com.br/dep.m3u8",
+      "https://daffodil.sandhost.qzz.io/dep.m3u8",
+      "https://daffodil.thelistener.pk/dep.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Iraq vs Venezuela",
+    "start_time": "June 9, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-7",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/england.m3u8",
+      "https://601.sandhost.qzz.io/england.m3u8",
+      "https://601.thelistener.pk/england.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
     "title": "Seattle Mariners vs Baltimore Orioles",
-    "start_time": "June 8, 2026 03:35 PM",
+    "start_time": "June 9, 2026 03:35 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
@@ -63,12 +126,12 @@
       "https://601.sandhost.qzz.io/mlb.m3u8",
       "https://601.thelistener.pk/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "Boston Red Sox vs Tampa Bay Rays",
-    "start_time": "June 8, 2026 03:40 PM",
+    "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
+    "start_time": "June 9, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
@@ -78,12 +141,12 @@
       "https://601.sandhost.qzz.io/mlb2.m3u8",
       "https://601.thelistener.pk/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "New York Yankees vs Cleveland Guardians",
-    "start_time": "June 8, 2026 03:40 PM",
+    "title": "Boston Red Sox vs Tampa Bay Rays",
+    "start_time": "June 9, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
@@ -91,12 +154,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "Philadelphia Phillies vs Toronto Blue Jays",
-    "start_time": "June 8, 2026 04:07 PM",
+    "title": "Minnesota Twins vs Detroit Tigers",
+    "start_time": "June 9, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
@@ -106,12 +169,12 @@
       "https://601.sandhost.qzz.io/mlb4.m3u8",
       "https://601.thelistener.pk/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "Houston Astros vs Los Angeles Angels",
-    "start_time": "June 8, 2026 06:38 PM",
+    "title": "Arizona Diamondbacks vs Miami Marlins",
+    "start_time": "June 9, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
@@ -119,12 +182,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "Cincinnati Reds vs San Diego Padres",
-    "start_time": "June 8, 2026 06:40 PM",
+    "title": "New York Yankees vs Cleveland Guardians",
+    "start_time": "June 9, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
@@ -132,12 +195,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "Washington Nationals vs San Francisco Giants",
-    "start_time": "June 8, 2026 06:45 PM",
+    "title": "Philadelphia Phillies vs Toronto Blue Jays",
+    "start_time": "June 9, 2026 04:07 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
@@ -145,12 +208,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "MLB",
-    "title": "Milwaukee Brewers vs Athletics",
-    "start_time": "June 8, 2026 07:05 PM",
+    "title": "St. Louis Cardinals vs New York Mets",
+    "start_time": "June 9, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
@@ -158,7 +221,98 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Texas Rangers vs Kansas City Royals",
+    "start_time": "June 9, 2026 04:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-9",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb9.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Atlanta Braves vs Chicago White Sox",
+    "start_time": "June 9, 2026 04:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-10",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb10.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Chicago Cubs vs Colorado Rockies",
+    "start_time": "June 9, 2026 05:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-11",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb11.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Houston Astros vs Los Angeles Angels",
+    "start_time": "June 9, 2026 06:38 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-12",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb12.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cincinnati Reds vs San Diego Padres",
+    "start_time": "June 9, 2026 06:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-13",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb13.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Washington Nationals vs San Francisco Giants",
+    "start_time": "June 9, 2026 06:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb14.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Milwaukee Brewers vs Athletics",
+    "start_time": "June 9, 2026 07:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-15",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb15.m3u8"
+    ],
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "NBA",
@@ -173,7 +327,7 @@
       "https://601.sandhost.qzz.io/nba.m3u8",
       "https://601.thelistener.pk/nba.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "NHL",
@@ -188,12 +342,12 @@
       "https://601.sandhost.qzz.io/nhl.m3u8",
       "https://601.thelistener.pk/nhl.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Fighting",
-    "title": "WWE RAW",
-    "start_time": "June 8, 2026 11:00 AM",
+    "title": "WWE NXT",
+    "start_time": "June 9, 2026 5:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
@@ -203,7 +357,7 @@
       "https://601.sandhost.qzz.io/wwe.m3u8",
       "https://601.thelistener.pk/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -221,7 +375,7 @@
       "https://601.thelistener.pk/fs2.m3u8",
       "https://601.thelistener.pk/tnt2.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -234,7 +388,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -247,7 +401,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -265,7 +419,7 @@
       "https://601.thelistener.pk/fs2.m3u8",
       "https://601.thelistener.pk/tnt2.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -280,7 +434,7 @@
       "https://daffodil.sandhost.qzz.io/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -295,7 +449,7 @@
       "https://daffodil.sandhost.qzz.io/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   },
   {
     "category": "Motorsports",
@@ -310,6 +464,6 @@
       "https://daffodil.sandhost.qzz.io/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-09T04:09:38Z"
+    "scraped_at": "2026-06-09T11:29:07Z"
   }
 ]

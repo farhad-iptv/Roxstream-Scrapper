@@ -1,52 +1,28 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Congo DR vs Chile
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
+https://601.formaturamaxi.com.br/chile.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Congo DR vs Chile (Mirror 1)
-https://daffodil.sandhost.qzz.io/fsp.m3u8
+https://601.sandhost.qzz.io/chile.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Congo DR vs Chile (Mirror 2)
-https://daffodil.thelistener.pk/fsp.m3u8
+https://601.thelistener.pk/chile.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Moldova
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
+https://daffodil.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Moldova (Mirror 1)
-https://daffodil.formaturamaxi.com.br/sky2.m3u8
+https://daffodil.sandhost.qzz.io/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Moldova (Mirror 2)
-https://daffodil.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Moldova (Mirror 3)
-https://daffodil.sandhost.qzz.io/sky2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Moldova (Mirror 4)
-https://daffodil.thelistener.pk/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Moldova (Mirror 5)
-https://daffodil.thelistener.pk/sky2.m3u8
+https://daffodil.thelistener.pk/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belarus vs Burkina Faso
-https://601.formaturamaxi.com.br/fs2.m3u8
+https://daffodil.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belarus vs Burkina Faso (Mirror 1)
-https://601.formaturamaxi.com.br/la.m3u8
+https://daffodil.sandhost.qzz.io/fs2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belarus vs Burkina Faso (Mirror 2)
-https://601.sandhost.qzz.io/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belarus vs Burkina Faso (Mirror 3)
-https://601.sandhost.qzz.io/la.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belarus vs Burkina Faso (Mirror 4)
-https://601.thelistener.pk/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belarus vs Burkina Faso (Mirror 5)
-https://601.thelistener.pk/la.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hungary vs Kazakhstan
-https://daffodil.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hungary vs Kazakhstan (Mirror 1)
-https://daffodil.sandhost.qzz.io/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hungary vs Kazakhstan (Mirror 2)
-https://daffodil.thelistener.pk/dep.m3u8
+https://daffodil.thelistener.pk/fs2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Castellon
-https://601.formaturamaxi.com.br/ecdf.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Castellon (Mirror 1)
-https://601.formaturamaxi.com.br/ppv.m3u8
+https://daffodil.sandhost.qzz.io/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Castellon (Mirror 2)
-https://601.sandhost.qzz.io/ecdf.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Castellon (Mirror 3)
-https://601.sandhost.qzz.io/ppv.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Castellon (Mirror 4)
-https://601.thelistener.pk/ecdf.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Castellon (Mirror 5)
-https://601.thelistener.pk/ppv.m3u8
+https://daffodil.thelistener.pk/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Iraq vs Venezuela
 https://601.formaturamaxi.com.br/england.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Iraq vs Venezuela (Mirror 1)
@@ -114,10 +90,16 @@ https://601.sandhost.qzz.io/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 2)
 https://601.thelistener.pk/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
-https://601.formaturamaxi.com.br/tnt2.m3u8
+https://601.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
-https://601.sandhost.qzz.io/tnt2.m3u8
+https://601.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 2)
+https://601.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 3)
+https://601.sandhost.qzz.io/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 4)
+https://601.thelistener.pk/fs2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 5)
 https://601.thelistener.pk/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MX2 - Race 1 & 2
 https://601.formaturamaxi.com.br/mxgp.m3u8

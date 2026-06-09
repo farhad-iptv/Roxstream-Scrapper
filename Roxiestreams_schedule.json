@@ -12,7 +12,7 @@
       "https://daffodil.sandhost.qzz.io/fsp.m3u8",
       "https://daffodil.thelistener.pk/fsp.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Soccer",
@@ -30,7 +30,7 @@
       "https://daffodil.thelistener.pk/fs2.m3u8",
       "https://daffodil.thelistener.pk/sky2.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Soccer",
@@ -48,7 +48,7 @@
       "https://601.thelistener.pk/fs2.m3u8",
       "https://601.thelistener.pk/la.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -63,7 +63,7 @@
       "https://601.sandhost.qzz.io/mlb.m3u8",
       "https://601.thelistener.pk/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -78,7 +78,7 @@
       "https://601.sandhost.qzz.io/mlb2.m3u8",
       "https://601.thelistener.pk/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -91,7 +91,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -106,7 +106,7 @@
       "https://601.sandhost.qzz.io/mlb4.m3u8",
       "https://601.thelistener.pk/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -119,7 +119,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -132,7 +132,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -145,7 +145,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "MLB",
@@ -158,7 +158,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "NBA",
@@ -170,12 +170,10 @@
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [
       "https://601.formaturamaxi.com.br/nba.m3u8",
-      "https://601.formaturamaxi.com.br/nbaalt.m3u8",
       "https://601.sandhost.qzz.io/nba.m3u8",
-      "https://601.sandhost.qzz.io/nbaalt.m3u8",
-      "https://601.thelistener.pk/nbaalt.m3u8"
+      "https://601.thelistener.pk/nba.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "NHL",
@@ -190,7 +188,7 @@
       "https://601.sandhost.qzz.io/nhl.m3u8",
       "https://601.thelistener.pk/nhl.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Fighting",
@@ -205,7 +203,7 @@
       "https://601.sandhost.qzz.io/wwe.m3u8",
       "https://601.thelistener.pk/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -223,7 +221,7 @@
       "https://601.thelistener.pk/fs2.m3u8",
       "https://601.thelistener.pk/tnt2.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -236,7 +234,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -249,7 +247,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -267,7 +265,7 @@
       "https://601.thelistener.pk/fs2.m3u8",
       "https://601.thelistener.pk/tnt2.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -282,7 +280,7 @@
       "https://daffodil.sandhost.qzz.io/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -297,7 +295,7 @@
       "https://daffodil.sandhost.qzz.io/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   },
   {
     "category": "Motorsports",
@@ -312,6 +310,6 @@
       "https://daffodil.sandhost.qzz.io/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-08T21:06:11Z"
+    "scraped_at": "2026-06-09T04:09:38Z"
   }
 ]

@@ -10,7 +10,7 @@
     "streams": [
       "https://601.thelistener.pk/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "Soccer",
@@ -24,7 +24,7 @@
       "https://601.thelistener.pk/fs1.m3u8",
       "https://601.thelistener.pk/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -37,7 +37,7 @@
     "streams": [
       "https://601.thelistener.pk/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -50,7 +50,7 @@
     "streams": [
       "https://601.thelistener.pk/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -61,7 +61,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -74,7 +74,7 @@
     "streams": [
       "https://601.thelistener.pk/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -85,7 +85,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -96,7 +96,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -107,7 +107,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -118,7 +118,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -129,7 +129,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -140,7 +140,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -151,7 +151,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -162,7 +162,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -173,7 +173,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -184,7 +184,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "MLB",
@@ -195,7 +195,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "NBA",
@@ -208,7 +208,7 @@
     "streams": [
       "https://601.thelistener.pk/nba.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "NHL",
@@ -221,7 +221,7 @@
     "streams": [
       "https://601.thelistener.pk/nhl.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "Fighting",
@@ -232,7 +232,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "Motorsports",
@@ -245,7 +245,7 @@
     "streams": [
       "https://601.thelistener.pk/wec.m3u8"
     ],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "Motorsports",
@@ -255,8 +255,10 @@
     "stream_page": "https://roxiestreams.su/f1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "streams": [
+      "https://daffodil.thelistener.pk/f1.m3u8"
+    ],
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "Motorsports",
@@ -266,18 +268,22 @@
     "stream_page": "https://roxiestreams.su/f1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "streams": [
+      "https://daffodil.thelistener.pk/f1.m3u8"
+    ],
+    "scraped_at": "2026-06-12T11:52:36Z"
   },
   {
     "category": "Motorsports",
     "title": "ARCA Menards Series - Race",
-    "start_time": "June 12, 2026 1:00 PM",
+    "start_time": "June 12, 2026 1:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/arca",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-12T04:46:23Z"
+    "streams": [
+      "https://daffodil.thelistener.pk/arca.m3u8"
+    ],
+    "scraped_at": "2026-06-12T11:52:36Z"
   }
 ]

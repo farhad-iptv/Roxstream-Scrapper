@@ -1,51 +1,105 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Maurice Revello Tournament
-https://daffodil.sandhost.dpdns.org/foxd.m3u8
+https://daffodil.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Maurice Revello Tournament (Mirror 1)
+https://daffodil.sandhost.dpdns.org/foxd.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Maurice Revello Tournament (Mirror 2)
 https://daffodil.thelistener.pk/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Qatar vs Switzerland
-https://601.sandhost.dpdns.org/tsn.m3u8
+https://601.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Qatar vs Switzerland (Mirror 1)
+https://601.sandhost.dpdns.org/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Qatar vs Switzerland (Mirror 2)
 https://601.thelistener.pk/tsn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Minnesota Twins
-https://601.sandhost.dpdns.org/mlb.m3u8
+https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Minnesota Twins (Mirror 1)
+https://601.sandhost.dpdns.org/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Minnesota Twins (Mirror 2)
 https://601.thelistener.pk/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Toronto Blue Jays
-https://601.sandhost.dpdns.org/mlb2.m3u8
+https://601.formaturamaxi.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Toronto Blue Jays (Mirror 1)
+https://601.sandhost.dpdns.org/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Toronto Blue Jays (Mirror 2)
 https://601.thelistener.pk/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Baltimore Orioles
+https://601.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Washington Nationals
-https://601.sandhost.dpdns.org/mlb4.m3u8
+https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Washington Nationals (Mirror 1)
+https://601.sandhost.dpdns.org/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Washington Nationals (Mirror 2)
 https://601.thelistener.pk/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Miami Marlins vs Pittsburgh Pirates
+https://601.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs Cincinnati Reds
+https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Detroit Tigers vs Cleveland Guardians
+https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Boston Red Sox
+https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs New York Mets
+https://601.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Chicago White Sox
+https://601.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Kansas City Royals
+https://601.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Milwaukee Brewers
+https://601.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs Athletics
+https://601.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs San Francisco Giants
+https://601.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Los Angeles Angels
+https://601.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",New York Knicks vs San Antonio Spurs
-https://601.sandhost.dpdns.org/nba.m3u8
+https://601.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",New York Knicks vs San Antonio Spurs (Mirror 1)
+https://601.sandhost.dpdns.org/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",New York Knicks vs San Antonio Spurs (Mirror 2)
 https://601.thelistener.pk/nba.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights
-https://601.sandhost.dpdns.org/nhl.m3u8
+https://601.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights (Mirror 1)
+https://601.sandhost.dpdns.org/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights (Mirror 2)
 https://601.thelistener.pk/nhl.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",FURY vs. HALL: Beauty vs. The Beast
-https://601.sandhost.dpdns.org/ppv.m3u8
+https://601.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",FURY vs. HALL: Beauty vs. The Beast (Mirror 1)
+https://601.sandhost.dpdns.org/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",FURY vs. HALL: Beauty vs. The Beast (Mirror 2)
 https://601.thelistener.pk/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Khamzat Chimaev vs. Danis (RAF)
-https://601.sandhost.dpdns.org/ncaa6.m3u8
+https://601.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Khamzat Chimaev vs. Danis (RAF) (Mirror 1)
+https://601.sandhost.dpdns.org/ncaa6.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Khamzat Chimaev vs. Danis (RAF) (Mirror 2)
 https://601.thelistener.pk/ncaa6.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Bam vs. Vargas
-https://601.sandhost.dpdns.org/ppv3.m3u8
+https://601.formaturamaxi.com.br/ppv3.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Bam vs. Vargas (Mirror 1)
+https://601.sandhost.dpdns.org/ppv3.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Bam vs. Vargas (Mirror 2)
 https://601.thelistener.pk/ppv3.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice 3
-https://daffodil.sandhost.dpdns.org/f1.m3u8
+https://daffodil.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice 3 (Mirror 1)
+https://daffodil.sandhost.dpdns.org/f1.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice 3 (Mirror 2)
 https://daffodil.thelistener.pk/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WEC: 24 Hours of Le Mans
-https://601.sandhost.dpdns.org/tnt3.m3u8
+https://601.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WEC: 24 Hours of Le Mans (Mirror 1)
+https://601.sandhost.dpdns.org/tnt3.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WEC: 24 Hours of Le Mans (Mirror 2)
 https://601.thelistener.pk/tnt3.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",AMA Motocross - Qualifying
+https://601.formaturamaxi.com.br/sx.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",AMA Motocross - Qualifying (Mirror 1)
+https://601.sandhost.dpdns.org/sx.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",AMA Motocross - Qualifying (Mirror 2)
+https://601.thelistener.pk/sx.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR O'Reilly Auto Series - Race
 https://w9329432hnf3h34.b-cdn.net/docx/master.m3u8

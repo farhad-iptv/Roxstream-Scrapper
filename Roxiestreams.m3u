@@ -27,6 +27,10 @@ https://601.thelistener.pk/nba.m3u8
 https://601.sandhost.dpdns.org/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Vegas Golden Knights (Mirror 1)
 https://601.thelistener.pk/nhl.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",FURY vs. HALL: Beauty vs. The Beast
+https://601.sandhost.dpdns.org/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",FURY vs. HALL: Beauty vs. The Beast (Mirror 1)
+https://601.thelistener.pk/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Khamzat Chimaev vs. Danis (RAF)
 https://601.sandhost.dpdns.org/ncaa6.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Khamzat Chimaev vs. Danis (RAF) (Mirror 1)

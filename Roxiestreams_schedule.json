@@ -15,7 +15,7 @@
       "https://601.thelistener.pk/bein.m3u8",
       "https://601.thelistener.pk/fox.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Soccer",
@@ -33,7 +33,7 @@
       "https://601.thelistener.pk/bein.m3u8",
       "https://601.thelistener.pk/fox.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Soccer",
@@ -51,7 +51,7 @@
       "https://601.thelistener.pk/bein.m3u8",
       "https://601.thelistener.pk/fox.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Soccer",
@@ -63,13 +63,13 @@
     "epg_id": "Soccer.Dummy.us",
     "streams": [
       "https://602.formaturamaxi.com.br/bbc.m3u8",
-      "https://602.formaturamaxi.com.br/fs1.m3u8",
+      "https://602.formaturamaxi.com.br/fox.m3u8",
       "https://602.formaturamaxi.com.br/tsn.m3u8",
       "https://602.thelistener.pk/bbc.m3u8",
-      "https://602.thelistener.pk/fs1.m3u8",
+      "https://602.thelistener.pk/fox.m3u8",
       "https://602.thelistener.pk/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -83,7 +83,7 @@
       "https://601.formaturamaxi.com.br/mlb.m3u8",
       "https://601.thelistener.pk/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -97,7 +97,7 @@
       "https://601.formaturamaxi.com.br/mlb2.m3u8",
       "https://601.thelistener.pk/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -110,7 +110,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -124,7 +124,7 @@
       "https://601.formaturamaxi.com.br/mlb4.m3u8",
       "https://601.thelistener.pk/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -137,7 +137,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -150,7 +150,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -163,7 +163,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -176,7 +176,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -189,7 +189,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb9.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -202,7 +202,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb10.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -215,7 +215,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb11.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -228,7 +228,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb12.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -241,7 +241,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb13.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -254,7 +254,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb14.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "MLB",
@@ -267,7 +267,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb15.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Fighting",
@@ -281,7 +281,7 @@
       "https://601.formaturamaxi.com.br/wwe.m3u8",
       "https://601.thelistener.pk/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Fighting",
@@ -292,7 +292,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Fighting",
@@ -306,7 +306,7 @@
       "https://601.formaturamaxi.com.br/wwe.m3u8",
       "https://601.thelistener.pk/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   },
   {
     "category": "Motorsports",
@@ -320,6 +320,6 @@
       "https://601.formaturamaxi.com.br/f1.m3u8",
       "https://601.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-16T19:45:49Z"
+    "scraped_at": "2026-06-16T22:22:54Z"
   }
 ]

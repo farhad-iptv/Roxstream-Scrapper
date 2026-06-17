@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal
-https://601.formaturamaxi.com.br/bbc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 1)
 https://601.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 2)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 1)
 https://601.formaturamaxi.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 2)
+https://601.formaturamaxi.com.br/tyc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 3)
-https://601.thelistener.pk/bbc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 4)
 https://601.thelistener.pk/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 5)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 4)
 https://601.thelistener.pk/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Senegal (Mirror 5)
+https://601.thelistener.pk/tyc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Austria vs Jordan
 https://602.formaturamaxi.com.br/bbc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Austria vs Jordan (Mirror 1)

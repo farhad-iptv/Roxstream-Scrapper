@@ -7,8 +7,15 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/bein.m3u8",
+      "https://601.formaturamaxi.com.br/fox.m3u8",
+      "https://601.sandhost.dpdns.org/bein.m3u8",
+      "https://601.sandhost.dpdns.org/fox.m3u8",
+      "https://601.thelistener.pk/bein.m3u8",
+      "https://601.thelistener.pk/fox.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "Soccer",
@@ -18,8 +25,15 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/bein.m3u8",
+      "https://601.formaturamaxi.com.br/fox.m3u8",
+      "https://601.sandhost.dpdns.org/bein.m3u8",
+      "https://601.sandhost.dpdns.org/fox.m3u8",
+      "https://601.thelistener.pk/bein.m3u8",
+      "https://601.thelistener.pk/fox.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "Soccer",
@@ -29,8 +43,15 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://602.formaturamaxi.com.br/fox.m3u8",
+      "https://602.formaturamaxi.com.br/tsn.m3u8",
+      "https://602.sandhost.dpdns.org/fox.m3u8",
+      "https://602.sandhost.dpdns.org/tsn.m3u8",
+      "https://602.thelistener.pk/fox.m3u8",
+      "https://602.thelistener.pk/tsn.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "Soccer",
@@ -40,8 +61,15 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://602.formaturamaxi.com.br/fox.m3u8",
+      "https://602.formaturamaxi.com.br/tsn.m3u8",
+      "https://602.sandhost.dpdns.org/fox.m3u8",
+      "https://602.sandhost.dpdns.org/tsn.m3u8",
+      "https://602.thelistener.pk/fox.m3u8",
+      "https://602.thelistener.pk/tsn.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -51,8 +79,12 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb.m3u8",
+      "https://601.sandhost.dpdns.org/mlb.m3u8",
+      "https://601.thelistener.pk/mlb.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -62,8 +94,12 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb2.m3u8",
+      "https://601.sandhost.dpdns.org/mlb2.m3u8",
+      "https://601.thelistener.pk/mlb2.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -73,8 +109,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb3.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -84,8 +122,12 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb4.m3u8",
+      "https://601.sandhost.dpdns.org/mlb4.m3u8",
+      "https://601.thelistener.pk/mlb4.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -95,8 +137,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb5.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -106,8 +150,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb6.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -117,8 +163,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb7.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -128,8 +176,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb8.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -139,8 +189,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb9.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -150,8 +202,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-10",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb10.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -161,8 +215,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-11",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb11.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -172,8 +228,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-12",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb12.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -183,8 +241,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-13",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb13.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -194,8 +254,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-14",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb14.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "MLB",
@@ -205,8 +267,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-15",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/mlb15.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "Fighting",
@@ -216,8 +280,12 @@
     "stream_page": "https://roxiestreams.su/aew",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/aew.m3u8",
+      "https://601.sandhost.dpdns.org/aew.m3u8",
+      "https://601.thelistener.pk/aew.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "Fighting",
@@ -227,8 +295,12 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/wwe.m3u8",
+      "https://601.sandhost.dpdns.org/wwe.m3u8",
+      "https://601.thelistener.pk/wwe.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   },
   {
     "category": "Motorsports",
@@ -238,7 +310,11 @@
     "stream_page": "https://roxiestreams.su/f1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-06-17T22:10:10Z"
+    "streams": [
+      "https://601.formaturamaxi.com.br/f1.m3u8",
+      "https://601.sandhost.dpdns.org/f1.m3u8",
+      "https://601.thelistener.pk/f1.m3u8"
+    ],
+    "scraped_at": "2026-06-18T04:45:19Z"
   }
 ]

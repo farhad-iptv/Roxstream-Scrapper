@@ -4,19 +4,13 @@ https://601.formaturamaxi.com.br/bbc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 1)
 https://601.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 2)
-https://601.formaturamaxi.com.br/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 3)
 https://601.sandhost.dpdns.org/bbc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 4)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 3)
 https://601.sandhost.dpdns.org/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 5)
-https://601.sandhost.dpdns.org/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 6)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 4)
 https://601.thelistener.pk/bbc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 7)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 5)
 https://601.thelistener.pk/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 8)
-https://601.thelistener.pk/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay
 https://602.formaturamaxi.com.br/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 1)
@@ -29,36 +23,46 @@ https://602.sandhost.dpdns.org/tsn.m3u8
 https://602.thelistener.pk/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 5)
 https://602.thelistener.pk/tsn.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Boston Red Sox
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Boston Red Sox (Mirror 1)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs (Mirror 1)
 https://601.sandhost.dpdns.org/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Boston Red Sox (Mirror 2)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs (Mirror 2)
 https://601.thelistener.pk/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Milwaukee Brewers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
 https://601.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Milwaukee Brewers (Mirror 1)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers (Mirror 1)
 https://601.sandhost.dpdns.org/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Milwaukee Brewers (Mirror 2)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers (Mirror 2)
 https://601.thelistener.pk/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Minnesota Twins vs Texas Rangers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees
 https://601.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Seattle Mariners
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays
 https://601.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Seattle Mariners (Mirror 1)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays (Mirror 1)
 https://601.sandhost.dpdns.org/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Seattle Mariners (Mirror 2)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays (Mirror 2)
 https://601.thelistener.pk/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Philadelphia Phillies
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Miami Marlins
 https://601.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs New York Yankees
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Atlanta Braves
 https://601.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Atlanta Braves
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Texas Rangers
 https://601.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Kansas City Royals
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Houston Astros
 https://601.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs Athletics
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Kansas City Royals
 https://601.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Colorado Rockies
+https://601.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs Athletics
+https://601.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Minnesota Twins vs Arizona Diamondbacks
+https://601.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Los Angeles Dodgers
+https://601.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Seattle Mariners
+https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://601.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW (Mirror 1)
@@ -78,4 +82,4 @@ https://daffodil.sandhost.dpdns.org/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Free Practice (Mirror 2)
 https://daffodil.thelistener.pk/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck - Race
-https://601.formaturamaxi.com.br/nascar.m3u8
+https://daffodil.formaturamaxi.com.br/nascar.m3u8

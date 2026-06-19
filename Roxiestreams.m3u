@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic
-https://601.formaturamaxi.com.br/bein.m3u8
+https://601.formaturamaxi.com.br/bbc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 1)
-https://601.formaturamaxi.com.br/fox.m3u8
+https://601.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 2)
-https://601.sandhost.dpdns.org/bein.m3u8
+https://601.formaturamaxi.com.br/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 3)
-https://601.sandhost.dpdns.org/fox.m3u8
+https://601.sandhost.dpdns.org/bbc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 4)
-https://601.thelistener.pk/bein.m3u8
+https://601.sandhost.dpdns.org/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 5)
+https://601.sandhost.dpdns.org/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 6)
+https://601.thelistener.pk/bbc.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 7)
+https://601.thelistener.pk/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Chech Republic (Mirror 8)
 https://601.thelistener.pk/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Canada vs Qatar
 https://602.formaturamaxi.com.br/fox.m3u8

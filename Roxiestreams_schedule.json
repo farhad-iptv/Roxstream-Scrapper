@@ -1,8 +1,8 @@
 [
   {
     "category": "Soccer",
-    "title": "South Africa vs Chech Republic",
-    "start_time": "June 18, 2026 9:00 AM",
+    "title": "USA vs Australia",
+    "start_time": "June 19, 2026 12:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
@@ -18,12 +18,12 @@
       "https://601.thelistener.pk/bein.m3u8",
       "https://601.thelistener.pk/fox.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Soccer",
-    "title": "Switzerland vs Bosnia & Herzegovina",
-    "start_time": "June 18, 2026 12:00 PM",
+    "title": "Scotland vs Morocco",
+    "start_time": "June 19, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
@@ -39,12 +39,33 @@
       "https://601.thelistener.pk/bein.m3u8",
       "https://601.thelistener.pk/fox.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Soccer",
-    "title": "Canada vs Qatar",
-    "start_time": "June 18, 2026 3:00 PM",
+    "title": "Brazil vs Haiti",
+    "start_time": "June 19, 2026 5:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://601.formaturamaxi.com.br/bbc.m3u8",
+      "https://601.formaturamaxi.com.br/bein.m3u8",
+      "https://601.formaturamaxi.com.br/fox.m3u8",
+      "https://601.sandhost.dpdns.org/bbc.m3u8",
+      "https://601.sandhost.dpdns.org/bein.m3u8",
+      "https://601.sandhost.dpdns.org/fox.m3u8",
+      "https://601.thelistener.pk/bbc.m3u8",
+      "https://601.thelistener.pk/bein.m3u8",
+      "https://601.thelistener.pk/fox.m3u8"
+    ],
+    "scraped_at": "2026-06-19T12:16:51Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Turkey vs Paraguay",
+    "start_time": "June 19, 2026 8:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
@@ -57,28 +78,7 @@
       "https://602.thelistener.pk/fox.m3u8",
       "https://602.thelistener.pk/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Mexico vs Korea Republic",
-    "start_time": "June 18, 2026 6:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/bbc.m3u8",
-      "https://601.formaturamaxi.com.br/bein.m3u8",
-      "https://601.formaturamaxi.com.br/fox.m3u8",
-      "https://601.sandhost.dpdns.org/bbc.m3u8",
-      "https://601.sandhost.dpdns.org/bein.m3u8",
-      "https://601.sandhost.dpdns.org/fox.m3u8",
-      "https://601.thelistener.pk/bbc.m3u8",
-      "https://601.thelistener.pk/bein.m3u8",
-      "https://601.thelistener.pk/fox.m3u8"
-    ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -93,7 +93,7 @@
       "https://601.sandhost.dpdns.org/mlb.m3u8",
       "https://601.thelistener.pk/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -108,7 +108,7 @@
       "https://601.sandhost.dpdns.org/mlb2.m3u8",
       "https://601.thelistener.pk/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -121,7 +121,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -136,7 +136,7 @@
       "https://601.sandhost.dpdns.org/mlb4.m3u8",
       "https://601.thelistener.pk/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -149,7 +149,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -162,7 +162,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -175,7 +175,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -188,7 +188,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "MLB",
@@ -201,7 +201,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb9.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Fighting",
@@ -216,7 +216,7 @@
       "https://601.sandhost.dpdns.org/aew.m3u8",
       "https://601.thelistener.pk/aew.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Fighting",
@@ -231,7 +231,7 @@
       "https://601.sandhost.dpdns.org/wwe.m3u8",
       "https://601.thelistener.pk/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Motorsports",
@@ -242,7 +242,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Motorsports",
@@ -257,7 +257,7 @@
       "https://daffodil.sandhost.dpdns.org/f1.m3u8",
       "https://daffodil.thelistener.pk/f1.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   },
   {
     "category": "Motorsports",
@@ -270,6 +270,6 @@
     "streams": [
       "https://601.formaturamaxi.com.br/nascar.m3u8"
     ],
-    "scraped_at": "2026-06-19T05:03:36Z"
+    "scraped_at": "2026-06-19T12:16:51Z"
   }
 ]

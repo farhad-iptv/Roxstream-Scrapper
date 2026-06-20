@@ -1,48 +1,30 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia
-https://601.formaturamaxi.com.br/bbc.m3u8
+https://ataide0.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 1)
-https://601.formaturamaxi.com.br/bein.m3u8
+https://ataide0.formaturamaxi.com.br/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 2)
-https://601.sandhost.dpdns.org/bbc.m3u8
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 3)
-https://601.sandhost.dpdns.org/bein.m3u8
+https://ataide0.smalic.com/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 4)
-https://601.thelistener.pk/bbc.m3u8
+https://ataide0.smalic.com/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Australia (Mirror 5)
-https://601.thelistener.pk/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay
-https://602.formaturamaxi.com.br/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 1)
-https://602.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 2)
-https://602.sandhost.dpdns.org/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 3)
-https://602.sandhost.dpdns.org/tsn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 4)
-https://602.thelistener.pk/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Paraguay (Mirror 5)
-https://602.thelistener.pk/tsn.m3u8
+https://ataide0.smalic.com/tsn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs (Mirror 1)
-https://601.sandhost.dpdns.org/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs (Mirror 2)
-https://601.thelistener.pk/mlb.m3u8
+https://601.smalic.com/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
 https://601.formaturamaxi.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers (Mirror 1)
-https://601.sandhost.dpdns.org/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers (Mirror 2)
-https://601.thelistener.pk/mlb2.m3u8
+https://601.smalic.com/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees
 https://601.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays
 https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays (Mirror 1)
-https://601.sandhost.dpdns.org/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays (Mirror 2)
-https://601.thelistener.pk/mlb4.m3u8
+https://601.smalic.com/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Miami Marlins
 https://601.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Atlanta Braves
@@ -66,20 +48,14 @@ https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://601.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW (Mirror 1)
-https://601.sandhost.dpdns.org/aew.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW (Mirror 2)
-https://601.thelistener.pk/aew.m3u8
+https://601.smalic.com/aew.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
-https://601.formaturamaxi.com.br/wwe.m3u8
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown (Mirror 1)
-https://601.sandhost.dpdns.org/wwe.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown (Mirror 2)
-https://601.thelistener.pk/wwe.m3u8
+https://daffodil.smalic.com/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Free Practice
 https://daffodil.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Free Practice (Mirror 1)
-https://daffodil.sandhost.dpdns.org/f1.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Free Practice (Mirror 2)
-https://daffodil.thelistener.pk/f1.m3u8
+https://daffodil.smalic.com/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck - Race
 https://daffodil.formaturamaxi.com.br/nascar.m3u8

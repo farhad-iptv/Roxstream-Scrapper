@@ -1,29 +1,41 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden
-https://ataide0.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 1)
-https://ataide0.formaturamaxi.com.br/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 2)
 https://ataide0.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 3)
-https://ataide0.smalic.com/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 4)
-https://ataide0.smalic.com/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 5)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 1)
+https://ataide0.nawapholengineering.co.th/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Sweden (Mirror 2)
 https://ataide0.smalic.com/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Malaga
+https://ataide0.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Malaga (Mirror 1)
+https://ataide0.nawapholengineering.co.th/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Malaga (Mirror 2)
+https://ataide0.nawapholengineering.co.th/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Malaga (Mirror 3)
+https://ataide0.smalic.com/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AlmerÃ­a vs Malaga (Mirror 4)
+https://ataide0.smalic.com/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ecuador vs Curacao
+https://ataide0.formaturamaxi.com.br/fox.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers (Mirror 1)
+https://601.nawapholengineering.co.th/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers (Mirror 2)
 https://601.smalic.com/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees
 https://601.formaturamaxi.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees (Mirror 1)
+https://601.nawapholengineering.co.th/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees (Mirror 2)
 https://601.smalic.com/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Chicago Cubs
 https://601.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Texas Rangers
 https://601.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Texas Rangers (Mirror 1)
+https://601.nawapholengineering.co.th/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Texas Rangers (Mirror 2)
 https://601.smalic.com/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Tampa Bay Rays
 https://601.formaturamaxi.com.br/mlb5.m3u8
@@ -48,28 +60,40 @@ https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Garner vs. Magnesi
 https://601.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Garner vs. Magnesi (Mirror 1)
+https://601.nawapholengineering.co.th/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Garner vs. Magnesi (Mirror 2)
 https://601.smalic.com/ppv.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2
 https://602.formaturamaxi.com.br/happybirthdayabb.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2 (Mirror 1)
 https://602.formaturamaxi.com.br/ufc.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2 (Mirror 2)
-https://602.smalic.com/happybirthdayabb.m3u8
+https://602.nawapholengineering.co.th/happybirthdayabb.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2 (Mirror 3)
-https://602.smalic.com/ufc.m3u8
+https://602.nawapholengineering.co.th/ufc.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2 (Mirror 4)
+https://602.smalic.com/happybirthdayabb.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2 (Mirror 5)
+https://602.smalic.com/ufc.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC FN: Kape vs. Horiguchi 2 (Mirror 6)
 https://ataide0.cloudhostar.com/stream/38.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://601.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
+https://601.nawapholengineering.co.th/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 2)
 https://601.smalic.com/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Coverage
 https://601.formaturamaxi.com.br/indy.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Coverage (Mirror 1)
+https://601.nawapholengineering.co.th/indy.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Coverage (Mirror 2)
 https://601.smalic.com/indy.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR O'Reilly Auto Parts - Race
 https://601.formaturamaxi.com.br/nascar.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race
 https://601.formaturamaxi.com.br/arca.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race (Mirror 1)
+https://601.nawapholengineering.co.th/arca.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race (Mirror 2)
 https://601.smalic.com/arca.m3u8

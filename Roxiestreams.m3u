@@ -5,6 +5,8 @@ https://ataide0.sman1asjap.my.id/bein.m3u8
 https://ataide0.sman1asjap.my.id/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Saudi Arabia (Mirror 2)
 https://ataide0.sman1asjap.my.id/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Saudi Arabia (Mirror 3)
+https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/6bbb3f01ec11e5b10e4369978f011941/manifest/video.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs Iran
 https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees

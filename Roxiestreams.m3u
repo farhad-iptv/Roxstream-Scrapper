@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Saudi Arabia
-https://ataide0.sman1asjap.my.id/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Saudi Arabia (Mirror 1)
-https://ataide0.sman1asjap.my.id/fox.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Saudi Arabia (Mirror 2)
 https://ataide0.sman1asjap.my.id/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs Iran
+https://ataide0.sman1asjap.my.id/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs Iran (Mirror 1)
+https://ataide0.sman1asjap.my.id/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs Iran (Mirror 2)
 https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs New York Yankees
 https://601.sman1asjap.my.id/mlb.m3u8

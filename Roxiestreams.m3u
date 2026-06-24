@@ -1,1 +1,111 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Uzbekistan
+https://ataide0.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Uzbekistan (Mirror 1)
+https://ataide0.formaturamaxi.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Uzbekistan (Mirror 2)
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Uzbekistan (Mirror 3)
+https://ataide0.mercadodavoz.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Uzbekistan (Mirror 4)
+https://ataide0.mercadodavoz.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Uzbekistan (Mirror 5)
+https://ataide0.mercadodavoz.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colombia vs Congo DR
+https://ataide0.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colombia vs Congo DR (Mirror 1)
+https://ataide0.mercadodavoz.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays
+https://601.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 1)
+https://601.formaturamaxi.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 2)
+https://601.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 3)
+https://601.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 4)
+https://601.formaturamaxi.com.br/tele.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 5)
+https://601.mercadodavoz.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 6)
+https://601.mercadodavoz.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 7)
+https://601.mercadodavoz.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 8)
+https://601.mercadodavoz.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Toronto Blue Jays (Mirror 9)
+https://601.mercadodavoz.com.br/tele.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Pittsburgh Pirates
+https://601.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Pittsburgh Pirates (Mirror 1)
+https://601.mercadodavoz.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Tampa Bay Rays
+https://601.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins
+https://601.formaturamaxi.com.br/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins (Mirror 1)
+https://601.mercadodavoz.com.br/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Detroit Tigers
+https://601.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Washington Nationals
+https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs New York Mets
+https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Cincinnati Reds
+https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Minnesota Twins
+https://601.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
+https://601.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs St. Louis Cardinals
+https://601.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Colorado Rockies
+https://601.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Los Angeles Angels
+https://601.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs San Diego Padres
+https://601.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Athletics vs San Francisco Giants
+https://601.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026
+https://602.formaturamaxi.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 1)
+https://602.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 2)
+https://602.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 3)
+https://602.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 4)
+https://602.mercadodavoz.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 5)
+https://602.mercadodavoz.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 6)
+https://602.mercadodavoz.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",NBA Draft 2026 (Mirror 7)
+https://602.mercadodavoz.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
+https://daffodil.formaturamaxi.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 1)
+https://daffodil.formaturamaxi.com.br/tele.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 2)
+https://daffodil.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 3)
+https://daffodil.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 4)
+https://daffodil.mercadodavoz.com.br/fox.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 5)
+https://daffodil.mercadodavoz.com.br/tele.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 6)
+https://daffodil.mercadodavoz.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 7)
+https://daffodil.mercadodavoz.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
+https://601.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
+https://601.mercadodavoz.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MXGP (MX2) - Race
+https://601.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - XPEDL Grand Prix
+https://601.formaturamaxi.com.br/indy.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - XPEDL Grand Prix (Mirror 1)
+https://601.mercadodavoz.com.br/indy.m3u8

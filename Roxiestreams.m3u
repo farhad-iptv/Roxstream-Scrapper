@@ -1,7 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Switzerland vs Canada
-https://ataide0.formaturamaxi.com.br/tsn.m3u8
+https://ataide0.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Switzerland vs Canada (Mirror 1)
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Switzerland vs Canada (Mirror 2)
+https://ataide0.mercadodavoz.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Switzerland vs Canada (Mirror 3)
 https://ataide0.mercadodavoz.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bosnia & Herzegovina vs Qatar
 https://602.formaturamaxi.com.br/fs1.m3u8
@@ -16,9 +20,13 @@ https://601.formaturamaxi.com.br/fs1.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins (Mirror 1)
 https://601.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins (Mirror 2)
-https://601.mercadodavoz.com.br/fs1.m3u8
+https://601.formaturamaxi.com.br/universo.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins (Mirror 3)
+https://601.mercadodavoz.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins (Mirror 4)
 https://601.mercadodavoz.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Miami Marlins (Mirror 5)
+https://601.mercadodavoz.com.br/universo.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs New York Mets
 https://601.formaturamaxi.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs New York Mets (Mirror 1)

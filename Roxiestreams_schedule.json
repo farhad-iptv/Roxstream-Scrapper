@@ -1,24 +1,8 @@
 [
   {
     "category": "Soccer",
-    "title": "Switzerland vs Canada",
-    "start_time": "June 24, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://ataide0.formaturamaxi.com.br/bein.m3u8",
-      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
-      "https://ataide0.mercadodavoz.com.br/bein.m3u8",
-      "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Bosnia & Herzegovina vs Qatar",
-    "start_time": "June 24, 2026 12:00 PM",
+    "title": "CuraÃ§ao vs Ivory Coast",
+    "start_time": "June 25, 2026 1:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
@@ -29,12 +13,40 @@
       "https://602.mercadodavoz.com.br/fs1.m3u8",
       "https://602.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Soccer",
-    "title": "Morocco vs Haiti",
-    "start_time": "June 24, 2026 3:00 PM",
+    "title": "Ecuador vs Germany",
+    "start_time": "June 25, 2026 1:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
+      "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-06-25T10:51:58Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Tunisia vs Netherlands",
+    "start_time": "June 25, 2026 4:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
+      "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-06-25T10:51:58Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Japan vs Sweden",
+    "start_time": "June 25, 2026 4:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
@@ -45,28 +57,12 @@
       "https://602.mercadodavoz.com.br/fs1.m3u8",
       "https://602.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Soccer",
-    "title": "Scotland vs Brazil",
-    "start_time": "June 24, 2026 3:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://ataide0.formaturamaxi.com.br/bein.m3u8",
-      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
-      "https://ataide0.mercadodavoz.com.br/bein.m3u8",
-      "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "South Africa vs South Korea",
-    "start_time": "June 24, 2026 6:00 PM",
+    "title": "Paraguay vs Australia",
+    "start_time": "June 25, 2026 7:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
@@ -77,28 +73,26 @@
       "https://602.mercadodavoz.com.br/fs1.m3u8",
       "https://602.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Soccer",
-    "title": "Mexico vs Czech",
-    "start_time": "June 24, 2026 6:00 PM",
+    "title": "Turkey vs USA",
+    "start_time": "June 25, 2026 7:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://ataide0.formaturamaxi.com.br/bein.m3u8",
       "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
-      "https://ataide0.mercadodavoz.com.br/bein.m3u8",
       "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Texas Rangers vs Miami Marlins",
-    "start_time": "June 24, 2026 09:10 AM",
+    "title": "Kansas City Royals vs Tampa Bay Rays",
+    "start_time": "June 25, 2026 09:10 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
@@ -107,12 +101,12 @@
       "https://601.formaturamaxi.com.br/mlb.m3u8",
       "https://601.mercadodavoz.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Chicago Cubs vs New York Mets",
-    "start_time": "June 24, 2026 10:10 AM",
+    "title": "Seattle Mariners vs Pittsburgh Pirates",
+    "start_time": "June 25, 2026 09:35 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
@@ -121,12 +115,12 @@
       "https://601.formaturamaxi.com.br/mlb2.m3u8",
       "https://601.mercadodavoz.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Chicago Cubs vs New York Mets",
-    "start_time": "June 24, 2026 04:10 PM",
+    "title": "Athletics vs San Francisco Giants",
+    "start_time": "June 25, 2026 12:45 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
@@ -134,12 +128,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "start_time": "June 24, 2026 11:10 AM",
+    "title": "Houston Astros vs Detroit Tigers",
+    "start_time": "June 25, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
@@ -148,12 +142,12 @@
       "https://601.formaturamaxi.com.br/mlb4.m3u8",
       "https://601.mercadodavoz.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Boston Red Sox vs Colorado Rockies",
-    "start_time": "June 24, 2026 12:10 PM",
+    "title": "Philadelphia Phillies vs Washington Nationals",
+    "start_time": "June 25, 2026 03:45 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
@@ -161,12 +155,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Baltimore Orioles vs Los Angeles Angels",
-    "start_time": "June 24, 2026 01:07 PM",
+    "title": "Texas Rangers vs Toronto Blue Jays",
+    "start_time": "June 25, 2026 04:07 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
@@ -174,12 +168,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Seattle Mariners vs Pittsburgh Pirates",
-    "start_time": "June 24, 2026 03:40 PM",
+    "title": "Chicago Cubs vs New York Mets",
+    "start_time": "June 25, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
@@ -187,12 +181,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "Kansas City Royals vs Tampa Bay Rays",
-    "start_time": "June 24, 2026 03:40 PM",
+    "title": "New York Yankees vs Boston Red Sox",
+    "start_time": "June 25, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
@@ -200,12 +194,12 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "MLB",
-    "title": "New York Yankees vs Detroit Tigers",
-    "start_time": "June 24, 2026 03:40 PM",
+    "title": "Arizona Diamondbacks vs St. Louis Cardinals",
+    "start_time": "June 25, 2026 04:45 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
@@ -213,141 +207,32 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb9.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
-    "category": "MLB",
-    "title": "Philadelphia Phillies vs Washington Nationals",
-    "start_time": "June 24, 2026 03:45 PM",
+    "category": "NHL",
+    "title": "NHL Draft 2026",
+    "start_time": "June 26, 2026 4:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-10",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb10.m3u8",
-      "https://601.formaturamaxi.com.br/mlb9.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Houston Astros vs Toronto Blue Jays",
-    "start_time": "June 24, 2026 04:07 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-11",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb11.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "start_time": "June 24, 2026 04:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-12",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb12.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Los Angeles Dodgers vs Minnesota Twins",
-    "start_time": "June 24, 2026 04:40 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-13",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb13.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Arizona Diamondbacks vs St. Louis Cardinals",
-    "start_time": "June 24, 2026 04:45 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-14",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb14.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Atlanta Braves vs San Diego Padres",
-    "start_time": "June 24, 2026 05:40 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-15",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb15.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Athletics vs San Francisco Giants",
-    "start_time": "June 24, 2026 06:45 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-16",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://601.formaturamaxi.com.br/mlb16.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "NBA",
-    "title": "NBA Draft 2026",
-    "start_time": "June 24, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-1",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://daffodil.formaturamaxi.com.br/nba.m3u8",
-      "https://daffodil.mercadodavoz.com.br/nba.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "stream_page": "https://roxiestreams.su/nhl-streams-1",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Fighting",
-    "title": "Crocker vs. Paro",
-    "start_time": "June 24, 2026 2:30 AM",
+    "title": "WWE Smackdown",
+    "start_time": "June 26, 2026 5:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
-    "epg_id": "Combat.Sports.Dummy.us",
+    "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [
-      "https://601.formaturamaxi.com.br/ppv.m3u8",
-      "https://601.mercadodavoz.com.br/ppv.m3u8"
+      "https://daffodil.formaturamaxi.com.br/wwe.m3u8",
+      "https://daffodil.mercadodavoz.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "AEW",
-    "start_time": "June 24, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/aew",
-    "group": "Combat Sports",
-    "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://daffodil.formaturamaxi.com.br/aew.m3u8",
-      "https://daffodil.mercadodavoz.com.br/aew.m3u8"
-    ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -361,7 +246,7 @@
       "https://601.formaturamaxi.com.br/tnt2.m3u8",
       "https://601.mercadodavoz.com.br/tnt2.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -374,7 +259,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -385,7 +270,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -398,7 +283,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -411,7 +296,7 @@
     "streams": [
       "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -427,7 +312,7 @@
       "https://601.mercadodavoz.com.br/fox.m3u8",
       "https://601.mercadodavoz.com.br/indy.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   },
   {
     "category": "Motorsports",
@@ -440,6 +325,6 @@
     "streams": [
       "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T04:11:15Z"
+    "scraped_at": "2026-06-25T10:51:58Z"
   }
 ]

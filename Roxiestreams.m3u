@@ -8,8 +8,12 @@ https://602.mercadodavoz.com.br/fs1.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CuraÃ§ao vs Ivory Coast (Mirror 3)
 https://602.mercadodavoz.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ecuador vs Germany
-https://ataide0.formaturamaxi.com.br/tsn.m3u8
+https://ataide0.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ecuador vs Germany (Mirror 1)
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ecuador vs Germany (Mirror 2)
+https://ataide0.mercadodavoz.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ecuador vs Germany (Mirror 3)
 https://ataide0.mercadodavoz.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Tampa Bay Rays
 https://601.formaturamaxi.com.br/mlb.m3u8

@@ -13,7 +13,7 @@
       "https://602.mercadodavoz.com.br/fs1.m3u8",
       "https://602.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Soccer",
@@ -27,7 +27,7 @@
       "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
       "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Soccer",
@@ -41,7 +41,7 @@
       "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
       "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Soccer",
@@ -57,7 +57,7 @@
       "https://602.mercadodavoz.com.br/fs1.m3u8",
       "https://602.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Soccer",
@@ -73,7 +73,7 @@
       "https://602.mercadodavoz.com.br/fs1.m3u8",
       "https://602.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Soccer",
@@ -87,7 +87,7 @@
       "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
       "https://ataide0.mercadodavoz.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -101,7 +101,7 @@
       "https://601.formaturamaxi.com.br/mlb.m3u8",
       "https://601.mercadodavoz.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -115,7 +115,7 @@
       "https://601.formaturamaxi.com.br/mlb2.m3u8",
       "https://601.mercadodavoz.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -128,7 +128,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -142,7 +142,7 @@
       "https://601.formaturamaxi.com.br/mlb4.m3u8",
       "https://601.mercadodavoz.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -155,7 +155,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -168,7 +168,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -181,7 +181,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -194,7 +194,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "MLB",
@@ -207,7 +207,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mlb9.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "NHL",
@@ -218,7 +218,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Fighting",
@@ -232,7 +232,7 @@
       "https://daffodil.formaturamaxi.com.br/wwe.m3u8",
       "https://daffodil.mercadodavoz.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -246,7 +246,7 @@
       "https://601.formaturamaxi.com.br/tnt2.m3u8",
       "https://601.mercadodavoz.com.br/tnt2.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -259,7 +259,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -270,7 +270,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -283,7 +283,7 @@
     "streams": [
       "https://601.formaturamaxi.com.br/mxgp.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -296,7 +296,7 @@
     "streams": [
       "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -312,7 +312,7 @@
       "https://601.mercadodavoz.com.br/fox.m3u8",
       "https://601.mercadodavoz.com.br/indy.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   },
   {
     "category": "Motorsports",
@@ -325,6 +325,6 @@
     "streams": [
       "https://daffodil.formaturamaxi.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-06-25T10:51:58Z"
+    "scraped_at": "2026-06-25T14:47:10Z"
   }
 ]

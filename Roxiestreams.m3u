@@ -71,6 +71,10 @@ https://602.formaturamaxi.com.br/ufc.m3u8
 https://602.elugohome.com/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Night of Champions (Mirror 1)
 https://602.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ZAYAS vs BOOTS
+https://602.elugohome.com/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ZAYAS vs BOOTS (Mirror 1)
+https://602.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://602.elugohome.com/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)

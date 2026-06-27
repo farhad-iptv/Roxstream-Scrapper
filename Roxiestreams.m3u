@@ -1,7 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Panama vs England
-https://ataide0.elugohome.com/tsn.m3u8
+https://ataide0.elugohome.com/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Panama vs England (Mirror 1)
+https://ataide0.elugohome.com/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Panama vs England (Mirror 2)
+https://ataide0.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Panama vs England (Mirror 3)
 https://ataide0.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Croatia vs Ghana
 https://602.elugohome.com/fs1.m3u8
@@ -60,8 +64,12 @@ https://602.elugohome.com/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
 https://602.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice 3
-https://601.elugohome.com/f1.m3u8
+https://602.elugohome.com/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice 3 (Mirror 1)
-https://601.formaturamaxi.com.br/f1.m3u8
+https://602.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR O'Reilly Auto Parts - Race
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
+https://602.formaturamaxi.com.br/nas.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race
+https://602.elugohome.com/arca.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race (Mirror 1)
+https://602.formaturamaxi.com.br/arca.m3u8

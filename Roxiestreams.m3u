@@ -1,3 +1,31 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Cup Series - Race
-https://out-of-touch.b-cdn.net/out/v2/95780e3db403b88783afd6a7100e204d/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Canada
+https://ataide0.sman1asjap.my.id/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Africa vs Canada (Mirror 1)
+https://ataide0.sman1asjap.my.id/tsn.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Baltimore Orioles
+https://602.sman1asjap.my.id/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs Pittsburgh Pirates
+https://602.sman1asjap.my.id/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Detroit Tigers
+https://602.sman1asjap.my.id/mlb4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",NHL Draft 2026
+https://602.sman1asjap.my.id/nhl.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA Slammiversary
+https://602.sman1asjap.my.id/ppv2.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Zuffa Boxing 8: De Los Santos vs. Valenzuela
+https://602.sman1asjap.my.id/ppv.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT: The Great American Bash
+https://602.sman1asjap.my.id/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW Forbidden Door
+https://602.sman1asjap.my.id/aew.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
+https://602.sman1asjap.my.id/ncaa5.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
+https://602.sman1asjap.my.id/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Austrian Grand Prix
+https://602.sman1asjap.my.id/bein.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Austrian Grand Prix (Mirror 1)
+https://602.sman1asjap.my.id/f1.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Austrian Grand Prix (Mirror 2)
+https://602.sman1asjap.my.id/tsn.m3u8

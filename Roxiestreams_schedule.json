@@ -7,8 +7,10 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "streams": [
+      "https://customer-k7esp6o17le0nad2.cloudflarestream.com/6fcc2bb9e6c42c36aa777ca52ec5de1e/manifest/video.m3u8"
+    ],
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Soccer",
@@ -18,8 +20,10 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "streams": [
+      "https://customer-k7esp6o17le0nad2.cloudflarestream.com/6fcc2bb9e6c42c36aa777ca52ec5de1e/manifest/video.m3u8"
+    ],
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Soccer",
@@ -29,8 +33,10 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "streams": [
+      "https://customer-k7esp6o17le0nad2.cloudflarestream.com/6fcc2bb9e6c42c36aa777ca52ec5de1e/manifest/video.m3u8"
+    ],
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -41,7 +47,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -52,7 +58,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -63,7 +69,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -74,7 +80,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -85,7 +91,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -96,7 +102,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -107,7 +113,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -118,7 +124,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "MLB",
@@ -129,7 +135,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "NHL",
@@ -140,7 +146,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Fighting",
@@ -151,7 +157,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Motorsports",
@@ -162,7 +168,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Motorsports",
@@ -173,7 +179,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Motorsports",
@@ -184,7 +190,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Motorsports",
@@ -195,7 +201,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Motorsports",
@@ -206,7 +212,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   },
   {
     "category": "Motorsports",
@@ -217,6 +223,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-02T21:18:19Z"
+    "scraped_at": "2026-07-03T03:52:42Z"
   }
 ]

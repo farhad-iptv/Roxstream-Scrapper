@@ -1,190 +1,190 @@
 [
   {
     "category": "Soccer",
-    "title": "Australia vs Egypt",
-    "start_time": "July 3, 2026 11:00 AM",
+    "title": "Canada vs Morocco",
+    "start_time": "July 4, 2026 10:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "Soccer",
-    "title": "River Plate vs Flamengo",
-    "start_time": "July 3, 2026 11:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-2",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Argentina vs Cape Verde",
-    "start_time": "July 3, 2026 3:00 PM",
+    "title": "Paraguay vs France",
+    "start_time": "July 4, 2026 2:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Colombia vs Ghana",
-    "start_time": "July 3, 2026 6:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "St. Louis Cardinals vs Chicago Cubs",
-    "start_time": "July 3, 2026 01:05 PM",
+    "title": "Pittsburgh Pirates vs Washington Nationals",
+    "start_time": "July 4, 2026 08:05 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Pittsburgh Pirates vs Washington Nationals",
-    "start_time": "July 3, 2026 03:45 PM",
+    "title": "Minnesota Twins vs New York Yankees",
+    "start_time": "July 4, 2026 10:35 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Minnesota Twins vs New York Yankees",
-    "start_time": "July 3, 2026 04:05 PM",
+    "title": "Detroit Tigers vs Texas Rangers",
+    "start_time": "July 4, 2026 01:05 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Baltimore Orioles vs Cincinnati Reds",
-    "start_time": "July 3, 2026 04:10 PM",
+    "title": "Toronto Blue Jays vs Seattle Mariners",
+    "start_time": "July 4, 2026 01:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Chicago White Sox vs Cleveland Guardians",
-    "start_time": "July 3, 2026 04:10 PM",
+    "title": "Baltimore Orioles vs Cincinnati Reds",
+    "start_time": "July 4, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "New York Mets vs Atlanta Braves",
-    "start_time": "July 3, 2026 04:15 PM",
+    "title": "Tampa Bay Rays vs Houston Astros",
+    "start_time": "July 4, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "San Francisco Giants vs Colorado Rockies",
-    "start_time": "July 3, 2026 05:10 PM",
+    "title": "Chicago White Sox vs Cleveland Guardians",
+    "start_time": "July 4, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Tampa Bay Rays vs Houston Astros",
-    "start_time": "July 3, 2026 05:15 PM",
+    "title": "St. Louis Cardinals vs Chicago Cubs",
+    "start_time": "July 4, 2026 05:08 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Boston Red Sox vs Los Angeles Angels",
-    "start_time": "July 3, 2026 06:38 PM",
+    "title": "New York Mets vs Atlanta Braves",
+    "start_time": "July 4, 2026 05:08 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Miami Marlins vs Athletics",
-    "start_time": "July 3, 2026 06:40 PM",
+    "title": "San Francisco Giants vs Colorado Rockies",
+    "start_time": "July 4, 2026 05:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-10",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Milwaukee Brewers vs Arizona Diamondbacks",
-    "start_time": "July 3, 2026 06:45 PM",
+    "title": "Philadelphia Phillies vs Kansas City Royals",
+    "start_time": "July 4, 2026 05:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-11",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "San Diego Padres vs Los Angeles Dodgers",
-    "start_time": "July 3, 2026 07:10 PM",
+    "title": "Boston Red Sox vs Los Angeles Angels",
+    "start_time": "July 4, 2026 06:38 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-12",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "MLB",
-    "title": "Toronto Blue Jays vs Seattle Mariners",
-    "start_time": "July 3, 2026 07:10 PM",
+    "title": "Miami Marlins vs Athletics",
+    "start_time": "July 4, 2026 06:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-13",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Milwaukee Brewers vs Arizona Diamondbacks",
+    "start_time": "July 4, 2026 06:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "MLB",
+    "title": "San Diego Padres vs Los Angeles Dodgers",
+    "start_time": "July 4, 2026 07:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-15",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "NHL",
@@ -195,61 +195,94 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "Fighting",
-    "title": "Scull vs. Castillo",
-    "start_time": "July 3, 2026 8:00 AM",
+    "title": "Mason vs. Bell: The Fight",
+    "start_time": "July 4, 2026 4:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/ppv-streams-1",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "WWE Smackdown",
-    "start_time": "July 3, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
   },
   {
     "category": "Motorsports",
-    "title": "Formula 1 - Free Practice",
-    "start_time": "July 3, 2026 4:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/f1",
-    "group": "Motorsports",
-    "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
-  },
-  {
-    "category": "Motorsports",
-    "title": "Formula 1 - Sprint Quali",
-    "start_time": "July 3, 2026 8:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/f1",
-    "group": "Motorsports",
-    "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
-  },
-  {
-    "category": "Motorsports",
-    "title": "Indycar Series - Coverage",
-    "start_time": "July 3, 2026 12:05 PM",
+    "title": "INDY NXT - Coverage",
+    "start_time": "July 4, 2026 6:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/indycar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-04T10:20:58Z"
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "AMA Motocross - Qualifying",
+    "start_time": "July 4, 2026 7:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/supercross",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "Indycar Series - Free Practice",
+    "start_time": "July 4, 2026 7:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/indycar",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "Formula 1 - Qualifying",
+    "start_time": "July 4, 2026 8:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/f1",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "AMA Motocross - Race",
+    "start_time": "July 4, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/supercross",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "NASCAR O'Reilly Auto Parts Series - Race",
+    "start_time": "July 4, 2026 2:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nascar",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "8 Hours of Suzuka",
+    "start_time": "July 4, 2026 7:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/wec",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-04T13:50:48Z"
   }
 ]

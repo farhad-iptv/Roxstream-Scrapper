@@ -7,10 +7,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
-    ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Soccer",
@@ -20,10 +18,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
-    ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -34,9 +30,13 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/mlb.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -47,9 +47,13 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/mlb2.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -59,10 +63,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
-    ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -73,9 +75,13 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/mlb4.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -85,10 +91,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://mxbluejays.s3.us-east-1.amazonaws.com/bbc2_1080p30.m3u8"
-    ],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -99,7 +103,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -110,7 +114,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "MLB",
@@ -121,7 +125,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NBA",
@@ -131,8 +135,12 @@
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://tedesco.leonardoitalianrestaurant.com/nba.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NBA",
@@ -142,8 +150,12 @@
     "stream_page": "https://roxiestreams.su/nba-streams-2",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://tedesco.leonardoitalianrestaurant.com/nba2.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NBA",
@@ -153,8 +165,12 @@
     "stream_page": "https://roxiestreams.su/nba-streams-3",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://tedesco.leonardoitalianrestaurant.com/nba3.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NBA",
@@ -164,8 +180,12 @@
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://tedesco.leonardoitalianrestaurant.com/nba.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NBA",
@@ -175,8 +195,12 @@
     "stream_page": "https://roxiestreams.su/nba-streams-3",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://tedesco.leonardoitalianrestaurant.com/nba3.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NBA",
@@ -186,8 +210,12 @@
     "stream_page": "https://roxiestreams.su/nba-streams-2",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://tedesco.leonardoitalianrestaurant.com/nba2.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "NHL",
@@ -197,8 +225,14 @@
     "stream_page": "https://roxiestreams.su/nhl-streams-1",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/nhl.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Fighting",
@@ -208,8 +242,14 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/wwe.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Motorsports",
@@ -220,7 +260,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Motorsports",
@@ -231,7 +271,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Motorsports",
@@ -241,8 +281,14 @@
     "stream_page": "https://roxiestreams.su/f1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/f1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Motorsports",
@@ -252,8 +298,13 @@
     "stream_page": "https://roxiestreams.su/indycar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "streams": [
+      "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
+      "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T04:02:42Z"
   },
   {
     "category": "Motorsports",
@@ -264,6 +315,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-06T21:57:15Z"
+    "scraped_at": "2026-07-07T04:02:42Z"
   }
 ]

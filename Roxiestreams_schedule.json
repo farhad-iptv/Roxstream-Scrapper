@@ -1,221 +1,333 @@
 [
   {
     "category": "Soccer",
-    "title": "Portugal vs Spain",
-    "start_time": "July 6, 2026 12:00 PM",
+    "title": "Argentina vs Egypt",
+    "start_time": "July 7, 2026 9:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Soccer",
-    "title": "USA vs Belgium",
-    "start_time": "July 6, 2026 5:00 PM",
+    "title": "Shelbourne vs Celtic",
+    "start_time": "July 7, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-2",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.formaturamaxi.com.br/fla.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tele.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tsn.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/fla.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
+      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Switzerland vs Colombia",
+    "start_time": "July 7, 2026 1:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "Philadelphia Phillies vs Kansas City Royals",
-    "start_time": "July 6, 2026 11:10 AM",
+    "title": "Milwaukee Brewers vs St. Louis Cardinals",
+    "start_time": "July 7, 2026 11:15 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/mlb.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/mlb.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "New York Yankees vs Tampa Bay Rays",
-    "start_time": "July 6, 2026 03:40 PM",
+    "title": "Milwaukee Brewers vs St. Louis Cardinals",
+    "start_time": "July 7, 2026 04:45 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/mlb2.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/mlb2.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "Houston Astros vs Washington Nationals",
-    "start_time": "July 6, 2026 03:45 PM",
+    "title": "Chicago Cubs vs Baltimore Orioles",
+    "start_time": "July 7, 2026 03:35 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb3.m3u8",
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "New York Mets vs Atlanta Braves",
-    "start_time": "July 6, 2026 04:15 PM",
+    "title": "Athletics vs Detroit Tigers",
+    "start_time": "July 7, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/mlb4.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/mlb4.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "Milwaukee Brewers vs St. Louis Cardinals",
-    "start_time": "July 6, 2026 04:45 PM",
+    "title": "Atlanta Braves vs Pittsburgh Pirates",
+    "start_time": "July 7, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb5.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "Arizona Diamondbacks vs San Diego Padres",
-    "start_time": "July 6, 2026 06:40 PM",
+    "title": "Seattle Mariners vs Miami Marlins",
+    "start_time": "July 7, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb6.m3u8",
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "Toronto Blue Jays vs San Francisco Giants",
-    "start_time": "July 6, 2026 06:45 PM",
+    "title": "New York Yankees vs Tampa Bay Rays",
+    "start_time": "July 7, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb7.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "MLB",
-    "title": "Colorado Rockies vs Los Angeles Dodgers",
-    "start_time": "July 6, 2026 07:10 PM",
+    "title": "Houston Astros vs Washington Nationals",
+    "start_time": "July 7, 2026 03:45 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb8.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Kansas City Royals vs New York Mets",
+    "start_time": "July 7, 2026 04:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-9",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb9.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Philadelphia Phillies vs Cincinnati Reds",
+    "start_time": "July 7, 2026 04:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-10",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb10.m3u8",
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cleveland Guardians vs Minnesota Twins",
+    "start_time": "July 7, 2026 04:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-11",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb11.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Boston Red Sox vs Chicago White Sox",
+    "start_time": "July 7, 2026 04:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-12",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb12.m3u8",
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Los Angeles Angels vs Texas Rangers",
+    "start_time": "July 7, 2026 05:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-13",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb13.m3u8",
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Arizona Diamondbacks vs San Diego Padres",
+    "start_time": "July 7, 2026 06:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb14.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Toronto Blue Jays vs San Francisco Giants",
+    "start_time": "July 7, 2026 06:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-15",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin.formaturamaxi.com.br/mlb15.m3u8",
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Colorado Rockies vs Los Angeles Dodgers",
+    "start_time": "July 7, 2026 07:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-16",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "NBA",
-    "title": "Atlanta Hawks vs Oklahoma City Thunder",
-    "start_time": "July 6, 2026 4:00 PM",
+    "title": "Atlanta Hawks vs Memphis Grizzlies",
+    "start_time": "July 7, 2026 4:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [
+      "https://tedesco.formaturamaxi.com.br/nba.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tele.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tsn.m3u8",
       "https://tedesco.leonardoitalianrestaurant.com/nba.m3u8",
       "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
       "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "NBA",
-    "title": "Los Angeles Lakers vs San Antonio Spurs",
-    "start_time": "July 6, 2026 4:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-2",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.leonardoitalianrestaurant.com/nba2.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
-    ],
-    "scraped_at": "2026-07-07T04:02:42Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Golden State Warriors vs Brooklyn Nets",
-    "start_time": "July 6, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-3",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.leonardoitalianrestaurant.com/nba3.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
-    ],
-    "scraped_at": "2026-07-07T04:02:42Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Memphis Grizzlies vs Utah Jazz",
-    "start_time": "July 6, 2026 6:00 PM",
+    "title": "Oklahoma City Thunder vs Utah Jazz",
+    "start_time": "July 7, 2026 6:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [
+      "https://tedesco.formaturamaxi.com.br/nba.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tele.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tsn.m3u8",
       "https://tedesco.leonardoitalianrestaurant.com/nba.m3u8",
       "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
       "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Miami Heat vs Golden State Warriors",
-    "start_time": "July 6, 2026 7:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-3",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.leonardoitalianrestaurant.com/nba3.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
-    ],
-    "scraped_at": "2026-07-07T04:02:42Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Milwaukee Bucks vs Sacramento Kings",
-    "start_time": "July 6, 2026 7:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-2",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.leonardoitalianrestaurant.com/nba2.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tele.m3u8",
-      "https://tedesco.leonardoitalianrestaurant.com/tsn.m3u8"
-    ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "NHL",
@@ -226,30 +338,40 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/nhl.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/nhl.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Fighting",
-    "title": "WWE RAW",
-    "start_time": "July 6, 2026 5:00 PM",
+    "title": "WWE NXT",
+    "start_time": "July 7, 2026 5:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
+      "https://admin.formaturamaxi.com.br/wwe.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Motorsports",
@@ -259,8 +381,12 @@
     "stream_page": "https://roxiestreams.su/mxgp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
+      "https://tedesco.formaturamaxi.com.br/mxgp.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Motorsports",
@@ -270,8 +396,12 @@
     "stream_page": "https://roxiestreams.su/mxgp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
+      "https://tedesco.formaturamaxi.com.br/mxgp.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Motorsports",
@@ -282,13 +412,18 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/f1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/f1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Motorsports",
@@ -299,12 +434,16 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [
+      "https://admin.formaturamaxi.com.br/bein1.m3u8",
+      "https://admin.formaturamaxi.com.br/fox.m3u8",
+      "https://admin.formaturamaxi.com.br/foxalt.m3u8",
+      "https://admin.formaturamaxi.com.br/tsn.m3u8",
       "https://admin.leonardoitalianrestaurant.com/bein1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/fox.m3u8",
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "scraped_at": "2026-07-07T07:56:23Z"
   },
   {
     "category": "Motorsports",
@@ -314,7 +453,11 @@
     "stream_page": "https://roxiestreams.su/nascar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-07T04:02:42Z"
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8",
+      "https://tedesco.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-07T07:56:23Z"
   }
 ]

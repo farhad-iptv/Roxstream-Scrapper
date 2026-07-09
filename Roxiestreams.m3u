@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs Lausanne
 https://tedesco.leonardoitalianrestaurant.com/sportv.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Athletico-PR
-https://tedesco.leonardoitalianrestaurant.com/celtic.m3u8
+https://admin.leonardoitalianrestaurant.com/cabj.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs San Francisco Giants
 https://admin.leonardoitalianrestaurant.com/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Baltimore Orioles
@@ -14,7 +14,7 @@ https://tedesco.leonardoitalianrestaurant.com/nba.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",NHL Draft 2026
 https://admin.leonardoitalianrestaurant.com/nhl.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
-https://admin.leonardoitalianrestaurant.com/aew.m3u8
+https://tedesco.leonardoitalianrestaurant.com/aew.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix
 https://admin.leonardoitalianrestaurant.com/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix (Mirror 1)

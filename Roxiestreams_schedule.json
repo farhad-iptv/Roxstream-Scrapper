@@ -10,7 +10,7 @@
     "streams": [
       "https://tedesco.leonardoitalianrestaurant.com/sportv.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Soccer",
@@ -21,9 +21,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.leonardoitalianrestaurant.com/celtic.m3u8"
+      "https://admin.leonardoitalianrestaurant.com/cabj.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -36,7 +36,7 @@
     "streams": [
       "https://admin.leonardoitalianrestaurant.com/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -49,7 +49,7 @@
     "streams": [
       "https://admin.leonardoitalianrestaurant.com/mlb2.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -60,7 +60,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -73,7 +73,7 @@
     "streams": [
       "https://admin.leonardoitalianrestaurant.com/mlb4.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -84,7 +84,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -95,7 +95,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -106,7 +106,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -117,7 +117,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -128,7 +128,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -139,7 +139,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -150,7 +150,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -161,7 +161,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -172,7 +172,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -183,7 +183,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "MLB",
@@ -194,7 +194,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "NBA",
@@ -207,7 +207,7 @@
     "streams": [
       "https://tedesco.leonardoitalianrestaurant.com/nba.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "NBA",
@@ -220,7 +220,7 @@
     "streams": [
       "https://tedesco.leonardoitalianrestaurant.com/nba.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "NHL",
@@ -233,7 +233,7 @@
     "streams": [
       "https://admin.leonardoitalianrestaurant.com/nhl.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Fighting",
@@ -244,9 +244,9 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin.leonardoitalianrestaurant.com/aew.m3u8"
+      "https://tedesco.leonardoitalianrestaurant.com/aew.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Motorsports",
@@ -257,7 +257,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Motorsports",
@@ -268,7 +268,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Motorsports",
@@ -282,7 +282,7 @@
       "https://admin.leonardoitalianrestaurant.com/f1.m3u8",
       "https://admin.leonardoitalianrestaurant.com/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Motorsports",
@@ -295,7 +295,7 @@
     "streams": [
       "https://admin.leonardoitalianrestaurant.com/foxalt.m3u8"
     ],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   },
   {
     "category": "Motorsports",
@@ -306,6 +306,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-08T21:18:40Z"
+    "scraped_at": "2026-07-09T03:55:47Z"
   }
 ]

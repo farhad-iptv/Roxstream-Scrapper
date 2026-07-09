@@ -1,20 +1,22 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs Lausanne
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Morocco
 https://tedesco.leonardoitalianrestaurant.com/sportv.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Athletico-PR
-https://admin.leonardoitalianrestaurant.com/cabj.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs San Francisco Giants
-https://admin.leonardoitalianrestaurant.com/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Baltimore Orioles
-https://admin.leonardoitalianrestaurant.com/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs Pittsburgh Pirates
+https://admin.leonardoitalianrestaurant.com/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs New York Mets
+https://admin.leonardoitalianrestaurant.com/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Baltimore Orioles
 https://admin.leonardoitalianrestaurant.com/mlb4.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Atlanta Hawks vs Memphis Grizzlies
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Minnesota Timberwolves vs New Orleans Pelicans
 https://tedesco.leonardoitalianrestaurant.com/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",San Antonio Spurs vs Atlanta Hawks
+https://tedesco.leonardoitalianrestaurant.com/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Detroit Pistons vs Philadelphia 76ers
+https://tedesco.leonardoitalianrestaurant.com/nba3.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",NHL Draft 2026
 https://admin.leonardoitalianrestaurant.com/nhl.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
-https://tedesco.leonardoitalianrestaurant.com/aew.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
+https://admin.leonardoitalianrestaurant.com/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix
 https://admin.leonardoitalianrestaurant.com/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix (Mirror 1)

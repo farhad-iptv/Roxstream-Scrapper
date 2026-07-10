@@ -1,20 +1,6 @@
 [
   {
     "category": "Soccer",
-    "title": "France vs Morocco",
-    "start_time": "July 9, 2026 1:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
-      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
-  },
-  {
-    "category": "Soccer",
     "title": "Spain vs Belgium",
     "start_time": "July 10, 2026 12:00 PM",
     "is_live": false,
@@ -25,274 +11,299 @@
       "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
       "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
     ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Benfica vs Flamengo",
+    "start_time": "July 11, 2026 11:30 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-2",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Norway vs England",
+    "start_time": "July 11, 2026 2:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Argentina vs Switzerland",
+    "start_time": "July 11, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
+      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
+    ],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Atlanta Braves vs Pittsburgh Pirates",
-    "start_time": "July 9, 2026 09:35 AM",
+    "title": "Philadelphia Phillies vs Detroit Tigers",
+    "start_time": "July 10, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb.m3u8",
-      "https://admin.uniteesports.com/mlb.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Kansas City Royals vs New York Mets",
-    "start_time": "July 9, 2026 10:10 AM",
+    "title": "Milwaukee Brewers vs Pittsburgh Pirates",
+    "start_time": "July 10, 2026 03:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb2.m3u8",
-      "https://admin.uniteesports.com/mlb2.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "New York Yankees vs Tampa Bay Rays",
-    "start_time": "July 9, 2026 10:10 AM",
+    "title": "New York Yankees vs Washington Nationals",
+    "start_time": "July 10, 2026 03:45 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb3.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Chicago Cubs vs Baltimore Orioles",
-    "start_time": "July 9, 2026 10:35 AM",
+    "title": "Kansas City Royals vs Baltimore Orioles",
+    "start_time": "July 10, 2026 04:05 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb4.m3u8",
-      "https://admin.uniteesports.com/mlb4.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Cleveland Guardians vs Minnesota Twins",
-    "start_time": "July 9, 2026 10:40 AM",
+    "title": "Chicago Cubs vs Cincinnati Reds",
+    "start_time": "July 10, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb5.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Boston Red Sox vs Chicago White Sox",
-    "start_time": "July 9, 2026 11:10 AM",
+    "title": "Seattle Mariners vs Tampa Bay Rays",
+    "start_time": "July 10, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb6.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Athletics vs Detroit Tigers",
-    "start_time": "July 9, 2026 03:40 PM",
+    "title": "Cleveland Guardians vs Miami Marlins",
+    "start_time": "July 10, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb7.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Seattle Mariners vs Miami Marlins",
-    "start_time": "July 9, 2026 03:40 PM",
+    "title": "Boston Red Sox vs New York Mets",
+    "start_time": "July 10, 2026 04:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb8.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Philadelphia Phillies vs Cincinnati Reds",
-    "start_time": "July 9, 2026 04:10 PM",
+    "title": "Athletics vs Chicago White Sox",
+    "start_time": "July 10, 2026 04:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb9.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Milwaukee Brewers vs St. Louis Cardinals",
-    "start_time": "July 9, 2026 04:45 PM",
+    "title": "Houston Astros vs Texas Rangers",
+    "start_time": "July 10, 2026 05:05 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-10",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb10.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Los Angeles Angels vs Texas Rangers",
-    "start_time": "July 9, 2026 05:05 PM",
+    "title": "Los Angeles Angels vs Minnesota Twins",
+    "start_time": "July 10, 2026 05:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-11",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb11.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Arizona Diamondbacks vs San Diego Padres",
-    "start_time": "July 9, 2026 06:40 PM",
+    "title": "Atlanta Braves vs St. Louis Cardinals",
+    "start_time": "July 10, 2026 05:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-12",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb12.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "MLB",
-    "title": "Colorado Rockies vs San Francisco Giants",
-    "start_time": "July 9, 2026 06:45 PM",
+    "title": "Toronto Blue Jays vs San Diego Padres",
+    "start_time": "July 10, 2026 06:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-13",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb13.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+    "start_time": "July 10, 2026 07:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Colorado Rockies vs San Francisco Giants",
+    "start_time": "July 10, 2026 07:15 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-15",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "Minnesota Timberwolves vs New Orleans Pelicans",
-    "start_time": "July 9, 2026 12:30 PM",
+    "title": "Milwaukee Bucks vs Miami Heat",
+    "start_time": "July 10, 2026 1:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba.m3u8",
-      "https://tedesco.uniteesports.com/nba.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "San Antonio Spurs vs Atlanta Hawks",
-    "start_time": "July 9, 2026 1:30 PM",
+    "title": "Cleveland Cavaliers vs Indiana Pacers",
+    "start_time": "July 10, 2026 1:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-2",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba2.m3u8",
-      "https://tedesco.uniteesports.com/nba2.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "Detroit Pistons vs Philadelphia 76ers",
-    "start_time": "July 9, 2026 2:30 PM",
+    "title": "Brooklyn Nets vs New York Knicks",
+    "start_time": "July 10, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-3",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba3.m3u8",
-      "https://tedesco.uniteesports.com/nba3.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "Golden State Warriors vs Dallas Mavericks",
-    "start_time": "July 9, 2026 4:00 PM",
+    "title": "Houston Rockets vs Denver Nuggets",
+    "start_time": "July 10, 2026 3:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-4",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba4.m3u8",
-      "https://tedesco.uniteesports.com/nba4.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "Charlotte Hornets vs Orlando Magic",
-    "start_time": "July 9, 2026 4:30 PM",
+    "title": "Chicago Bulls vs Memphis Grizzlies",
+    "start_time": "July 10, 2026 5:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-5",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "Utah Jazz vs Washington Wizards",
-    "start_time": "July 9, 2026 6:00 PM",
+    "title": "Boston Celtics vs Toronto Raptors",
+    "start_time": "July 10, 2026 6:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-4",
+    "stream_page": "https://roxiestreams.su/nba-streams-6",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba4.m3u8",
-      "https://tedesco.uniteesports.com/nba4.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NBA",
-    "title": "Sacramento Kings vs Los Angeles Clippers",
-    "start_time": "July 9, 2026 8:00 PM",
+    "title": "Oklahoma City Thunder vs Los Angeles Lakers",
+    "start_time": "July 10, 2026 7:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-4",
+    "stream_page": "https://roxiestreams.su/nba-streams-7",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba4.m3u8",
-      "https://tedesco.uniteesports.com/nba4.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "NBA",
+    "title": "Portland Trail Blazers vs Phoenix Suns",
+    "start_time": "July 10, 2026 8:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nba-streams-8",
+    "group": "Basketball",
+    "epg_id": "NBA.Basketball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "NHL",
@@ -302,11 +313,8 @@
     "stream_page": "https://roxiestreams.su/nhl-streams-1",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/nhl.m3u8",
-      "https://admin.uniteesports.com/nhl.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "Fighting",
@@ -316,23 +324,84 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/wwe.m3u8",
-      "https://admin.uniteesports.com/wwe.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Gassiev vs. Kadiru",
+    "start_time": "July 11, 2026 8:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Sturm vs. Stein",
+    "start_time": "July 11, 2026 8:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-2",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Dvalishvili vs. Cejudo (RAF)",
+    "start_time": "July 11, 2026 9:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-3",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "UFC 329: Mcgregor vs Holloway 2",
+    "start_time": "July 11, 2026 2:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ufc",
+    "group": "Combat Sports",
+    "epg_id": "UFC.Fight.Pass.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   },
   {
     "category": "Motorsports",
-    "title": "WOO Sprint Cars",
-    "start_time": "July 9, 2026 3:30 PM",
+    "title": "MotoGP - Coverage",
+    "start_time": "July 10, 2026 1:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/motogp",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "ARCA Menards Series - Race",
+    "start_time": "July 10, 2026 1:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/arca",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "WoO Sprint Cars",
+    "start_time": "July 10, 2026 3:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/floracing-1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/flo.m3u8"
-    ],
-    "scraped_at": "2026-07-10T03:56:53Z"
+    "streams": [],
+    "scraped_at": "2026-07-10T07:47:43Z"
   }
 ]

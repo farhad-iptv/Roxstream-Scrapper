@@ -47,6 +47,10 @@ https://tedesco.uniteesports.com/nba2.m3u8
 https://tedesco.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Detroit Pistons vs Philadelphia 76ers (Mirror 1)
 https://tedesco.uniteesports.com/nba3.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Golden State Warriors vs Dallas Mavericks
+https://tedesco.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Golden State Warriors vs Dallas Mavericks (Mirror 1)
+https://tedesco.uniteesports.com/nba4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",NHL Draft 2026
 https://admin.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",NHL Draft 2026 (Mirror 1)
@@ -55,19 +59,5 @@ https://admin.uniteesports.com/nhl.m3u8
 https://admin.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown (Mirror 1)
 https://admin.uniteesports.com/wwe.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MXGP (MX2) - Coverage
-https://tedesco.formaturamaxi.com.br/mxgp.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix
-https://admin.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix (Mirror 1)
-https://admin.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix (Mirror 2)
-https://admin.uniteesports.com/f1.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - British Grand Prix (Mirror 3)
-https://admin.uniteesports.com/tsn.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Honda Indy 200
-https://admin.formaturamaxi.com.br/foxalt.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Indycar Series - Honda Indy 200 (Mirror 1)
-https://admin.uniteesports.com/foxalt.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Cup Series - Race
-https://tedesco.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WOO Sprint Cars
+https://admin.formaturamaxi.com.br/flo.m3u8

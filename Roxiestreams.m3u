@@ -1,9 +1,1 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Belgium
-https://ataide0.formaturamaxi.com.br/bein1.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Belgium (Mirror 1)
-https://ataide0.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
-https://admin.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
-https://admin.uniteesports.com/ncaa5.m3u8

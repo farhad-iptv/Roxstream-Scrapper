@@ -1,1 +1,49 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Belgium
+https://ataide0.formaturamaxi.com.br/bein1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Belgium (Mirror 1)
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Detroit Tigers
+https://admin.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Pittsburgh Pirates
+https://admin.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Washington Nationals
+https://admin.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Baltimore Orioles
+https://admin.formaturamaxi.com.br/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Cincinnati Reds
+https://admin.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Tampa Bay Rays
+https://admin.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Miami Marlins
+https://admin.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs New York Mets
+https://admin.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Athletics vs Chicago White Sox
+https://admin.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Texas Rangers
+https://admin.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs Minnesota Twins
+https://admin.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs St. Louis Cardinals
+https://admin.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs San Diego Padres
+https://admin.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs Los Angeles Dodgers
+https://admin.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs San Francisco Giants
+https://admin.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Cleveland Cavaliers vs Indiana Pacers
+https://tedesco.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Boston Celtics vs Toronto Raptors
+https://tedesco.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Portland Trail Blazers vs Phoenix Suns
+https://tedesco.formaturamaxi.com.br/nba7.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
+https://admin.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
+https://admin.formaturamaxi.com.br/ncaa5.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race
+https://admin.formaturamaxi.com.br/arca.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Sprint Cars
+https://admin.formaturamaxi.com.br/flo.m3u8

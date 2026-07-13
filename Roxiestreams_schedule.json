@@ -8,7 +8,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "Soccer",
@@ -19,7 +19,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "MLB",
@@ -30,95 +30,40 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Detroit Pistons vs New York Knicks",
-    "start_time": "July 13, 2026 1:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-1",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Toronto Raptors vs Indiana Pacers",
-    "start_time": "July 13, 2026 1:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-2",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Atlanta Hawks vs Boston Celtics",
-    "start_time": "July 13, 2026 3:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-3",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "NBA",
     "title": "Dallas Mavericks vs Memphis Grizzlies",
     "start_time": "July 13, 2026 4:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-4",
+    "stream_page": "https://roxiestreams.su/nba-streams-2",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Miami Heat vs Cleveland Cavaliers",
-    "start_time": "July 13, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-5",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "NBA",
     "title": "Chicago Bulls vs Utah Jazz",
     "start_time": "July 13, 2026 6:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-6",
+    "stream_page": "https://roxiestreams.su/nba-streams-2",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Phoenix Suns vs Milwaukee Bucks",
-    "start_time": "July 13, 2026 7:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-7",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "NBA",
     "title": "Minnesota Timberwolves vs Portland Trail Blazers",
     "start_time": "July 13, 2026 8:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-8",
+    "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "NHL",
@@ -129,7 +74,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "Fighting",
@@ -140,7 +85,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "Fighting",
@@ -151,7 +96,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "Fighting",
@@ -162,7 +107,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "Fighting",
@@ -173,7 +118,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   },
   {
     "category": "Motorsports",
@@ -184,6 +129,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T07:30:10Z"
+    "scraped_at": "2026-07-13T11:21:16Z"
   }
 ]

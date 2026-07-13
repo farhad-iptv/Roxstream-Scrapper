@@ -8,7 +8,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "Soccer",
@@ -19,7 +19,18 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
+  },
+  {
+    "category": "MLB",
+    "title": "MLB Home Run Derby",
+    "start_time": "July 13, 2026 05:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-1",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "MLB",
@@ -30,7 +41,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "NBA",
@@ -41,7 +52,7 @@
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "NBA",
@@ -52,7 +63,7 @@
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "NBA",
@@ -63,7 +74,7 @@
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "NHL",
@@ -74,7 +85,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "Fighting",
@@ -85,7 +96,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "Fighting",
@@ -96,7 +107,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "Fighting",
@@ -107,7 +118,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "Fighting",
@@ -118,7 +129,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   },
   {
     "category": "Motorsports",
@@ -129,6 +140,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-13T14:49:51Z"
+    "scraped_at": "2026-07-13T18:01:02Z"
   }
 ]

@@ -8,9 +8,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.formaturamaxi.com.br/sportv2.m3u8"
+      "https://tedesco.softorium.cc/sportv2.m3u8"
     ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "Soccer",
@@ -20,24 +20,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://ataide0.formaturamaxi.com.br/bein1.m3u8",
-      "https://ataide0.formaturamaxi.com.br/tsn.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
-  },
-  {
-    "category": "MLB",
-    "title": "MLB Home Run Derby",
-    "start_time": "July 13, 2026 05:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-1",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/mlb.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "streams": [],
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "MLB",
@@ -48,48 +32,35 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://tedesco.formaturamaxi.com.br/mlb.m3u8"
+      "https://tedesco.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "NBA",
-    "title": "Dallas Mavericks vs Memphis Grizzlies",
-    "start_time": "July 13, 2026 4:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-2",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba2.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Chicago Bulls vs Utah Jazz",
-    "start_time": "July 13, 2026 6:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nba-streams-2",
-    "group": "Basketball",
-    "epg_id": "NBA.Basketball.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba2.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
-  },
-  {
-    "category": "NBA",
-    "title": "Minnesota Timberwolves vs Portland Trail Blazers",
-    "start_time": "July 13, 2026 8:00 PM",
+    "title": "Denver Nuggets vs Oklahoma City Thunder",
+    "start_time": "July 14, 2026 6:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
     "epg_id": "NBA.Basketball.Dummy.us",
     "streams": [
-      "https://tedesco.formaturamaxi.com.br/nba.m3u8"
+      "https://tedesco.softorium.cc/nba.m3u8"
     ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "scraped_at": "2026-07-14T21:07:01Z"
+  },
+  {
+    "category": "NBA",
+    "title": "Los Angeles Clippers vs Los Angeles Lakers",
+    "start_time": "July 14, 2026 7:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nba-streams-2",
+    "group": "Basketball",
+    "epg_id": "NBA.Basketball.Dummy.us",
+    "streams": [
+      "https://tedesco.softorium.cc/nba2.m3u8"
+    ],
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "NHL",
@@ -100,20 +71,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T17:22:14Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "WWE RAW",
-    "start_time": "July 13, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "Fighting",
@@ -123,10 +81,19 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "streams": [],
+    "scraped_at": "2026-07-14T21:07:01Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Hardman vs Vaotuua (IBC)",
+    "start_time": "July 15, 2026 2:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "Fighting",
@@ -137,7 +104,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "Fighting",
@@ -147,22 +114,18 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "streams": [],
+    "scraped_at": "2026-07-14T21:07:01Z"
   },
   {
     "category": "Motorsports",
-    "title": "High Limit Racing",
-    "start_time": "July 13, 2026 3:00 PM",
+    "title": "WoO Sprint Cars - Race",
+    "start_time": "July 14, 2026 3:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/floracing-1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/flo.m3u8"
-    ],
-    "scraped_at": "2026-07-14T17:22:14Z"
+    "streams": [],
+    "scraped_at": "2026-07-14T21:07:01Z"
   }
 ]

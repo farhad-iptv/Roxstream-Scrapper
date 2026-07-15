@@ -10,7 +10,7 @@
     "streams": [
       "https://tedesco.softorium.cc/sportv2.m3u8"
     ],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "Soccer",
@@ -21,7 +21,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "MLB",
@@ -32,9 +32,10 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://tedesco.softorium.cc/mlb.m3u8"
+      "https://admin2.softorium.cc/foxalt.m3u8",
+      "https://admin2.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "NBA",
@@ -47,7 +48,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba.m3u8"
     ],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "NBA",
@@ -60,7 +61,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "NHL",
@@ -71,7 +72,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "Fighting",
@@ -81,8 +82,10 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "streams": [
+      "https://admin2.softorium.cc/wwe.m3u8"
+    ],
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "Fighting",
@@ -93,7 +96,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "Fighting",
@@ -104,7 +107,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "Fighting",
@@ -114,8 +117,10 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "streams": [
+      "https://admin2.softorium.cc/wwe.m3u8"
+    ],
+    "scraped_at": "2026-07-15T02:55:40Z"
   },
   {
     "category": "Motorsports",
@@ -126,6 +131,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-14T21:07:01Z"
+    "scraped_at": "2026-07-15T02:55:40Z"
   }
 ]

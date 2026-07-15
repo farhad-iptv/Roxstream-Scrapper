@@ -2,8 +2,12 @@
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting CP vs Celtic
 https://tedesco.softorium.cc/sportv2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",MLB All Stars
-https://tedesco.softorium.cc/mlb.m3u8
+https://admin2.softorium.cc/foxalt.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",MLB All Stars (Mirror 1)
+https://admin2.softorium.cc/mlb.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Denver Nuggets vs Oklahoma City Thunder
 https://tedesco.softorium.cc/nba.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Los Angeles Clippers vs Los Angeles Lakers
 https://tedesco.softorium.cc/nba2.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
+https://admin2.softorium.cc/wwe.m3u8

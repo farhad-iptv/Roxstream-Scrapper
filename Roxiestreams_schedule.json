@@ -1,32 +1,19 @@
 [
   {
     "category": "Soccer",
-    "title": "Sporting CP vs Celtic",
-    "start_time": "July 14, 2026 9:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-2",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.softorium.cc/sportv2.m3u8"
-    ],
-    "scraped_at": "2026-07-15T06:22:35Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "France vs Spain",
-    "start_time": "July 14, 2026 12:00 PM",
+    "title": "Argentina vs England",
+    "start_time": "July 15, 2026 12:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "MLB",
-    "title": "MLB All Stars",
-    "start_time": "July 14, 2026 05:00 PM",
+    "title": "New York Mets vs Philadelphia Phillies",
+    "start_time": "July 16, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
@@ -35,12 +22,12 @@
       "https://admin2.softorium.cc/foxalt.m3u8",
       "https://admin2.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "NBA",
-    "title": "Denver Nuggets vs Oklahoma City Thunder",
-    "start_time": "July 14, 2026 6:00 PM",
+    "title": "Phoenix Suns vs Detroit Pistons",
+    "start_time": "July 15, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-1",
     "group": "Basketball",
@@ -48,12 +35,12 @@
     "streams": [
       "https://tedesco.softorium.cc/nba.m3u8"
     ],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "NBA",
-    "title": "Los Angeles Clippers vs Los Angeles Lakers",
-    "start_time": "July 14, 2026 7:00 PM",
+    "title": "Boston Celtics vs Sacramento Kings",
+    "start_time": "July 15, 2026 5:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nba-streams-2",
     "group": "Basketball",
@@ -61,7 +48,20 @@
     "streams": [
       "https://tedesco.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
+  },
+  {
+    "category": "NBA",
+    "title": "Washington Wizards vs Los Angeles Clippers",
+    "start_time": "July 15, 2026 7:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nba-streams-3",
+    "group": "Basketball",
+    "epg_id": "NBA.Basketball.Dummy.us",
+    "streams": [
+      "https://tedesco.softorium.cc/nba3.m3u8"
+    ],
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "NHL",
@@ -72,20 +72,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T06:22:35Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "WWE NXT",
-    "start_time": "July 14, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.softorium.cc/wwe.m3u8"
-    ],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "Fighting",
@@ -95,8 +82,10 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-1",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "streams": [
+      "https://admin2.softorium.cc/ppv.m3u8"
+    ],
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "Fighting",
@@ -107,7 +96,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "Fighting",
@@ -120,17 +109,17 @@
     "streams": [
       "https://admin2.softorium.cc/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   },
   {
     "category": "Motorsports",
-    "title": "WoO Sprint Cars - Race",
-    "start_time": "July 14, 2026 3:30 PM",
+    "title": "Interstate Batteries High Limit Racing",
+    "start_time": "July 15, 2026 3:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/floracing-1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T06:22:35Z"
+    "scraped_at": "2026-07-15T10:10:32Z"
   }
 ]

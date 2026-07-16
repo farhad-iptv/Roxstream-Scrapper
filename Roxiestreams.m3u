@@ -1,17 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Atlante
+https://admin2.softorium.cc/foxmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Philadelphia Phillies
 https://admin2.softorium.cc/foxalt.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Philadelphia Phillies (Mirror 1)
 https://admin2.softorium.cc/mlb.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Phoenix Suns vs Detroit Pistons
-https://tedesco.softorium.cc/nba.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Boston Celtics vs Sacramento Kings
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Golden State Warriors vs New York Knicks
 https://tedesco.softorium.cc/nba2.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Washington Wizards vs Los Angeles Clippers
-https://tedesco.softorium.cc/nba3.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Hardman vs Vaotuua (IBC)
-https://admin2.softorium.cc/ppv.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
-https://admin2.softorium.cc/aew.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.softorium.cc/wwe.m3u8

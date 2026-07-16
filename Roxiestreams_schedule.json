@@ -8,7 +8,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "Soccer",
@@ -19,7 +19,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "Soccer",
@@ -32,7 +32,7 @@
     "streams": [
       "https://tedesco.softorium.cc/tyc.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "Soccer",
@@ -45,7 +45,7 @@
     "streams": [
       "https://admin2.softorium.cc/foxmx.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "Soccer",
@@ -58,7 +58,7 @@
     "streams": [
       "https://admin2.softorium.cc/foxmx.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "MLB",
@@ -72,7 +72,7 @@
       "https://admin2.softorium.cc/foxalt.m3u8",
       "https://admin2.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "NBA",
@@ -85,7 +85,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "NBA",
@@ -98,7 +98,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "NHL",
@@ -109,7 +109,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "Fighting",
@@ -122,7 +122,7 @@
     "streams": [
       "https://admin2.softorium.cc/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   },
   {
     "category": "Motorsports",
@@ -133,6 +133,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-16T14:08:52Z"
+    "scraped_at": "2026-07-16T17:26:31Z"
   }
 ]

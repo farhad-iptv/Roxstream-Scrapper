@@ -11,5 +11,7 @@ https://tedesco.softorium.cc/nba2.m3u8
 https://tedesco.softorium.cc/nba3.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Hardman vs Vaotuua (IBC)
 https://admin2.softorium.cc/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
+https://admin2.softorium.cc/aew.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.softorium.cc/wwe.m3u8

@@ -1,14 +1,58 @@
 [
   {
     "category": "Soccer",
-    "title": "Argentina vs England",
-    "start_time": "July 15, 2026 12:00 PM",
+    "title": "Botafogo vs Santos",
+    "start_time": "July 16, 2026 3:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "VitÃ³ria vs Vasco Gama",
+    "start_time": "July 16, 2026 3:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-2",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-16T03:17:40Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Sarmiento vs Boca Juniors",
+    "start_time": "July 16, 2026 5:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-3",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-16T03:17:40Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Necaxa vs Atlante",
+    "start_time": "July 16, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-4",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-16T03:17:40Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Tijuana vs Tigres",
+    "start_time": "July 16, 2026 8:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "MLB",
@@ -22,7 +66,7 @@
       "https://admin2.softorium.cc/foxalt.m3u8",
       "https://admin2.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "NBA",
@@ -35,7 +79,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba.m3u8"
     ],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "NBA",
@@ -48,7 +92,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "NBA",
@@ -61,7 +105,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba3.m3u8"
     ],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "NHL",
@@ -72,7 +116,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "Fighting",
@@ -85,7 +129,7 @@
     "streams": [
       "https://admin2.softorium.cc/ppv.m3u8"
     ],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "Fighting",
@@ -95,8 +139,10 @@
     "stream_page": "https://roxiestreams.su/aew",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "streams": [
+      "https://admin2.softorium.cc/aew.m3u8"
+    ],
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "Fighting",
@@ -109,7 +155,7 @@
     "streams": [
       "https://admin2.softorium.cc/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   },
   {
     "category": "Motorsports",
@@ -120,6 +166,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-15T21:07:50Z"
+    "scraped_at": "2026-07-16T03:17:40Z"
   }
 ]

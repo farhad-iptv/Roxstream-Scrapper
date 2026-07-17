@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Santos
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahia vs Chapecoense
 https://admin2.softorium.cc/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Santos (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahia vs Chapecoense (Mirror 1)
 https://admin2.softorium.cc/fana2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Santos (Mirror 2)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahia vs Chapecoense (Mirror 2)
 https://admin2.softorium.cc/fanaen.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sarmiento vs Boca Juniors
-https://tedesco.softorium.cc/tyc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Atlante
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Aldosivi
+https://admin2.softorium.cc/tyc.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Atlas
 https://admin2.softorium.cc/foxmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Philadelphia Phillies
 https://admin2.softorium.cc/mlb.m3u8

@@ -7,8 +7,12 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "streams": [
+      "https://admin2.softorium.cc/fana.m3u8",
+      "https://admin2.softorium.cc/fana2.m3u8",
+      "https://admin2.softorium.cc/fanaen.m3u8"
+    ],
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "Soccer",
@@ -18,8 +22,10 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "streams": [
+      "https://admin2.softorium.cc/fana2.m3u8"
+    ],
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "Soccer",
@@ -32,7 +38,7 @@
     "streams": [
       "https://tedesco.softorium.cc/tyc.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "Soccer",
@@ -45,7 +51,7 @@
     "streams": [
       "https://admin2.softorium.cc/foxmx.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "Soccer",
@@ -58,7 +64,7 @@
     "streams": [
       "https://admin2.softorium.cc/foxmx.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "MLB",
@@ -69,10 +75,9 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://admin2.softorium.cc/foxalt.m3u8",
       "https://admin2.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "NBA",
@@ -85,7 +90,7 @@
     "streams": [
       "https://admin2.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "NBA",
@@ -98,7 +103,7 @@
     "streams": [
       "https://admin2.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "NHL",
@@ -109,7 +114,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "Fighting",
@@ -122,7 +127,7 @@
     "streams": [
       "https://admin2.softorium.cc/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   },
   {
     "category": "Motorsports",
@@ -133,6 +138,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-16T21:10:47Z"
+    "scraped_at": "2026-07-17T03:19:57Z"
   }
 ]

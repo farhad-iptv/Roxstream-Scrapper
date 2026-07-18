@@ -10,7 +10,7 @@
     "streams": [
       "https://admin2.softorium.cc/dortmund.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
@@ -21,7 +21,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
@@ -34,7 +34,7 @@
     "streams": [
       "https://admin2.softorium.cc/sportv.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
@@ -45,7 +45,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
@@ -58,20 +58,20 @@
     "streams": [
       "https://admin2.softorium.cc/5mx.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
     "title": "Monterrey vs Santos Laguna",
     "start_time": "July 18, 2026 6:05 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-7",
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.softorium.cc/foxmx.m3u8"
+      "https://admin2.softorium.cc/5mx.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
@@ -84,7 +84,7 @@
     "streams": [
       "https://admin2.softorium.cc/tele.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Soccer",
@@ -97,7 +97,7 @@
     "streams": [
       "https://admin2.softorium.cc/foxmx.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -110,7 +110,7 @@
     "streams": [
       "https://admin2.softorium.cc/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -123,7 +123,7 @@
     "streams": [
       "https://admin2.softorium.cc/mlb2.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -134,7 +134,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -147,7 +147,7 @@
     "streams": [
       "https://admin2.softorium.cc/mlb4.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -158,7 +158,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -169,7 +169,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -180,7 +180,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -191,7 +191,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -202,7 +202,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -213,7 +213,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -224,7 +224,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -235,7 +235,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -246,7 +246,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -257,7 +257,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -268,7 +268,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "MLB",
@@ -279,7 +279,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "NBA",
@@ -292,7 +292,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "NBA",
@@ -305,7 +305,7 @@
     "streams": [
       "https://admin2.softorium.cc/nba2.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "NBA",
@@ -318,7 +318,7 @@
     "streams": [
       "https://tedesco.softorium.cc/nba.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "NHL",
@@ -329,7 +329,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Fighting",
@@ -342,7 +342,7 @@
     "streams": [
       "https://admin2.softorium.cc/ppv.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Fighting",
@@ -353,7 +353,7 @@
     "group": "Combat Sports",
     "epg_id": "UFC.Fight.Pass.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Fighting",
@@ -364,7 +364,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Fighting",
@@ -375,7 +375,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -388,7 +388,7 @@
     "streams": [
       "https://admin2.softorium.cc/f1.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -401,20 +401,20 @@
     "streams": [
       "https://admin2.softorium.cc/f1.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
     "title": "Indycar Series - Free Practice",
     "start_time": "July 18, 2026 7:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/f1",
+    "stream_page": "https://roxiestreams.su/indycar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [
-      "https://admin2.softorium.cc/f1.m3u8"
+      "https://admin2.softorium.cc/indy.m3u8"
     ],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -425,7 +425,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -435,8 +435,10 @@
     "stream_page": "https://roxiestreams.su/nascar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "streams": [
+      "https://admin2.softorium.cc/indy.m3u8"
+    ],
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -447,7 +449,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -458,7 +460,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   },
   {
     "category": "Motorsports",
@@ -469,6 +471,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-18T09:44:55Z"
+    "scraped_at": "2026-07-18T13:34:26Z"
   }
 ]

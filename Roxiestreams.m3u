@@ -5,6 +5,12 @@ https://tedesco.softorium.cc/btv.m3u8
 https://admin2.softorium.cc/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs RB Bragantino
 https://admin2.softorium.cc/fana2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs RB Bragantino (Mirror 1)
+https://admin2.softorium.cc/fana2en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs GrÃªmio
+https://admin2.softorium.cc/fana3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nashville vs Atlanta United
+https://admin2.softorium.cc/fox.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Aldosivi
 https://admin2.softorium.cc/tyc.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Atlas
@@ -17,9 +23,15 @@ https://admin2.softorium.cc/vix.m3u8
 https://admin2.softorium.cc/azteca7.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Boston Red Sox
 https://admin2.softorium.cc/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Boston Red Sox (Mirror 1)
+https://admin2.softorium.cc/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Cleveland Guardians
+https://admin2.softorium.cc/mlb4.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="Basketball",Detroit Pistons vs Miami Heat
 https://tedesco.softorium.cc/nba.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.softorium.cc/wwe.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown (Mirror 1)
+https://admin2.softorium.cc/wwe2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Forumla 1 - Free Practice
 https://admin2.softorium.cc/f1.m3u8

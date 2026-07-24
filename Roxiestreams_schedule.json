@@ -10,7 +10,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/ajax.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Soccer",
@@ -21,9 +21,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.formaturamaxi.com.br/beines.m3u8"
+      "https://admin2.formaturamaxi.com.br/bein.m3u8",
+      "https://admin2.formaturamaxi.com.br/sportdigital.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Soccer",
@@ -34,9 +35,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/fana.m3u8"
+      "https://admin2.formaturamaxi.com.br/fanapt.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Soccer",
@@ -47,9 +48,38 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/fana2.m3u8"
+      "https://admin2.formaturamaxi.com.br/fana2pt.m3u8",
+      "https://admin2.formaturamaxi.com.br/l1max.m3u8",
+      "https://admin2.formaturamaxi.com.br/match3ru.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Belgrano vs Rosario Central",
+    "start_time": "July 23, 2026 3:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/fana3en.m3u8",
+      "https://admin2.formaturamaxi.com.br/fana3es.m3u8"
+    ],
+    "scraped_at": "2026-07-24T03:22:47Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Sarmiento vs Argentinos Juniors",
+    "start_time": "July 23, 2026 3:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-10",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/fana4.m3u8"
+    ],
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Soccer",
@@ -60,9 +90,23 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.formaturamaxi.com.br/beines.m3u8"
+      "https://admin2.formaturamaxi.com.br/bein.m3u8",
+      "https://admin2.formaturamaxi.com.br/sportdigital.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Defensa y Justicia vs Aldosivi",
+    "start_time": "July 23, 2026 5:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/fana5.m3u8"
+    ],
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "MLB",
@@ -75,7 +119,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "MLB",
@@ -88,7 +132,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "MLB",
@@ -99,10 +143,9 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/mlb2.m3u8",
       "https://admin2.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "MLB",
@@ -115,7 +158,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "MLB",
@@ -128,7 +171,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "NHL",
@@ -139,7 +182,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Fighting",
@@ -152,7 +195,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Motorsports",
@@ -165,7 +208,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   },
   {
     "category": "Motorsports",
@@ -178,6 +221,6 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo2.m3u8"
     ],
-    "scraped_at": "2026-07-23T21:13:20Z"
+    "scraped_at": "2026-07-24T03:22:47Z"
   }
 ]

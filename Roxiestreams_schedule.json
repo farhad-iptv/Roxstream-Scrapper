@@ -1,112 +1,77 @@
 [
   {
     "category": "Soccer",
-    "title": "Vojvodina vs Ajax",
-    "start_time": "July 23, 2026 11:00 AM",
+    "title": "Racing Club vs Gimnasia La Plata",
+    "start_time": "July 24, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/ajax.m3u8"
-    ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "streams": [],
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Soccer",
-    "title": "BolÃ­var vs Gremio",
-    "start_time": "July 23, 2026 3:00 PM",
+    "title": "VÃ©lez Sarsfield vs Instituto",
+    "start_time": "July 24, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/bein.m3u8",
-      "https://admin2.formaturamaxi.com.br/sportdigital.m3u8"
+      "https://admin2.formaturamaxi.com.br/fana3es.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Soccer",
-    "title": "Botafogo vs Vitoria",
-    "start_time": "July 23, 2026 3:30 PM",
+    "title": "HuracÃ¡n vs Banfield",
+    "start_time": "July 24, 2026 5:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-4",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/fanapt.m3u8"
-    ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "streams": [],
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Soccer",
-    "title": "Corinthians vs Remo",
-    "start_time": "July 23, 2026 3:30 PM",
+    "title": "Platense vs UniÃ³n Santa Fe",
+    "start_time": "July 24, 2026 5:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-5",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/fana2pt.m3u8",
-      "https://admin2.formaturamaxi.com.br/l1max.m3u8",
-      "https://admin2.formaturamaxi.com.br/match3ru.m3u8"
-    ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "streams": [],
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Soccer",
-    "title": "Belgrano vs Rosario Central",
-    "start_time": "July 23, 2026 3:30 PM",
+    "title": "Atlante vs AmÃ©rica",
+    "start_time": "July 24, 2026 8:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/fana3en.m3u8",
-      "https://admin2.formaturamaxi.com.br/fana3es.m3u8"
+      "https://admin2.formaturamaxi.com.br/azteca7.m3u8",
+      "https://admin2.formaturamaxi.com.br/espn1mx.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Soccer",
-    "title": "Sarmiento vs Argentinos Juniors",
-    "start_time": "July 23, 2026 3:30 PM",
+    "title": "Tijuana vs LeÃ³n",
+    "start_time": "July 24, 2026 8:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-10",
+    "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/fana4.m3u8"
+      "https://admin2.formaturamaxi.com.br/foxonemx.m3u8",
+      "https://admin2.formaturamaxi.com.br/vix3.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Boca Juniors vs O'Higgins",
-    "start_time": "July 23, 2026 5:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-3",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/bein.m3u8",
-      "https://admin2.formaturamaxi.com.br/sportdigital.m3u8"
-    ],
-    "scraped_at": "2026-07-24T03:22:47Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Defensa y Justicia vs Aldosivi",
-    "start_time": "July 23, 2026 5:45 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-11",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/fana5.m3u8"
-    ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "MLB",
@@ -119,7 +84,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "MLB",
@@ -132,7 +97,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "MLB",
@@ -145,7 +110,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "MLB",
@@ -158,7 +123,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "MLB",
@@ -171,7 +136,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "NHL",
@@ -182,7 +147,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Fighting",
@@ -195,7 +160,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Motorsports",
@@ -208,7 +173,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   },
   {
     "category": "Motorsports",
@@ -221,6 +186,6 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo2.m3u8"
     ],
-    "scraped_at": "2026-07-24T03:22:47Z"
+    "scraped_at": "2026-07-24T06:33:40Z"
   }
 ]

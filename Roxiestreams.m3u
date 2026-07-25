@@ -1,10 +1,20 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Gimnasia Mendoza vs Central CÃ³rdoba SdE
 https://admin2.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Racing Club vs Gimnasia La Plata
+https://admin2.formaturamaxi.com.br/fana2en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Racing Club vs Gimnasia La Plata (Mirror 1)
+https://admin2.formaturamaxi.com.br/fana2es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VÃ©lez Sarsfield vs Instituto
 https://admin2.formaturamaxi.com.br/fana3es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",HuracÃ¡n vs Banfield
+https://admin2.formaturamaxi.com.br/fana4es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Platense vs UniÃ³n Santa Fe
+https://admin2.formaturamaxi.com.br/fana5es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colo-Colo vs Deportes Limache
-https://tedesco.formaturamaxi.com.br/mutv.m3u8
+https://admin2.formaturamaxi.com.br/chile.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mineros de Zacatecas vs Correcaminos UAT
+https://admin2.formaturamaxi.com.br/aymsportsmx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs AmÃ©rica
 https://admin2.formaturamaxi.com.br/azteca7.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs AmÃ©rica (Mirror 1)
@@ -44,7 +54,7 @@ https://admin2.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs San Francisco Giants
 https://admin2.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
-https://tedesco.formaturamaxi.com.br/wwe.m3u8
+https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice
 https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series

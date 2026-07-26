@@ -25,6 +25,8 @@ https://temp.formaturamaxi.com.br/fana3.m3u8
 https://temp.formaturamaxi.com.br/fana3en.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Barracas (Mirror 2)
 https://temp.paradilux.store/fana3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Barracas (Mirror 3)
+https://temp.paradilux.store/fana3en.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chivas vs Juarez
 https://temp.formaturamaxi.com.br/telemundo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chivas vs Juarez (Mirror 1)
@@ -103,14 +105,6 @@ https://temp.formaturamaxi.com.br/mlb13.m3u8
 https://temp.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Texas Rangers
 https://temp.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",JOSHUA vs PRENGA (The Comeback)
-https://temp2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",JOSHUA vs PRENGA (The Comeback) (Mirror 1)
-https://temp2.paradilux.store/ppv.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TSZYU vs SPENCE JR
-https://temp2.formaturamaxi.com.br/ppv2.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TSZYU vs SPENCE JR (Mirror 1)
-https://temp2.paradilux.store/ppv2.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",PFL: Jean vs Rodriguezv
 https://temp.formaturamaxi.com.br/ppv3.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",PFL: Jean vs Rodriguezv (Mirror 1)

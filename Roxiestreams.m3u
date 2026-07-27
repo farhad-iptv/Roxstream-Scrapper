@@ -14,7 +14,21 @@ https://temp.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs SÃ£o Paulo
 https://temp.formaturamaxi.com.br/fana3.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Fluminense
-https://temp.formaturamaxi.com.br/fana4.m3u8
+https://temp.formaturamaxi.com.br/fana4en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Fluminense (Mirror 1)
+https://temp.formaturamaxi.com.br/fana4pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bragantino vs Coritiba
+https://temp.formaturamaxi.com.br/fana5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Remo vs VitÃ³ria
+https://temp.formaturamaxi.com.br/fana6.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo Riestra vs Boca Juniors
+https://temp.formaturamaxi.com.br/fana7.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo Riestra vs Boca Juniors (Mirror 1)
+https://temp.formaturamaxi.com.br/fana7en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Palmeiras vs AtlÃ©tico Mineiro
+https://temp.formaturamaxi.com.br/fana8.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Palmeiras vs AtlÃ©tico Mineiro (Mirror 1)
+https://temp.formaturamaxi.com.br/fana8es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Monterrey
 https://admin2.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Tampa Bay Rays
@@ -50,7 +64,7 @@ https://temp.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Zuffa Boxing 9: Berlanga vs. Butler
 https://tedesco.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW: Redemption
-https://tedesco.formaturamaxi.com.br/aew.m3u8
+https://temp.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MXGP - Coverage
 https://tedesco.formaturamaxi.com.br/mxgp.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Hungarian Grand Prix

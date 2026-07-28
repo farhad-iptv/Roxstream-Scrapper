@@ -1,16 +1,60 @@
 [
   {
     "category": "Soccer",
-    "title": "Costa Rica U20 vs Mexico U20",
-    "start_time": "July 27, 2026 7:00 PM",
+    "title": "Banfield vs Sarmiento",
+    "start_time": "July 28, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-28T06:35:19Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "San Lorenzo vs Gimnasia Mendoza",
+    "start_time": "July 28, 2026 3:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-3",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-28T06:35:19Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Argentinos Juniors vs Estudiantes RÃ­o Cuarto",
+    "start_time": "July 28, 2026 5:15 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-4",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-28T06:35:19Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Rosario Central vs Racing Club",
+    "start_time": "July 28, 2026 5:15 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-07-28T06:35:19Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Santos vs UCV",
+    "start_time": "July 28, 2026 5:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://snowcone.formaturamaxi.com.br/espnmx.m3u8"
+      "https://tedesco.formaturamaxi.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -23,7 +67,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -36,7 +80,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -49,7 +93,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -62,7 +106,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -75,7 +119,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -88,7 +132,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -101,7 +145,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -114,7 +158,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -127,7 +171,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb9.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -140,7 +184,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb10.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -153,7 +197,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb11.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "MLB",
@@ -166,7 +210,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb12.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "NHL",
@@ -177,7 +221,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "Fighting",
@@ -190,7 +234,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "Fighting",
@@ -203,7 +247,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   },
   {
     "category": "Motorsports",
@@ -216,6 +260,6 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-07-28T02:59:40Z"
+    "scraped_at": "2026-07-28T06:35:19Z"
   }
 ]

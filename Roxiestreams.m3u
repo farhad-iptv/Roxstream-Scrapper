@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Costa Rica U20 vs Mexico U20
+https://snowcone.formaturamaxi.com.br/espnmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Texas Rangers
 https://snowcone.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Detroit Tigers
@@ -15,7 +17,15 @@ https://snowcone.formaturamaxi.com.br/mlb6.m3u8
 https://snowcone.formaturamaxi.com.br/mlb7.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Chicago White Sox
 https://snowcone.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs St. Louis Cardinals
+https://snowcone.formaturamaxi.com.br/mlb9.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Los Angeles Angels
 https://snowcone.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Athletics
 https://snowcone.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs San Francisco Giants
+https://snowcone.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
+https://snowcone.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",USAC Sprint Cars (CANCELED)
+https://snowcone.formaturamaxi.com.br/flo.m3u8

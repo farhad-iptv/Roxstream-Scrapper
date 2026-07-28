@@ -1,5 +1,18 @@
 [
   {
+    "category": "Soccer",
+    "title": "Costa Rica U20 vs Mexico U20",
+    "start_time": "July 27, 2026 7:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-2",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://snowcone.formaturamaxi.com.br/espnmx.m3u8"
+    ],
+    "scraped_at": "2026-07-28T02:59:40Z"
+  },
+  {
     "category": "MLB",
     "title": "Seattle Mariners vs Texas Rangers",
     "start_time": "July 27, 2026 11:35 AM",
@@ -10,7 +23,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -23,7 +36,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -36,7 +49,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -49,7 +62,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -62,7 +75,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -75,7 +88,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -88,7 +101,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -101,7 +114,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -111,8 +124,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "streams": [
+      "https://snowcone.formaturamaxi.com.br/mlb9.m3u8"
+    ],
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -125,7 +140,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb10.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -138,7 +153,7 @@
     "streams": [
       "https://snowcone.formaturamaxi.com.br/mlb11.m3u8"
     ],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "MLB",
@@ -148,8 +163,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-12",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "streams": [
+      "https://snowcone.formaturamaxi.com.br/mlb12.m3u8"
+    ],
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "NHL",
@@ -160,7 +177,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "Fighting",
@@ -170,8 +187,10 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "streams": [
+      "https://snowcone.formaturamaxi.com.br/wwe.m3u8"
+    ],
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "Fighting",
@@ -181,18 +200,22 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "streams": [
+      "https://snowcone.formaturamaxi.com.br/wwe.m3u8"
+    ],
+    "scraped_at": "2026-07-28T02:59:40Z"
   },
   {
     "category": "Motorsports",
-    "title": "USAC Sprint Cars",
+    "title": "USAC Sprint Cars (CANCELED)",
     "start_time": "July 27, 2026 4:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/floracing-1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-07-27T21:19:29Z"
+    "streams": [
+      "https://snowcone.formaturamaxi.com.br/flo.m3u8"
+    ],
+    "scraped_at": "2026-07-28T02:59:40Z"
   }
 ]

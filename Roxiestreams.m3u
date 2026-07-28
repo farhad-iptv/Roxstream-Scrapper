@@ -5,10 +5,12 @@ https://tedesco.formaturamaxi.com.br/rma.m3u8
 https://admin2.formaturamaxi.com.br/etb.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",FamalicÃ£o vs Crystal Palace
 https://admin2.formaturamaxi.com.br/sportv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hearts vs Sturm Graz
+https://admin2.formaturamaxi.com.br/sturm.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Everton
 https://tedesco.formaturamaxi.com.br/bein2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigre vs Nacional
-https://tedesco.formaturamaxi.com.br/beines.m3u8
+https://admin2.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Banfield vs Sarmiento
 https://admin2.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",San Lorenzo vs Gimnasia Mendoza
@@ -51,5 +53,5 @@ https://admin2.formaturamaxi.com.br/mlb15.m3u8
 https://admin2.formaturamaxi.com.br/mlb16.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",High Limit Racing
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",USAC Sprint Cars - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8

@@ -11,6 +11,8 @@ https://admin2.formaturamaxi.com.br/sturm.m3u8
 https://tedesco.formaturamaxi.com.br/bein2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigre vs Nacional
 https://admin2.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigre vs Nacional (Mirror 1)
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Banfield vs Sarmiento
 https://admin2.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",San Lorenzo vs Gimnasia Mendoza
@@ -19,6 +21,10 @@ https://admin2.formaturamaxi.com.br/fana2.m3u8
 https://admin2.formaturamaxi.com.br/fana3.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Rosario Central vs Racing Club
 https://admin2.formaturamaxi.com.br/fana4.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Rosario Central vs Racing Club (Mirror 1)
+https://admin2.formaturamaxi.com.br/fana4en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",MLS All-Star Skills Challenge
+https://admin2.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Cincinnati Reds
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Cincinnati Reds (Mirror 1)

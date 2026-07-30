@@ -1,101 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Dortmund vs Cerezo Osaka
-https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Dortmund vs Cerezo Osaka (Mirror 1)
-https://tedesco.paradilux.store/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barracas Central vs Aldosivi
-https://temp.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barracas Central vs Aldosivi (Mirror 1)
-https://temp.paradilux.store/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Betis vs Lyon
-https://tedesco.formaturamaxi.com.br/lyon.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Betis vs Lyon (Mirror 1)
-https://tedesco.paradilux.store/lyon.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Doncaster vs Wolves
-https://tedesco.formaturamaxi.com.br/wolves.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Doncaster vs Wolves (Mirror 1)
-https://tedesco.paradilux.store/wolves.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Defensa y Justicia vs Deportivo Riestra
-https://temp.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Defensa y Justicia vs Deportivo Riestra (Mirror 1)
-https://temp.paradilux.store/fana2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco da Gama vs MedellÃ­n
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sunderland vs Leeds Utd
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco da Gama vs MedellÃ­n (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sunderland vs Leeds Utd (Mirror 1)
 https://tedesco.paradilux.store/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Gimnasia La Plata vs River Plate
-https://temp.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Gimnasia La Plata vs River Plate (Mirror 1)
-https://temp.paradilux.store/fana3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Internacional vs Flamengo
-https://temp.formaturamaxi.com.br/fana4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Internacional vs Flamengo (Mirror 1)
-https://temp.paradilux.store/fana4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs Remo
-https://temp.formaturamaxi.com.br/fana5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs Remo (Mirror 1)
-https://temp.paradilux.store/fana5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wrexham vs Liverpool
-https://tedesco.formaturamaxi.com.br/lfc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wrexham vs Liverpool (Mirror 1)
-https://tedesco.formaturamaxi.com.br/liverpool.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wrexham vs Liverpool (Mirror 2)
-https://tedesco.paradilux.store/lfc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wrexham vs Liverpool (Mirror 3)
-https://tedesco.paradilux.store/liverpool.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",MLS All Star Team vs Liga MX All-Stars
-https://tedesco.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",MLS All Star Team vs Liga MX All-Stars (Mirror 1)
-https://tedesco.paradilux.store/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Bahia
-https://temp.formaturamaxi.com.br/fana6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Bahia (Mirror 1)
-https://temp.paradilux.store/fana6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs Palmeiras
-https://temp.formaturamaxi.com.br/fana7.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs Palmeiras (Mirror 1)
-https://temp.paradilux.store/fana7.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Instituto vs Platense
-https://temp.formaturamaxi.com.br/fana8.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Instituto vs Platense (Mirror 1)
-https://temp.paradilux.store/fana8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Miami Marlins
-https://temp.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Miami Marlins (Mirror 1)
-https://temp.paradilux.store/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs Pittsburgh Pirates
-https://temp.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs Pittsburgh Pirates (Mirror 1)
-https://temp.paradilux.store/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Washington Nationals
-https://temp.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Detroit Tigers
-https://temp.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Detroit Tigers (Mirror 1)
-https://temp.paradilux.store/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs New York Mets
-https://temp.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs San Francisco Giants
-https://temp.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs San Diego Padres
-https://temp.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Tampa Bay Rays
-https://temp.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Cincinnati Reds
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Los Angeles Dodgers
 https://tedesco.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Minnesota Twins
-https://tedesco.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Chicago White Sox
-https://temp.formaturamaxi.com.br/mlb12.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs St. Louis Cardinals
-https://temp.formaturamaxi.com.br/mlb13.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Los Angeles Angels
-https://tedesco.formaturamaxi.com.br/mlb14.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Athletics
-https://tedesco.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://tedesco.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW (Mirror 1)
 https://tedesco.paradilux.store/aew.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",USAC Sprint Cars - Race
-https://temp.formaturamaxi.com.br/flo.m3u8

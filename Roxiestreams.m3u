@@ -11,10 +11,18 @@ https://tedesco.paradilux.store/cbssn.m3u8
 https://tedesco.formaturamaxi.com.br/mutv.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Atletico Madrid (Mirror 1)
 https://tedesco.paradilux.store/mutv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hamburger SV vs Everton
+https://admin2.formaturamaxi.com.br/everton.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hamburger SV vs Everton (Mirror 1)
+https://admin2.paradilux.store/everton.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Fiorentina
 https://admin2.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Fiorentina (Mirror 1)
+https://admin2.formaturamaxi.com.br/madrid.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Fiorentina (Mirror 2)
 https://admin2.paradilux.store/foxd.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Fiorentina (Mirror 3)
+https://admin2.paradilux.store/madrid.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estrela vs Al Nassr
 https://admin2.formaturamaxi.com.br/mono.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estrela vs Al Nassr (Mirror 1)
@@ -76,8 +84,12 @@ https://admin2.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Detroit Tigers vs Athletics
 https://admin2.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Medic vs. Rodriguez
-https://admin2.formaturamaxi.com.br/tnt.m3u8
+https://admin2.formaturamaxi.com.br/happybirthdayabby.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Medic vs. Rodriguez (Mirror 1)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Medic vs. Rodriguez (Mirror 2)
+https://admin2.paradilux.store/happybirthdayabby.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Medic vs. Rodriguez (Mirror 3)
 https://admin2.paradilux.store/tnt.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",O'Leary vs. Chamberlain
 https://admin2.formaturamaxi.com.br/ppv.m3u8

@@ -1,44 +1,28 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tokyo vs Dortmund
+https://admin2.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tokyo vs Dortmund (Mirror 1)
+https://admin2.paradilux.store/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man City vs Inter Milan
-https://admin2.formaturamaxi.com.br/l1max.m3u8
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man City vs Inter Milan (Mirror 1)
-https://admin2.paradilux.store/l1max.m3u8
+https://tedesco.paradilux.store/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Atletico Madrid
-https://admin2.formaturamaxi.com.br/mls.m3u8
+https://tedesco.formaturamaxi.com.br/mutv.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Atletico Madrid (Mirror 1)
-https://admin2.paradilux.store/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cardiff City vs Roma
-https://admin2.formaturamaxi.com.br/azteca7mx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cardiff City vs Roma (Mirror 1)
-https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cardiff City vs Roma (Mirror 2)
-https://admin2.paradilux.store/azteca7mx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cardiff City vs Roma (Mirror 3)
-https://admin2.paradilux.store/espnmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Falkirk vs St Mirren
-https://admin2.formaturamaxi.com.br/vix5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Falkirk vs St Mirren (Mirror 1)
-https://admin2.paradilux.store/vix5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hamburger SV vs Everton
-https://admin2.formaturamaxi.com.br/foxonemx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hamburger SV vs Everton (Mirror 1)
-https://admin2.paradilux.store/foxonemx.m3u8
+https://tedesco.paradilux.store/mutv.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Fiorentina
-https://tedesco.formaturamaxi.com.br/juve.m3u8
+https://admin2.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Fiorentina (Mirror 1)
-https://tedesco.paradilux.store/juve.m3u8
+https://admin2.paradilux.store/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estrela vs Al Nassr
 https://admin2.formaturamaxi.com.br/mono.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estrela vs Al Nassr (Mirror 1)
 https://admin2.paradilux.store/mono.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Girona vs Arsenal
-https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Girona vs Arsenal (Mirror 1)
-https://admin2.formaturamaxi.com.br/mainalt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Girona vs Arsenal (Mirror 2)
-https://admin2.paradilux.store/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Girona vs Arsenal (Mirror 3)
-https://admin2.paradilux.store/mainalt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Fluminense
+https://admin2.formaturamaxi.com.br/foxonemx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Fluminense (Mirror 1)
+https://admin2.paradilux.store/foxonemx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",QuerÃ©taro vs Tigres
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",QuerÃ©taro vs Tigres (Mirror 1)
@@ -91,13 +75,17 @@ https://admin2.formaturamaxi.com.br/mlb13.m3u8
 https://admin2.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Detroit Tigers vs Athletics
 https://admin2.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",PFL: New York
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Medic vs. Rodriguez
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Medic vs. Rodriguez (Mirror 1)
+https://admin2.paradilux.store/tnt.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",O'Leary vs. Chamberlain
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",PFL: New York (Mirror 1)
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",O'Leary vs. Chamberlain (Mirror 1)
 https://admin2.paradilux.store/ppv.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Summerslam (Day 1)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown (Mirror 1)
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Summerslam (Day 1) (Mirror 1)
 https://admin2.paradilux.store/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",USAC Sprint Cars - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8

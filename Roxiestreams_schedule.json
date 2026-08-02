@@ -8,7 +8,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -19,7 +19,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -30,7 +30,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -41,7 +41,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -52,7 +52,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -63,7 +63,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -74,7 +74,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -85,7 +85,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -96,7 +96,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Soccer",
@@ -107,172 +107,172 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "St. Louis Cardinals vs Toronto Blue Jays",
-    "start_time": "August 1, 2026 12:07 PM",
+    "title": "Philadelphia Phillies vs Baltimore Orioles",
+    "start_time": "August 2, 2026 10:35 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Minnesota Twins vs Seattle Mariners",
-    "start_time": "August 1, 2026 01:10 PM",
+    "title": "Washington Nationals vs Atlanta Braves",
+    "start_time": "August 2, 2026 10:35 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Chicago White Sox vs Tampa Bay Rays",
-    "start_time": "August 1, 2026 01:10 PM",
+    "title": "St. Louis Cardinals vs Toronto Blue Jays",
+    "start_time": "August 2, 2026 10:37 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Miami Marlins vs New York Mets",
-    "start_time": "August 1, 2026 01:10 PM",
+    "title": "Arizona Diamondbacks vs Cleveland Guardians",
+    "start_time": "August 2, 2026 10:40 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
     "title": "Pittsburgh Pirates vs Cincinnati Reds",
-    "start_time": "August 1, 2026 03:40 PM",
+    "start_time": "August 2, 2026 10:40 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Philadelphia Phillies vs Baltimore Orioles",
-    "start_time": "August 1, 2026 04:05 PM",
+    "title": "Chicago White Sox vs Tampa Bay Rays",
+    "start_time": "August 2, 2026 10:40 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Texas Rangers vs Houston Astros",
-    "start_time": "August 1, 2026 04:10 PM",
+    "title": "Miami Marlins vs New York Mets",
+    "start_time": "August 2, 2026 10:40 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Arizona Diamondbacks vs Cleveland Guardians",
-    "start_time": "August 1, 2026 04:15 PM",
+    "title": "Texas Rangers vs Houston Astros",
+    "start_time": "August 2, 2026 11:10 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Washington Nationals vs Atlanta Braves",
-    "start_time": "August 1, 2026 04:15 PM",
+    "title": "New York Yankees vs Chicago Cubs",
+    "start_time": "August 2, 2026 11:20 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "New York Yankees vs Chicago Cubs",
-    "start_time": "August 1, 2026 04:15 PM",
+    "title": "Kansas City Royals vs Colorado Rockies",
+    "start_time": "August 2, 2026 12:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-10",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Kansas City Royals vs Colorado Rockies",
-    "start_time": "August 1, 2026 05:10 PM",
+    "title": "Milwaukee Brewers vs Los Angeles Angels",
+    "start_time": "August 2, 2026 12:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-11",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "San Francisco Giants vs San Diego Padres",
-    "start_time": "August 1, 2026 05:40 PM",
+    "title": "Detroit Tigers vs Athletics",
+    "start_time": "August 2, 2026 01:05 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-12",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Boston Red Sox vs Los Angeles Dodgers",
-    "start_time": "August 1, 2026 06:10 PM",
+    "title": "San Francisco Giants vs San Diego Padres",
+    "start_time": "August 2, 2026 01:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-13",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Milwaukee Brewers vs Los Angeles Angels",
-    "start_time": "August 1, 2026 06:38 PM",
+    "title": "Minnesota Twins vs Seattle Mariners",
+    "start_time": "August 2, 2026 01:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-14",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "MLB",
-    "title": "Detroit Tigers vs Athletics",
-    "start_time": "August 1, 2026 06:40 PM",
+    "title": "Boston Red Sox vs Los Angeles Dodgers",
+    "start_time": "August 2, 2026 04:20 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-15",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "NHL",
@@ -283,7 +283,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Fighting",
@@ -294,28 +294,39 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Motorsports",
-    "title": "USAC Sprint Cars - Race",
-    "start_time": "August 1, 2026 4:00 PM",
+    "title": "MXGP (MX2) - Race",
+    "start_time": "August 2, 2026 4:15 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/floracing-1",
+    "stream_page": "https://roxiestreams.su/mxgp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
   },
   {
     "category": "Motorsports",
-    "title": "WoO Sprint Cars - Race",
-    "start_time": "August 1, 2026 4:00 PM",
+    "title": "MXGP - Race",
+    "start_time": "August 2, 2026 5:15 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/floracing-2",
+    "stream_page": "https://roxiestreams.su/mxgp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-02T06:42:54Z"
+    "scraped_at": "2026-08-02T10:06:53Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "IMSA WeatherTech - MOTUL Grand Prix",
+    "start_time": "August 2, 2026 8:40 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/imsa",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-02T10:06:53Z"
   }
 ]

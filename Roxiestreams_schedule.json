@@ -8,7 +8,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "Soccer",
@@ -19,7 +19,29 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "HuracÃ¡n vs AtlÃ©tico TucumÃ¡n",
+    "start_time": "August 3, 2026 5:15 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-4",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-04T03:18:23Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Central CÃ³rdoba SdE vs San Lorenzo",
+    "start_time": "August 3, 2026 5:15 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -30,7 +52,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -41,7 +63,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -52,7 +74,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -63,7 +85,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -74,7 +96,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -85,7 +107,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -96,7 +118,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "MLB",
@@ -107,7 +129,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "NHL",
@@ -118,7 +140,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "Fighting",
@@ -129,7 +151,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "Motorsports",
@@ -140,7 +162,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "Motorsports",
@@ -151,7 +173,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "Motorsports",
@@ -162,7 +184,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   },
   {
     "category": "Motorsports",
@@ -173,6 +195,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-03T21:12:43Z"
+    "scraped_at": "2026-08-04T03:18:23Z"
   }
 ]

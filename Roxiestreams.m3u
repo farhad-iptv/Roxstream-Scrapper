@@ -43,6 +43,10 @@ https://admin2.paradilux.store/mls3.m3u8
 https://admin2.formaturamaxi.com.br/mls4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AmÃ©rica vs San Diego (Mirror 1)
 https://admin2.paradilux.store/mls4.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portland Timbers vs Puebla
+https://admin2.formaturamaxi.com.br/mls5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portland Timbers vs Puebla (Mirror 1)
+https://admin2.paradilux.store/mls5.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs Baltimore Orioles
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs Baltimore Orioles (Mirror 1)

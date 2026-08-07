@@ -1,7 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Crystal Palace
-https://admin2.formaturamaxi.com.br/golazo.m3u8
+https://admin2.formaturamaxi.com.br/palace.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Crystal Palace (Mirror 1)
+https://admin2.paradilux.store/palace.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barcelona vs Nottingham Forest
+https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barcelona vs Nottingham Forest (Mirror 1)
 https://admin2.paradilux.store/golazo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Charlotte vs Atlas
 https://tedesco.formaturamaxi.com.br/foxd.m3u8

@@ -21,12 +21,28 @@ https://admin2.paradilux.store/everton.m3u8
 https://admin2.paradilux.store/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",FerencvÃ¡ros vs Real Madrid (Mirror 1)
 https://admin2.paradilux.store/ncaa5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico TucumÃ¡n vs Sarmiento
+https://admin2.paradilux.store/fanaes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Galatasaray vs Villarreal
 https://admin2.paradilux.store/tdp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Sao Paulo
+https://admin2.paradilux.store/fana2es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Sao Paulo (Mirror 1)
+https://admin2.paradilux.store/fana2pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Valencia vs Newcastle
+https://admin2.paradilux.store/newcastle.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estrela vs Sporting CP
 https://tedesco.paradilux.store/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigre vs River Plate
-https://admin2.paradilux.store/fana.m3u8
+https://admin2.paradilux.store/fana3en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigre vs River Plate (Mirror 1)
+https://admin2.paradilux.store/fana3es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Remo vs AtlÃ©tico Mineiro
+https://admin2.paradilux.store/fana3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Orlando City vs Leon
+https://admin2.paradilux.store/mls.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chivas vs Dallas
+https://tedesco.paradilux.store/tudn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs New York Yankees
 https://admin2.paradilux.store/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Athletics vs Boston Red Sox
@@ -41,5 +57,9 @@ https://admin2.paradilux.store/ppv4.m3u8
 https://admin2.paradilux.store/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Williamson vs. Simpson 2
 https://admin2.paradilux.store/ppv2.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Gamrot vs. Salkilld
+https://admin2.paradilux.store/happybirthdayabby.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://admin2.paradilux.store/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR O'Reilly Auto Parts Series - Race
+https://tedesco.paradilux.store/nascar.m3u8

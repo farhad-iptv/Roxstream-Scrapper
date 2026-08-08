@@ -55,6 +55,8 @@ https://admin2.formaturamaxi.com.br/mlb8.m3u8
 https://admin2.formaturamaxi.com.br/mlb9.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs St. Louis Cardinals
 https://admin2.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Texas Rangers
+https://admin2.formaturamaxi.com.br/mlb11.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Arizona Diamondbacks
 https://admin2.formaturamaxi.com.br/mlb12.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs San Diego Padres

@@ -8,7 +8,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -18,10 +18,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.paradilux.store/golazo.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -31,10 +29,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-20",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/espn.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -44,11 +40,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-4",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/cbssn.m3u8",
-      "https://admin2.paradilux.store/lfc.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -58,10 +51,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-5",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -71,10 +62,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.paradilux.store/golazo.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -84,10 +73,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.paradilux.store/golazo.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -97,10 +84,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/beines.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -110,10 +95,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-21",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mls3.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -123,10 +106,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mutv.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -136,10 +117,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-8",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/everton.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -149,10 +128,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/beines.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -162,11 +139,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-9",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/cbssn.m3u8",
-      "https://admin2.paradilux.store/ncaa5.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -176,10 +150,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-22",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fanaes.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -189,10 +161,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-24",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/l1max.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -202,10 +172,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-10",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/tdp.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -215,11 +183,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-11",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana2es.m3u8",
-      "https://admin2.paradilux.store/fana2pt.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -229,10 +194,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-12",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/newcastle.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -242,10 +205,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-13",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.paradilux.store/beines.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -255,10 +216,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-20",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/espn.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -268,10 +227,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-23",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana7.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -281,11 +238,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-14",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana3en.m3u8",
-      "https://admin2.paradilux.store/fana3es.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -295,10 +249,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-15",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana4.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -308,10 +260,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-16",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mls.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -321,10 +271,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-17",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana5.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -334,10 +282,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-18",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mls2.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -347,10 +293,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-19",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana6.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Soccer",
@@ -360,11 +304,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-14",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fana3en.m3u8",
-      "https://admin2.paradilux.store/fana3es.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -374,10 +315,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mlb.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -387,10 +326,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mlb2.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -401,7 +338,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -411,10 +348,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mlb4.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -425,7 +360,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -436,7 +371,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -447,7 +382,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -458,7 +393,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -469,7 +404,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -480,7 +415,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -491,7 +426,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -502,7 +437,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -513,7 +448,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -524,7 +459,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "MLB",
@@ -534,10 +469,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-15",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/mlb15.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "NHL",
@@ -548,7 +481,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Fighting",
@@ -558,10 +491,8 @@
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/wwe.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -571,11 +502,8 @@
     "stream_page": "https://roxiestreams.su/motogp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fs1.m3u8",
-      "https://admin2.paradilux.store/tnt2.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -585,11 +513,8 @@
     "stream_page": "https://roxiestreams.su/motogp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fs1.m3u8",
-      "https://admin2.paradilux.store/tnt2.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -599,11 +524,8 @@
     "stream_page": "https://roxiestreams.su/indycar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fox.m3u8",
-      "https://admin2.paradilux.store/fs1.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -613,11 +535,8 @@
     "stream_page": "https://roxiestreams.su/indycar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fox.m3u8",
-      "https://admin2.paradilux.store/fs1.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -627,10 +546,8 @@
     "stream_page": "https://roxiestreams.su/nascar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://tedesco.paradilux.store/nascar.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -640,11 +557,8 @@
     "stream_page": "https://roxiestreams.su/indycar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.paradilux.store/fox.m3u8",
-      "https://admin2.paradilux.store/fs1.m3u8"
-    ],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "streams": [],
+    "scraped_at": "2026-08-09T13:09:59Z"
   },
   {
     "category": "Motorsports",
@@ -655,6 +569,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-09T08:58:12Z"
+    "scraped_at": "2026-08-09T13:09:59Z"
   }
 ]

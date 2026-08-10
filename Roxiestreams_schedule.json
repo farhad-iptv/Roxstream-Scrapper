@@ -10,7 +10,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -23,7 +23,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -36,7 +36,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -49,7 +49,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -62,7 +62,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -75,7 +75,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -88,7 +88,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -101,7 +101,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -114,7 +114,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb9.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "MLB",
@@ -127,7 +127,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb10.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "NHL",
@@ -138,12 +138,12 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Fighting",
     "title": "WWE RAW",
-    "start_time": "August 9, 2026 5:00 PM",
+    "start_time": "August 10, 2026 5:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/wwe-streams",
     "group": "Combat Sports",
@@ -151,7 +151,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -165,7 +165,7 @@
       "https://admin2.formaturamaxi.com.br/fs1.m3u8",
       "https://admin2.formaturamaxi.com.br/tnt2.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -179,7 +179,7 @@
       "https://admin2.formaturamaxi.com.br/fs1.m3u8",
       "https://admin2.formaturamaxi.com.br/tnt2.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -192,7 +192,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/indycar.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -205,7 +205,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/indycar.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -218,7 +218,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/nascar.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -231,7 +231,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/indycar.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   },
   {
     "category": "Motorsports",
@@ -244,6 +244,6 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-08-10T09:41:34Z"
+    "scraped_at": "2026-08-10T13:23:42Z"
   }
 ]

@@ -2,29 +2,23 @@
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BodÃ¸ / Glimt vs USG
 https://admin2.formaturamaxi.com.br/sportv.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Deportivo Recoleta
-https://admin2.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Deportivo Recoleta (Mirror 1)
-https://admin2.formaturamaxi.com.br/lfc.m3u8
+https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Rivadavia
-https://admin2.formaturamaxi.com.br/fana.m3u8
+https://tedesco.formaturamaxi.com.br/beinalt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Charlotte vs Pachuca
-https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Columbus Crew vs Pumas
-https://admin2.formaturamaxi.com.br/fana3pt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cincinnati vs Atlas
-https://admin2.formaturamaxi.com.br/fana4en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cincinnati vs Atlas (Mirror 1)
-https://admin2.formaturamaxi.com.br/fana4es.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cincinnati vs Atlas (Mirror 2)
-https://admin2.formaturamaxi.com.br/fana4pt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BolÃ­var vs Sao Paulo
 https://admin2.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Columbus Crew vs Pumas
+https://admin2.formaturamaxi.com.br/mlss.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cincinnati vs Atlas
+https://admin2.formaturamaxi.com.br/mls3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BolÃ­var vs Sao Paulo
+https://admin2.formaturamaxi.com.br/sao.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Minnesota United vs Atlante
-https://admin2.formaturamaxi.com.br/fana7.m3u8
+https://admin2.formaturamaxi.com.br/mls7.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Salt Lake vs Juarez
-https://admin2.formaturamaxi.com.br/fana8.m3u8
+https://admin2.formaturamaxi.com.br/mls8.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigres vs Vancouver Whitecaps
-https://admin2.formaturamaxi.com.br/colo.m3u8
+https://admin2.formaturamaxi.com.br/imagenmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Detroit Tigers
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Miami Marlins
@@ -57,6 +51,8 @@ https://admin2.formaturamaxi.com.br/mlb14.m3u8
 https://admin2.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
 https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White Contender Series
+https://admin2.formaturamaxi.com.br/dwcs.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://admin2.formaturamaxi.com.br/fs1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)

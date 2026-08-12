@@ -10,9 +10,9 @@ https://admin2.formaturamaxi.com.br/stv.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Deportivo La Coruna
 https://tedesco.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",PSG vs Aston Villa
-https://admin2.formaturamaxi.com.br/cbssn.m3u8
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",PSG vs Aston Villa (Mirror 1)
-https://admin2.formaturamaxi.com.br/mlss.m3u8
+https://tedesco.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Palmeiras vs Cerro PorteÃ±o
 https://admin2.formaturamaxi.com.br/mls3.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Platense vs Coquimbo Unido
@@ -64,4 +64,4 @@ https://admin2.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",World of Outlaws Sprint Cars - Qualifying
-https://admin2.formaturamaxi.com.br/tnt2.m3u8
+https://admin2.formaturamaxi.com.br/flo.m3u8

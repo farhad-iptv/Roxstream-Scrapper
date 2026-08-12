@@ -1,16 +1,22 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Arsenal vs Como
 https://admin2.formaturamaxi.com.br/espn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Arsenal vs Como (Mirror 1)
-https://admin2.formaturamaxi.com.br/espnalt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds United vs Man United
 https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds United vs Man United (Mirror 1)
 https://admin2.formaturamaxi.com.br/stv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham Forest vs Bayer Leverkusen
+https://admin2.formaturamaxi.com.br/notts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Deportivo La Coruna
 https://tedesco.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",PSG vs Aston Villa
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+https://admin2.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",PSG vs Aston Villa (Mirror 1)
+https://admin2.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",PSG vs Aston Villa (Mirror 2)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",PSG vs Aston Villa (Mirror 3)
+https://admin2.formaturamaxi.com.br/tntmx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Palmeiras vs Cerro PorteÃ±o
 https://admin2.formaturamaxi.com.br/mls3.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Platense vs Coquimbo Unido

@@ -1,14 +1,10 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Shelbourne vs Ajax
-https://admin2.formaturamaxi.com.br/espn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Shelbourne vs Ajax (Mirror 1)
-https://admin2.formaturamaxi.com.br/espnalt.m3u8
+https://tedesco.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Macara
-https://admin2.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Macara (Mirror 1)
-https://admin2.formaturamaxi.com.br/stv.m3u8
+https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Olimpia
-https://admin2.formaturamaxi.com.br/notts.m3u8
+https://tedesco.formaturamaxi.com.br/xtra.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Philadelphia Union vs Santos Laguna
 https://tedesco.formaturamaxi.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",New York City vs Necaxa
@@ -19,12 +15,8 @@ https://admin2.formaturamaxi.com.br/cbssn.m3u8
 https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AmÃ©rica vs Austin (Mirror 2)
 https://admin2.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Rosario Central vs Corinthians
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruz Azul vs Chicago Fire
-https://tedesco.formaturamaxi.com.br/xtra.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portland Timbers vs Tijuana
-https://tedesco.formaturamaxi.com.br/bein6.m3u8
+https://tedesco.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Detroit Tigers
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Miami Marlins
@@ -43,6 +35,10 @@ https://admin2.formaturamaxi.com.br/mlb7.m3u8
 https://admin2.formaturamaxi.com.br/mlb8.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
 https://admin2.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs New England Patriots
+https://admin2.formaturamaxi.com.br/nfl3.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Arizona Cardinals vs Las Vegas Raiders
+https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown

@@ -1,56 +1,48 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Shabab vs Al Quadisiya
-https://admin2.formaturamaxi.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Shelbourne vs Ajax
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Parma vs Catania
 https://tedesco.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Macara
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Hilal vs Al Faisaly
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs LDU Quito
-https://admin2.formaturamaxi.com.br/bein3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Olimpia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Blackburn Rovers
 https://tedesco.formaturamaxi.com.br/xtra.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Philadelphia Union vs Santos Laguna
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting CP vs VitÃ³ria GuimarÃ£es
 https://admin2.formaturamaxi.com.br/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",New York City vs Necaxa
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Bernardo vs Botafogo SP
 https://admin2.formaturamaxi.com.br/mls2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AmÃ©rica vs Austin
-https://admin2.formaturamaxi.com.br/mls3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Rosario Central vs Corinthians
-https://admin2.formaturamaxi.com.br/cor.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruz Azul vs Chicago Fire
-https://admin2.formaturamaxi.com.br/mls6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portland Timbers vs Tijuana
-https://admin2.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portland Timbers vs Tijuana (Mirror 1)
-https://admin2.formaturamaxi.com.br/imagenmx.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Detroit Tigers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Chicago Cubs
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Miami Marlins
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Miami Marlins vs Cincinnati Reds
 https://admin2.formaturamaxi.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs New York Yankees
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Pittsburgh Pirates
 https://admin2.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs Chicago White Sox
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
 https://admin2.formaturamaxi.com.br/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Toronto Blue Jays
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs New York Mets
 https://admin2.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Washington Nationals
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Cleveland Guardians
 https://admin2.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Minnesota Twins
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Tampa Bay Rays
 https://admin2.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Los Angeles Angels
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs Atlanta Braves
 https://admin2.formaturamaxi.com.br/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Yankees vs Toronto Blue Jays
 https://admin2.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Green Bay Packers vs Pittsburgh Steelers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Houston Astros
+https://admin2.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Los Angeles Angels
+https://admin2.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Athletics
+https://admin2.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Los Angeles Dodgers
+https://admin2.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs San Francisco Giants
+https://admin2.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Denver Broncos vs Atlanta Falcons
+https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs New York
 https://admin2.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs New England Patriots
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Miami Dolphins vs Washington Commanders
 https://admin2.formaturamaxi.com.br/nfl3.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Arizona Cardinals vs Las Vegas Raiders
-https://admin2.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Chargers vs Houston Texans
-https://admin2.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tennessee Titans vs San Francisco 49ers
-https://admin2.formaturamaxi.com.br/nfl6.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown

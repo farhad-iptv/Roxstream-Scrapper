@@ -25,3 +25,5 @@ https://admin.formaturamaxi.com.br/mlb.m3u8
 https://admin.paradilux.store/mlb.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Coverage
 https://admin.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Coverage (Mirror 1)
+https://admin.paradilux.store/fs2.m3u8

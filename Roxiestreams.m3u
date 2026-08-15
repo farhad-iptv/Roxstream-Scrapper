@@ -1,29 +1,31 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Hilal vs Al Faisaly
-https://tedesco.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Hilal vs Al Faisaly (Mirror 1)
-https://tedesco.paradilux.store/fsp.m3u8
+https://daffodil.paradilux.store/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monza vs Avellino
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monza vs Avellino (Mirror 1)
-https://tedesco.paradilux.store/golazo.m3u8
+https://daffodil.paradilux.store/golazo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Blackburn Rovers
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Blackburn Rovers (Mirror 1)
-https://tedesco.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Blackburn Rovers (Mirror 2)
-https://tedesco.formaturamaxi.com.br/xtra.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Blackburn Rovers (Mirror 3)
-https://tedesco.paradilux.store/main.m3u8
+https://admin.paradilux.store/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting CP vs VitÃ³ria GuimarÃ£es
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting CP vs VitÃ³ria GuimarÃ£es (Mirror 1)
-https://tedesco.paradilux.store/beines.m3u8
+https://daffodil.paradilux.store/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Bernardo vs Botafogo SP
+https://daffodil.paradilux.store/sportv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Correcaminos UAT vs TapatÃ­o
+https://admin2.paradilux.store/espn4mx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Chicago Cubs
-https://admin.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Chicago Cubs (Mirror 1)
 https://admin.paradilux.store/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Miami Marlins vs Cincinnati Reds
+https://admin2.paradilux.store/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
+https://admin2.paradilux.store/mlb4.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs New York
+https://tedesco.paradilux.store/nfl2.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Miami Dolphins vs Washington Commanders
+https://admin2.paradilux.store/nfl3.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",CFFC 159: Bobe vs. Isah
+https://admin2.paradilux.store/ppv2.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
+https://admin2.paradilux.store/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Fury FC 123: Freeman vs. Johns
+https://admin2.paradilux.store/ppv.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Coverage
-https://admin.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Coverage (Mirror 1)
 https://admin.paradilux.store/fs2.m3u8

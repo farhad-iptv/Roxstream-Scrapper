@@ -27,6 +27,10 @@ https://admin2.paradilux.store/fulham.m3u8
 https://daffodil.paradilux.store/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sheffield United vs Birmingham City
 https://admin2.paradilux.store/golazo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sheffield United vs Birmingham City (Mirror 1)
+https://admin2.paradilux.store/ncaa7.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Oviedo vs Granada CF
+https://admin2.paradilux.store/oviedo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Milan vs Real Betis
 https://admin2.paradilux.store/inter.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo AlavÃ©s vs Getafe
@@ -38,17 +42,19 @@ https://admin2.paradilux.store/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Athletico-PR vs Bragantino
 https://admin2.paradilux.store/fana2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Toluca
-https://tedesco.paradilux.store/tudn.m3u8
+https://admin2.paradilux.store/espnmx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CF Montreal vs DC United
-https://admin2.paradilux.store/fana2en.m3u8
+https://admin2.paradilux.store/mls.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Coritiba
 https://admin2.paradilux.store/fana5es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Platense
 https://admin2.paradilux.store/fana7.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nashville SC vs Inter Miami
-https://admin2.paradilux.store/fana6es.m3u8
+https://admin2.paradilux.store/mls2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Juarez
+https://admin2.paradilux.store/canal5.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
-https://admin.paradilux.store/mlb.m3u8
+https://admin2.paradilux.store/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Chicago Cubs
 https://admin2.paradilux.store/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs San Francisco Giants
@@ -59,20 +65,22 @@ https://admin2.paradilux.store/mlb15.m3u8
 https://admin2.paradilux.store/nfl2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Minnesota Vikings vs New York Giants
 https://admin2.paradilux.store/nfl3.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Rams vs Kansas City Chiefs
-https://admin2.paradilux.store/nfl4.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Jacksonville Jaguars vs New Orleans Saints
 https://admin2.paradilux.store/nfl5.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Philadelphia Eagles vs Baltimore Ravens
 https://admin2.paradilux.store/nfl6.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Philadelphia Eagles vs Baltimore Ravens (Mirror 1)
+https://admin2.paradilux.store/nflalt.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 330: Makhachev vs. Machado Garry
-https://admin2.paradilux.store/tnt.m3u8
+https://admin2.paradilux.store/abbiecadabrii.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 330: Makhachev vs. Machado Garry (Mirror 1)
-https://admin2.paradilux.store/ufcalt.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",SHIELDS VS SCOTT
-https://admin2.paradilux.store/ppv.m3u8
+https://admin2.paradilux.store/hub.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 330: Makhachev vs. Machado Garry (Mirror 2)
+https://admin2.paradilux.store/tnt.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Redneck Brawl 14
 https://admin2.paradilux.store/ppv2.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",SHIELDS VS SCOTT
+https://admin2.paradilux.store/ppv.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",INDYCAR - Coverage
 https://admin2.paradilux.store/indycar.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Race

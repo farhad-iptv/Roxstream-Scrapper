@@ -1,31 +1,79 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Hilal vs Al Faisaly
-https://daffodil.paradilux.store/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monza vs Avellino
-https://daffodil.paradilux.store/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Blackburn Rovers
-https://admin.paradilux.store/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting CP vs VitÃ³ria GuimarÃ£es
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds Utd vs Augsburg
+https://admin2.paradilux.store/leeds.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayern MÃ¼nchen vs Leipzig
+https://daffodil.paradilux.store/win.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Aston Villa vs Borussia
+https://daffodil.paradilux.store/xtra.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Aston Villa vs Borussia (Mirror 1)
+https://daffodil.paradilux.store/xtraes.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brentford vs Frankfurt
+https://admin2.paradilux.store/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brighton vs Bologna
+https://admin2.paradilux.store/brighton.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Lille
+https://admin2.paradilux.store/everton.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Newcastle vs Bayer Leverkusen
+https://admin2.paradilux.store/newcastle.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tottenham vs Hoffenheim
+https://admin2.paradilux.store/totts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Milan
+https://tedesco.paradilux.store/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Milan (Mirror 1)
+https://tedesco.paradilux.store/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Stuttgart
+https://admin2.paradilux.store/fulham.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Dortmund vs Roma
 https://daffodil.paradilux.store/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Bernardo vs Botafogo SP
-https://daffodil.paradilux.store/sportv.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Correcaminos UAT vs TapatÃ­o
-https://admin2.paradilux.store/espn4mx.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Chicago Cubs
-https://admin.paradilux.store/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Miami Marlins vs Cincinnati Reds
-https://admin2.paradilux.store/mlb2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sheffield United vs Birmingham City
+https://admin2.paradilux.store/golazo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Milan vs Real Betis
+https://admin2.paradilux.store/inter.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo AlavÃ©s vs Getafe
+https://admin2.paradilux.store/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Nassr vs Al Fateh
+https://tedesco.paradilux.store/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Palmeiras
+https://admin2.paradilux.store/fana.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Athletico-PR vs Bragantino
+https://admin2.paradilux.store/fana2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Toluca
+https://tedesco.paradilux.store/tudn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CF Montreal vs DC United
+https://admin2.paradilux.store/fana2en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Coritiba
+https://admin2.paradilux.store/fana5es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Platense
+https://admin2.paradilux.store/fana7.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nashville SC vs Inter Miami
+https://admin2.paradilux.store/fana6es.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Detroit Tigers
+https://admin.paradilux.store/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Chicago Cubs
+https://admin2.paradilux.store/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs San Francisco Giants
 https://admin2.paradilux.store/mlb4.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs New York
-https://tedesco.paradilux.store/nfl2.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Miami Dolphins vs Washington Commanders
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Athletics
+https://admin2.paradilux.store/mlb15.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Cleveland Browns vs Chicago Bears
+https://admin2.paradilux.store/nfl2.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Minnesota Vikings vs New York Giants
 https://admin2.paradilux.store/nfl3.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",CFFC 159: Bobe vs. Isah
-https://admin2.paradilux.store/ppv2.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
-https://admin2.paradilux.store/wwe.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Fury FC 123: Freeman vs. Johns
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Rams vs Kansas City Chiefs
+https://admin2.paradilux.store/nfl4.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Jacksonville Jaguars vs New Orleans Saints
+https://admin2.paradilux.store/nfl5.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Philadelphia Eagles vs Baltimore Ravens
+https://admin2.paradilux.store/nfl6.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 330: Makhachev vs. Machado Garry
+https://admin2.paradilux.store/tnt.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 330: Makhachev vs. Machado Garry (Mirror 1)
+https://admin2.paradilux.store/ufcalt.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",SHIELDS VS SCOTT
 https://admin2.paradilux.store/ppv.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Coverage
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Redneck Brawl 14
+https://admin2.paradilux.store/ppv2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",INDYCAR - Coverage
+https://admin2.paradilux.store/indycar.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series - Race
 https://admin.paradilux.store/fs2.m3u8

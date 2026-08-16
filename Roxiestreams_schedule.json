@@ -1,311 +1,190 @@
 [
   {
     "category": "Soccer",
-    "title": "Leeds Utd vs Augsburg",
-    "start_time": "August 15, 2026 6:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Bayern MÃ¼nchen vs Leipzig",
-    "start_time": "August 15, 2026 6:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-5",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Aston Villa vs Borussia",
-    "start_time": "August 15, 2026 6:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-6",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Brentford vs Frankfurt",
-    "start_time": "August 15, 2026 7:00 AM",
+    "title": "Chapecoense vs Bahia",
+    "start_time": "August 16, 2026 7:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Brighton vs Bologna",
-    "start_time": "August 15, 2026 7:00 AM",
+    "title": "Racing Santander vs Villarreal",
+    "start_time": "August 16, 2026 8:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-8",
+    "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Everton vs Lille",
-    "start_time": "August 15, 2026 7:00 AM",
+    "title": "Espanyol vs Levante",
+    "start_time": "August 16, 2026 10:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "stream_page": "https://roxiestreams.su/soccer-streams-4",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Newcastle vs Bayer Leverkusen",
-    "start_time": "August 15, 2026 7:00 AM",
+    "title": "Pumas UNAM vs QuerÃ©taro",
+    "start_time": "August 16, 2026 11:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-10",
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Tottenham vs Hoffenheim",
-    "start_time": "August 15, 2026 7:00 AM",
+    "title": "Sarmiento vs HuracÃ¡n",
+    "start_time": "August 16, 2026 11:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Middlesbrough vs Lincoln City",
-    "start_time": "August 15, 2026 7:00 AM",
+    "title": "AtlÃ©tico Mineiro vs GrÃªmio",
+    "start_time": "August 16, 2026 12:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Man United vs Milan",
-    "start_time": "August 15, 2026 7:45 AM",
+    "title": "Vasco da Gama vs Santos",
+    "start_time": "August 16, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-8",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-16T08:42:34Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Celta de Vigo vs Osasuna",
+    "start_time": "August 16, 2026 12:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-16T08:42:34Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "River Plate vs Argentinos Juniors",
+    "start_time": "August 16, 2026 2:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-10",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-16T08:42:34Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Mirassol vs Flamengo",
+    "start_time": "August 16, 2026 2:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-08-16T08:42:34Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "VitÃ³ria vs Botafogo",
+    "start_time": "August 16, 2026 2:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-12",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Fulham vs Stuttgart",
-    "start_time": "August 15, 2026 8:00 AM",
+    "title": "Corinthians vs Cruzeiro",
+    "start_time": "August 16, 2026 3:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-13",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Dortmund vs Roma",
-    "start_time": "August 15, 2026 8:30 AM",
+    "title": "AmÃ©rica vs AtlÃ©tico de San Luis",
+    "start_time": "August 16, 2026 4:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-14",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Sheffield United vs Birmingham City",
-    "start_time": "August 15, 2026 9:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Real Oviedo vs Granada CF",
-    "start_time": "August 15, 2026 10:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-25",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Inter Milan vs Real Betis",
-    "start_time": "August 15, 2026 10:30 AM",
+    "title": "Central CÃ³rdoba SdE vs Instituto",
+    "start_time": "August 16, 2026 4:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-15",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Deportivo AlavÃ©s vs Getafe",
-    "start_time": "August 15, 2026 10:30 AM",
+    "title": "Barracas Central vs Rosario Central",
+    "start_time": "August 16, 2026 4:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-16",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Al Nassr vs Al Fateh",
-    "start_time": "August 15, 2026 11:00 AM",
+    "title": "Santos Laguna vs Guadalajara",
+    "start_time": "August 16, 2026 6:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-17",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Soccer",
-    "title": "Fluminense vs Palmeiras",
-    "start_time": "August 15, 2026 12:30 PM",
+    "title": "Tijuana vs Cruz Azul",
+    "start_time": "August 16, 2026 8:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-18",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Rio Ave vs Porto",
-    "start_time": "August 15, 2026 12:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-12",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Sevilla vs Rao Vallecano",
-    "start_time": "August 15, 2026 12:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-16",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Athletico-PR vs Bragantino",
-    "start_time": "August 15, 2026 2:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-19",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Atlante vs Toluca",
-    "start_time": "August 15, 2026 4:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-20",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "CF Montreal vs DC United",
-    "start_time": "August 15, 2026 4:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-21",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "SÃ£o Paulo vs Coritiba",
-    "start_time": "August 15, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-22",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Boca Juniors vs Platense",
-    "start_time": "August 15, 2026 5:15 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-23",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Nashville SC vs Inter Miami",
-    "start_time": "August 15, 2026 5:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-24",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Monterrey vs Juarez",
-    "start_time": "August 15, 2026 6:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-26",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Atlas vs Tigres",
-    "start_time": "August 15, 2026 8:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-27",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -316,7 +195,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -327,7 +206,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -338,7 +217,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -349,7 +228,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -360,7 +239,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -371,7 +250,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -382,7 +261,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -393,7 +272,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -404,7 +283,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -415,7 +294,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -426,7 +305,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -437,7 +316,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -448,7 +327,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -459,7 +338,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "MLB",
@@ -470,7 +349,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NFL",
@@ -481,7 +360,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NFL",
@@ -492,7 +371,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NFL",
@@ -503,7 +382,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NFL",
@@ -514,7 +393,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NFL",
@@ -525,7 +404,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NFL",
@@ -536,7 +415,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "NHL",
@@ -547,7 +426,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Fighting",
@@ -558,7 +437,7 @@
     "group": "Combat Sports",
     "epg_id": "UFC.Fight.Pass.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Fighting",
@@ -569,7 +448,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Fighting",
@@ -580,7 +459,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Fighting",
@@ -591,7 +470,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Motorsports",
@@ -602,7 +481,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Motorsports",
@@ -613,7 +492,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Motorsports",
@@ -624,7 +503,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Motorsports",
@@ -635,7 +514,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Motorsports",
@@ -646,7 +525,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   },
   {
     "category": "Motorsports",
@@ -657,6 +536,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-16T04:49:52Z"
+    "scraped_at": "2026-08-16T08:42:34Z"
   }
 ]

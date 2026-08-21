@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",FC Cajamarca vs AtlÃ©tico Grau
 https://tedesco.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",FC Cajamarca vs AtlÃ©tico Grau (Mirror 1)
-https://tedesco.paradiluxglobe.com/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Aldosivi vs UniÃ³n Santa Fe
 https://admin2.formaturamaxi.com.br/freiburg.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Aldosivi vs UniÃ³n Santa Fe (Mirror 1)
@@ -89,7 +87,5 @@ https://admin2.formaturamaxi.com.br/nfl2.m3u8
 https://admin2.paradiluxglobe.com/nfl2.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://tedesco.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW (Mirror 1)
-https://tedesco.paradiluxglobe.com/aew.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Interstate Batteries High Limit - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8

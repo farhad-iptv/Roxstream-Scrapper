@@ -40,25 +40,21 @@ https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Betis vs Real Sociedad (Mirror 1)
 https://tedesco.paradiluxglobe.com/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes RÃ­o Cuarto vs San Lorenzo
-https://admin2.formaturamaxi.com.br/alt.m3u8
+https://admin2.formaturamaxi.com.br/afaplay.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes RÃ­o Cuarto vs San Lorenzo (Mirror 1)
-https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes RÃ­o Cuarto vs San Lorenzo (Mirror 2)
-https://admin2.paradiluxglobe.com/alt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes RÃ­o Cuarto vs San Lorenzo (Mirror 3)
-https://admin2.paradiluxglobe.com/beines.m3u8
+https://admin2.paradiluxglobe.com/afaplay.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Monterrey
+https://admin2.formaturamaxi.com.br/foxplus.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Monterrey (Mirror 1)
+https://admin2.paradiluxglobe.com/foxplus.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigres UANL vs Atlante
-https://admin2.formaturamaxi.com.br/fana5.m3u8
+https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigres UANL vs Atlante (Mirror 1)
-https://admin2.paradiluxglobe.com/fana5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",QuerÃ©taro vs Toluca
-https://admin2.formaturamaxi.com.br/canal5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",QuerÃ©taro vs Toluca (Mirror 1)
-https://admin2.paradiluxglobe.com/canal5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",JuÃ¡rez vs AmÃ©rica
-https://admin2.formaturamaxi.com.br/inter.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",JuÃ¡rez vs AmÃ©rica (Mirror 1)
-https://admin2.paradiluxglobe.com/inter.m3u8
+https://admin2.formaturamaxi.com.br/foxone.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigres UANL vs Atlante (Mirror 2)
+https://admin2.paradiluxglobe.com/aztecadeportes.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tigres UANL vs Atlante (Mirror 3)
+https://admin2.paradiluxglobe.com/foxone.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs Milwaukee Brewers
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs Milwaukee Brewers (Mirror 1)
@@ -72,7 +68,11 @@ https://admin2.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Boston Red Sox
 https://admin2.formaturamaxi.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Boston Red Sox (Mirror 1)
+https://admin2.formaturamaxi.com.br/mlb4alt.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Boston Red Sox (Mirror 2)
 https://admin2.paradiluxglobe.com/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Francisco Giants vs Boston Red Sox (Mirror 3)
+https://admin2.paradiluxglobe.com/mlb4alt.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Miami Marlins
 https://admin2.formaturamaxi.com.br/mlb5.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Baltimore Orioles
@@ -109,6 +109,10 @@ https://admin2.paradiluxglobe.com/nfl2.m3u8
 https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Green Bay Packers vs Denver Broncos (Mirror 1)
 https://admin2.paradiluxglobe.com/nfl3.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
+https://tedesco.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown (Mirror 1)
+https://tedesco.paradiluxglobe.com/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Sprint Qualifying
 https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Sprint Qualifying (Mirror 1)

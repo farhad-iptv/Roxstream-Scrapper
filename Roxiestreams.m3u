@@ -14,7 +14,7 @@ https://admin2.pawtner.com.au/main.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Chelsea (Mirror 1)
 https://admin2.pawtner.com.au/usa.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Athletico-PR
-https://admin2.pawtner.com.au/colo.m3u8
+https://admin2.pawtner.com.au/fana.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Miami Marlins
@@ -26,7 +26,9 @@ https://admin2.pawtner.com.au/indycar.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Tennessee Titans (Mirror 1)
 https://admin2.pawtner.com.au/nfl.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
-https://tedesco.pawtner.com.au/wwe.m3u8
+https://admin2.pawtner.com.au/alt.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW (Mirror 1)
+https://admin2.pawtner.com.au/wwe.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
 https://admin2.pawtner.com.au/ppv.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix

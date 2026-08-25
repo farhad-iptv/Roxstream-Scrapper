@@ -1,36 +1,54 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",NEOM vs Al Quadisiya
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sabah vs H. BEER-Sheva
 https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Osasuna vs Levante
-https://tedesco.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Ittihad vs Al Hazm
-https://admin2.pawtner.com.au/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hallescher FC vs Schalke 04
-https://admin2.pawtner.com.au/sch.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Roma vs Fiorentina
-https://tedesco.pawtner.com.au/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Chelsea
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Chelsea (Mirror 1)
-https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Athletico-PR
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sabah vs H. BEER-Sheva (Mirror 1)
+https://tedesco.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Nassr vs Al Ittifaq
+https://tedesco.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Hull
+https://admin2.pawtner.com.au/vsport.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ipswich Town vs Leicester CIty
 https://admin2.pawtner.com.au/fana.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Plymouth Argyle vs Coventry City
+https://admin2.pawtner.com.au/fana2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford
+https://admin2.pawtner.com.au/fana3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Leeds
+https://admin2.pawtner.com.au/abc.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Leeds (Mirror 1)
+https://admin2.pawtner.com.au/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BodÃ¸ / Glimt vs NEC
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LASK Linz vs Celtic
+https://tedesco.pawtner.com.au/prem.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Atletico Mineiro
+https://admin2.pawtner.com.au/fana6.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Independiente Valle vs Deportes Tolima
+https://admin2.pawtner.com.au/fana7.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chicago Fire
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chicago Fire (Mirror 1)
+https://admin2.pawtner.com.au/usa.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Real Salt Lake
+https://tedesco.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Miami Marlins
 https://admin2.pawtner.com.au/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Chicago White Sox
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs New York Yankees
 https://admin2.pawtner.com.au/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs San Francisco Giants
+https://admin2.pawtner.com.au/mlb15.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Tennessee Titans
 https://admin2.pawtner.com.au/indycar.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Tennessee Titans (Mirror 1)
 https://admin2.pawtner.com.au/nfl.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
-https://admin2.pawtner.com.au/alt.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW (Mirror 1)
-https://admin2.pawtner.com.au/wwe.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
 https://admin2.pawtner.com.au/ppv.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
+https://admin2.pawtner.com.au/alt.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 1)
+https://admin2.pawtner.com.au/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix
 https://admin2.pawtner.com.au/now.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix (Mirror 1)

@@ -5,10 +5,18 @@ https://tedesco.pawtner.com.au/fsp.m3u8
 https://tedesco.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Nassr vs Al Ittifaq
 https://tedesco.pawtner.com.au/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cardiff City vs Norwich City
+https://admin2.pawtner.com.au/cardiff.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Hull
 https://admin2.pawtner.com.au/vsport.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sheffield Wednesday vs Wolves
+https://admin2.pawtner.com.au/wolves.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ipswich Town vs Leicester CIty
+https://admin2.pawtner.com.au/ipswich.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Southampton vs West Ham
 https://admin2.pawtner.com.au/westham.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Plymouth Argyle vs Coventry City
+https://admin2.pawtner.com.au/ply.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford
 https://admin2.pawtner.com.au/brentford.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford (Mirror 1)
@@ -46,8 +54,6 @@ https://admin2.pawtner.com.au/alt.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 1)
 https://admin2.pawtner.com.au/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix
-https://admin2.pawtner.com.au/now.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix (Mirror 1)
 https://admin2.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",INDYCAR Series - Warmup
 https://admin2.pawtner.com.au/mix.m3u8

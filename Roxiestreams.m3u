@@ -7,30 +7,26 @@ https://tedesco.pawtner.com.au/tnt.m3u8
 https://tedesco.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Hull
 https://admin2.pawtner.com.au/vsport.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ipswich Town vs Leicester CIty
-https://admin2.pawtner.com.au/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Plymouth Argyle vs Coventry City
-https://admin2.pawtner.com.au/fana2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Southampton vs West Ham
+https://admin2.pawtner.com.au/westham.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford
-https://admin2.pawtner.com.au/fana3.m3u8
+https://admin2.pawtner.com.au/brentford.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford (Mirror 1)
+https://admin2.pawtner.com.au/plus.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Leeds
-https://admin2.pawtner.com.au/abc.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Leeds (Mirror 1)
-https://admin2.pawtner.com.au/dep.m3u8
+https://admin2.pawtner.com.au/leeds.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BodÃ¸ / Glimt vs NEC
 https://admin2.pawtner.com.au/tnt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LASK Linz vs Celtic
 https://tedesco.pawtner.com.au/prem.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Valencia vs Real Betis
+https://admin2.pawtner.com.au/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Atletico Mineiro
 https://admin2.pawtner.com.au/fana6.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Independiente Valle vs Deportes Tolima
 https://admin2.pawtner.com.au/fana7.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chicago Fire
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chicago Fire (Mirror 1)
-https://admin2.pawtner.com.au/usa.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Real Salt Lake
-https://tedesco.pawtner.com.au/dep.m3u8
+https://admin2.pawtner.com.au/mls.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Miami Marlins

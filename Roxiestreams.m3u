@@ -39,25 +39,15 @@ https://admin2.pawtner.com.au/mls.m3u8
 https://admin2.pawtner.com.au/mlses.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs Miami Marlins
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Arizona Diamondbacks
 https://admin2.pawtner.com.au/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs New York Yankees
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Los Angeles Angels
 https://admin2.pawtner.com.au/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs San Francisco Giants
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Minnesota Twins vs Athletics
 https://admin2.pawtner.com.au/mlb15.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Ohio Dominican vs Morehead State
 https://admin2.pawtner.com.au/win.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Tszyu vs. Mahoney
 https://admin2.pawtner.com.au/ppv.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
-https://admin2.pawtner.com.au/wwe.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix
-https://admin2.pawtner.com.au/now.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Dutch Grand Prix (Mirror 1)
-https://admin2.pawtner.com.au/tsn.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",INDYCAR Series - Warmup
-https://admin2.pawtner.com.au/indycar.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",INDYCAR Series - Warmup (Mirror 1)
-https://admin2.pawtner.com.au/mix.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race
-https://admin2.pawtner.com.au/arca.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
+https://tedesco.pawtner.com.au/aew.m3u8

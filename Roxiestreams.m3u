@@ -1,42 +1,34 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sabah vs H. BEER-Sheva
-https://tedesco.pawtner.com.au/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sabah vs H. BEER-Sheva (Mirror 1)
-https://tedesco.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Nassr vs Al Ittifaq
-https://tedesco.pawtner.com.au/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cardiff City vs Norwich City
-https://admin2.pawtner.com.au/cardiff.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Hull
-https://admin2.pawtner.com.au/vsport.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sheffield Wednesday vs Wolves
-https://admin2.pawtner.com.au/wolves.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ipswich Town vs Leicester CIty
-https://admin2.pawtner.com.au/ipswich.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Southampton vs West Ham
-https://admin2.pawtner.com.au/westham.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Plymouth Argyle vs Coventry City
-https://admin2.pawtner.com.au/ply.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford
-https://admin2.pawtner.com.au/brentford.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Birmingham City vs Brentford (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Newcastle vs West Bromwich
 https://admin2.pawtner.com.au/plus.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Leeds
-https://admin2.pawtner.com.au/leeds.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BodÃ¸ / Glimt vs NEC
-https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LASK Linz vs Celtic
-https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Valencia vs Real Betis
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tottenham vs Charlton
+https://tedesco.pawtner.com.au/tott.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Real Sociedad
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Atletico Mineiro
-https://admin2.pawtner.com.au/sportv.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Independiente Valle vs Deportes Tolima
-https://admin2.pawtner.com.au/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chicago Fire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Real Sociedad (Mirror 1)
+https://admin2.pawtner.com.au/mx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celje vs Slovan Bratislava
+https://admin2.pawtner.com.au/cel.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AEK Athens vs Levski Sofia
+https://admin2.pawtner.com.au/athens.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Olympique Lyonnais vs FenerbahÃ§e
+https://admin2.pawtner.com.au/prem.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Viking vs Dinamo Zagreb
+https://admin2.pawtner.com.au/vikings.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Preston North End
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Palmeiras
+https://admin2.pawtner.com.au/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Vitoria
+https://tedesco.pawtner.com.au/prem.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Santa Fe
+https://admin2.pawtner.com.au/wolves.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs Austin
 https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chicago Fire (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs Austin (Mirror 1)
 https://admin2.pawtner.com.au/mlses.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AmÃ©rica vs Columbus Crew
+https://admin2.pawtner.com.au/ipswich.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Arizona Diamondbacks

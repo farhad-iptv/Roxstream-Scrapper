@@ -11,7 +11,7 @@
       "https://tedesco.pawtner.com.au/fsp.m3u8",
       "https://tedesco.pawtner.com.au/tnt.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -24,7 +24,7 @@
     "streams": [
       "https://tedesco.pawtner.com.au/cbssn.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -37,7 +37,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/cardiff.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -50,7 +50,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/vsport.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -63,7 +63,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/wolves.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -76,7 +76,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/ipswich.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -89,7 +89,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/westham.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -102,7 +102,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/ply.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -114,10 +114,9 @@
     "epg_id": "Soccer.Dummy.us",
     "streams": [
       "https://admin2.pawtner.com.au/brentford.m3u8",
-      "https://admin2.pawtner.com.au/plus.m3u8",
-      "https://admin2.pawtner.com.au/ply.m3u8"
+      "https://admin2.pawtner.com.au/plus.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -128,10 +127,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.pawtner.com.au/leeds.m3u8",
-      "https://admin2.pawtner.com.au/ply.m3u8"
+      "https://admin2.pawtner.com.au/leeds.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -144,7 +142,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/tnt.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -157,7 +155,7 @@
     "streams": [
       "https://tedesco.pawtner.com.au/prem.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -170,7 +168,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/dep.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -183,7 +181,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/sportv.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -196,7 +194,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/beines.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -210,7 +208,7 @@
       "https://admin2.pawtner.com.au/mls.m3u8",
       "https://admin2.pawtner.com.au/mlses.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Soccer",
@@ -221,7 +219,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -234,7 +232,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/mlb.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -247,7 +245,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/mlb2.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -258,7 +256,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -271,7 +269,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/mlb4.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -282,7 +280,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -293,7 +291,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -304,7 +302,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -315,7 +313,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -326,7 +324,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -337,7 +335,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -348,7 +346,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -359,7 +357,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -370,7 +368,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -381,7 +379,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "MLB",
@@ -394,7 +392,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/mlb15.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "NFL",
@@ -407,7 +405,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/win.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "NHL",
@@ -418,7 +416,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Fighting",
@@ -431,7 +429,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/ppv.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Fighting",
@@ -444,7 +442,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/wwe.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Fighting",
@@ -457,7 +455,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/ppv.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -468,7 +466,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -479,7 +477,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -493,7 +491,7 @@
       "https://admin2.pawtner.com.au/now.m3u8",
       "https://admin2.pawtner.com.au/tsn.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -507,7 +505,7 @@
       "https://admin2.pawtner.com.au/indycar.m3u8",
       "https://admin2.pawtner.com.au/mix.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -518,7 +516,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -532,7 +530,7 @@
       "https://admin2.pawtner.com.au/indycar.m3u8",
       "https://admin2.pawtner.com.au/mix.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -545,7 +543,7 @@
     "streams": [
       "https://admin2.pawtner.com.au/arca.m3u8"
     ],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   },
   {
     "category": "Motorsports",
@@ -556,6 +554,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-08-26T04:52:20Z"
+    "scraped_at": "2026-08-26T08:58:05Z"
   }
 ]

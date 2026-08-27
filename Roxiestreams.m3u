@@ -1,45 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Newcastle vs West Bromwich
-https://admin2.pawtner.com.au/plus.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tottenham vs Charlton
-https://tedesco.pawtner.com.au/tott.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Real Sociedad
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Real Sociedad (Mirror 1)
-https://admin2.pawtner.com.au/mx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celje vs Slovan Bratislava
-https://admin2.pawtner.com.au/cel.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AEK Athens vs Levski Sofia
-https://admin2.pawtner.com.au/athens.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Olympique Lyonnais vs FenerbahÃ§e
-https://admin2.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Viking vs Dinamo Zagreb
-https://admin2.pawtner.com.au/vikings.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Preston North End
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Palmeiras
-https://admin2.pawtner.com.au/tnt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Vitoria
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Freiburg vs Motherwell
 https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Santa Fe
-https://admin2.pawtner.com.au/wolves.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs Austin
-https://admin2.pawtner.com.au/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs Austin (Mirror 1)
-https://admin2.pawtner.com.au/mlses.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AmÃ©rica vs Columbus Crew
-https://admin2.pawtner.com.au/ipswich.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Detroit Tigers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs Washington Nationals
 https://admin2.pawtner.com.au/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Arizona Diamondbacks
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs St. Louis Cardinals
 https://admin2.pawtner.com.au/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Los Angeles Angels
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Toronto Blue Jays
 https://admin2.pawtner.com.au/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Minnesota Twins vs Athletics
-https://admin2.pawtner.com.au/mlb15.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Ohio Dominican vs Morehead State
-https://admin2.pawtner.com.au/win.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Tszyu vs. Mahoney
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
 https://admin2.pawtner.com.au/ppv.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
-https://tedesco.pawtner.com.au/aew.m3u8

@@ -1,23 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Freiburg vs Motherwell
-https://tedesco.pawtner.com.au/prem.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AGF vs Benfica
-https://admin2.pawtner.com.au/benfica.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celta Vigo vs Osasuna
-https://admin2.pawtner.com.au/celta.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chelsea vs Luton
-https://admin2.pawtner.com.au/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barcelona vs Athletic Club
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo AlavÃ©s vs Villarreal
 https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barcelona vs Athletic Club (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo AlavÃ©s vs Villarreal (Mirror 1)
 https://admin2.pawtner.com.au/skymx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Wimbledon
-https://tedesco.pawtner.com.au/sporting.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs Washington Nationals
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs Chicago Cubs
 https://admin2.pawtner.com.au/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs St. Louis Cardinals
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Toronto Blue Jays
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Cleveland Guardians
 https://admin2.pawtner.com.au/mlb4.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Washington Commanders vs Baltimore Ravens
+https://admin2.pawtner.com.au/nfl.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Miami Dolphins
+https://admin2.pawtner.com.au/nfl2.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Houston Texans vs Carolina Panthers
+https://admin2.pawtner.com.au/nfl3.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Road to UFC: Shanghai
 https://admin2.pawtner.com.au/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Marksman vs Barreto (Matchroom)
+https://admin2.pawtner.com.au/ppv2.m3u8

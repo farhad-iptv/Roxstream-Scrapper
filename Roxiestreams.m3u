@@ -1,21 +1,53 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo AlavÃ©s vs Villarreal
-https://admin2.pawtner.com.au/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Deportivo AlavÃ©s vs Villarreal (Mirror 1)
-https://admin2.pawtner.com.au/skymx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Racing Santander vs Elche
+https://tedesco.pawtner.com.au/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Nassr vs Al Taawon
+https://tedesco.pawtner.com.au/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayern MÃ¼nchen vs Stuttgart
+https://tedesco.pawtner.com.au/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lille vs PSG
+https://admin2.pawtner.com.au/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lille vs PSG (Mirror 1)
+https://admin2.pawtner.com.au/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Milan vs Venezia
+https://admin2.pawtner.com.au/para.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Crystal Palace vs Manchester City
+https://admin2.pawtner.com.au/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Crystal Palace vs Manchester City (Mirror 1)
+https://admin2.pawtner.com.au/usa.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wrexham vs Birmingham
+https://admin2.pawtner.com.au/foot.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Comerciantes Unidos vs FC Cajamarca
+https://admin2.pawtner.com.au/l1max.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs Chicago Cubs
 https://admin2.pawtner.com.au/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Detroit Tigers
 https://admin2.pawtner.com.au/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Cleveland Guardians
 https://admin2.pawtner.com.au/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Arizona Diamondbacks vs San Francisco Giants
+https://admin2.pawtner.com.au/mlb15.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Washington Commanders vs Baltimore Ravens
 https://admin2.pawtner.com.au/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Miami Dolphins
 https://admin2.pawtner.com.au/nfl2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Houston Texans vs Carolina Panthers
 https://admin2.pawtner.com.au/nfl3.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs New York Jets
+https://admin2.pawtner.com.au/nfl4.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs Jacksonville Jaguars
+https://admin2.pawtner.com.au/nfl5.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New Orleans Saints vs Dallas Cowboys
+https://admin2.pawtner.com.au/nfl6.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Arizona Cardinals vs Green Bay Packers
+https://admin2.pawtner.com.au/nfl7.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Kansas City Chiefs
+https://admin2.pawtner.com.au/nfl8.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Cincinnati Bengals vs Philadelphia Eagles
+https://admin2.pawtner.com.au/nfl9.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Road to UFC: Shanghai
 https://admin2.pawtner.com.au/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Marksman vs Barreto (Matchroom)
 https://admin2.pawtner.com.au/ppv2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",INDYCAR Series - Free Practice
+https://admin2.pawtner.com.au/indycar.m3u8

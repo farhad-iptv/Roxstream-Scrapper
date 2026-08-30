@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Stoke City
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Elversberg vs Bayer Leverkusen
-https://tedesco.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Stoke City (Mirror 1)
+https://tedesco.pawtner.com.au/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tottenham vs Newcastle
 https://admin.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tottenham vs Newcastle (Mirror 1)
+https://admin.pawtner.com.au/ncaa2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs VitÃ³ria
 https://admin.formaturamaxi.com.br/fanapt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs VitÃ³ria (Mirror 1)
@@ -13,9 +15,29 @@ https://admin.formaturamaxi.com.br/sportdigitalfuss.m3u8
 https://admin.pawtner.com.au/fanapt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs VitÃ³ria (Mirror 3)
 https://admin.pawtner.com.au/sportdigitalfuss.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlas vs QuerÃ©taro
+https://tedesco.formaturamaxi.com.br/vix.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlas vs QuerÃ©taro (Mirror 1)
+https://tedesco.pawtner.com.au/vix.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Chivas
+https://tedesco.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Chivas (Mirror 1)
+https://tedesco.pawtner.com.au/tudn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs RB Bragantino
+https://admin.formaturamaxi.com.br/fana8.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs RB Bragantino (Mirror 1)
+https://admin.pawtner.com.au/fana8.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs CF Montreal
+https://admin.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs CF Montreal (Mirror 1)
+https://admin.pawtner.com.au/mls.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting KC vs Vancouver Whitecaps
-https://admin.formaturamaxi.com.br/tsn.m3u8
+https://admin.formaturamaxi.com.br/portlandes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting KC vs Vancouver Whitecaps (Mirror 1)
+https://admin.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting KC vs Vancouver Whitecaps (Mirror 2)
+https://admin.pawtner.com.au/portlandes.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sporting KC vs Vancouver Whitecaps (Mirror 3)
 https://admin.pawtner.com.au/tsn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Boston Red Sox vs New York Yankees
 https://admin.formaturamaxi.com.br/mlb.m3u8
@@ -73,6 +95,14 @@ https://admin.pawtner.com.au/ppv.m3u8
 https://admin.formaturamaxi.com.br/ppv2.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Itauma vs. Hrgovic: Natural Born Thriller (Mirror 1)
 https://admin.pawtner.com.au/ppv2.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Duel Arena: Perry vs Jenkins / Gypsy Crusader vs Azoulay
+https://admin.formaturamaxi.com.br/ppv3.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Duel Arena: Perry vs Jenkins / Gypsy Crusader vs Azoulay (Mirror 1)
+https://admin.pawtner.com.au/ppv3.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Lara vs. Ornelas
+https://admin.formaturamaxi.com.br/ppv4.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Lara vs. Ornelas (Mirror 1)
+https://admin.pawtner.com.au/ppv4.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT: Heatwave
 https://admin.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT: Heatwave (Mirror 1)

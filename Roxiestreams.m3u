@@ -19,6 +19,8 @@ https://tempp.formaturamaxi.com.br/dep.m3u8
 https://temp.formaturamaxi.com.br/usa.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Napoli vs Como
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Napoli vs Como (Mirror 1)
+https://tedesco.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Quadisiya vs Al Faisaly
 https://tedesco.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Asteras Tripolis vs Olympiacos
@@ -32,13 +34,11 @@ https://tempp.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs Botafogo
 https://tempp.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colo-Colo vs Audax Italiano
-https://tedesco.formaturamaxi.com.br/vix.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Chapecoense
-https://tedesco.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs Palmeiras
-https://admin.formaturamaxi.com.br/fana8.m3u8
+https://tempp.formaturamaxi.com.br/colo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahia vs Internacional
-https://admin.formaturamaxi.com.br/mls.m3u8
+https://admin.formaturamaxi.com.br/fana3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs JuÃ¡rez
+https://tedesco.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Miami Marlins vs Washington Nationals
 https://admin.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs Atlanta Braves

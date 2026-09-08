@@ -1,16 +1,30 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cagliari vs Lecce
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AEK Athens vs LASK Linz
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Getafe vs Celta Vigo
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Club Brugge vs Aston Villa
 https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Hilal vs NEOM
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Ittihad vs Al-Fayha
 https://tedesco.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bromley vs Wimbledon
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Al Quadisiya vs Al-Ahli
 https://admin2.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs GrÃªmio
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs GrÃªmio (Mirror 1)
-https://admin2.formaturamaxi.com.br/skymx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Crystal Palace vs Middlesbrough
+https://admin.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Dortmund vs Villarreal
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lille vs Real Betis
+https://admin2.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Inter Milan
+https://admin2.formaturamaxi.com.br/fana3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Porto vs Man City
+https://admin2.formaturamaxi.com.br/fana4.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Porto vs Man City (Mirror 1)
+https://admin2.formaturamaxi.com.br/fana4en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Millwall vs Newcastle
+https://admin2.formaturamaxi.com.br/pfc1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Platense
+https://admin2.formaturamaxi.com.br/mlses.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Platense (Mirror 1)
+https://admin.formaturamaxi.com.br/fanaen.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Atlanta Braves vs Philadelphia Phillies
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Miami Marlins

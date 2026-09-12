@@ -21,16 +21,22 @@ https://admin2.formaturamaxi.com.br/skymx.m3u8
 https://admin.formaturamaxi.com.br/afaplay1.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",UTC Cajamarca vs Juan Pablo II College
 https://admin.formaturamaxi.com.br/l1max.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Defensa y Justicia vs Gimnasia Mendoza
+https://admin.formaturamaxi.com.br/afaplay2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coritiba vs Athletico-PR
-https://admin2.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cusco vs Melgar
-https://admin2.formaturamaxi.com.br/mls2.m3u8
+https://admin.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coritiba vs Athletico-PR (Mirror 1)
+https://admin.formaturamaxi.com.br/fanapt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Central Cordoba
-https://admin2.formaturamaxi.com.br/tudnus.m3u8
+https://admin.formaturamaxi.com.br/afaplay3en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Central Cordoba (Mirror 1)
+https://admin.formaturamaxi.com.br/afaplay3es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Puebla
-https://admin2.formaturamaxi.com.br/foot.m3u8
+https://admin2.formaturamaxi.com.br/foxmx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Pachuca
-https://tedesco.formaturamaxi.com.br/santos.m3u8
+https://admin2.formaturamaxi.com.br/aztecadeportesmxhd.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Pachuca (Mirror 1)
+https://admin2.formaturamaxi.com.br/espn2mx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Chicago Cubs
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs Detroit Tigers
@@ -63,6 +69,16 @@ https://admin2.formaturamaxi.com.br/mlb14.m3u8
 https://admin2.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ONE Samurai 3
+https://admin2.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",East vs West XXVI
+https://admin2.formaturamaxi.com.br/ppv2.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Noche: Silva vs. Delgado
+https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Noche: Silva vs. Delgado (Mirror 1)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Ryan Garcia vs Conor Benn (ZUFFA)
+https://admin2.formaturamaxi.com.br/ppv5.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",World 100 - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Interstate High Limit Racing - Race

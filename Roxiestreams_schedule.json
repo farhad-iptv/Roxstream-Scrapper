@@ -1,722 +1,553 @@
 [
   {
     "category": "Soccer",
-    "title": "Birmingham City vs Derby County",
-    "start_time": "September 12, 2026 4:30 AM",
+    "title": "Rangers vs Celtic",
+    "start_time": "September 13, 2026 4:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dallas.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "West Bromwich vs QPR",
-    "start_time": "September 12, 2026 4:30 AM",
+    "title": "Sheffield United vs Wolves",
+    "start_time": "September 13, 2026 4:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/golazo.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Racing Santander vs Deportivo Alaves",
-    "start_time": "September 12, 2026 5:00 AM",
+    "title": "Celta Vigo vs MÃ¡laga",
+    "start_time": "September 13, 2026 5:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Dortmund vs Paderborn",
-    "start_time": "September 12, 2026 6:30 AM",
+    "title": "Coventry City vs Brighton",
+    "start_time": "September 13, 2026 6:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-4",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/one.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Aston Villa vs Nottingham",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "Lille vs Troyes",
+    "start_time": "September 13, 2026 6:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-5",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/aston.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Bournemouth vs Brentford",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "Lecce vs Monza",
+    "start_time": "September 13, 2026 6:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/brentford.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Chelsea vs Hull",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "RB Leipzig vs Hamburger",
+    "start_time": "September 13, 2026 6:30 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/usa.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Crystal Palace vs Ipswich",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "Levante vs Barcelona",
+    "start_time": "September 13, 2026 7:15 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-3",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Le Mans vs Lens",
+    "start_time": "September 13, 2026 8:15 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Man United vs Man City",
+    "start_time": "September 13, 2026 8:30 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-8",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/ipswich.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Liverpool vs Fulham",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "Elversberg vs Bayern MÃ¼nchen",
+    "start_time": "September 13, 2026 8:30 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-9",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/lfc.m3u8",
-      "https://admin2.formaturamaxi.com.br/prem.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Middlesbrough vs Norwich",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "Napoli vs Bologna",
+    "start_time": "September 13, 2026 9:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-2",
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/golazo.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Swansea City vs Burnley",
-    "start_time": "September 12, 2026 7:00 AM",
+    "title": "Benfica vs Gil Vicente",
+    "start_time": "September 13, 2026 10:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "stream_page": "https://roxiestreams.su/soccer-streams-10",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dallas.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Osasuna vs Espanyol",
-    "start_time": "September 12, 2026 7:15 AM",
+    "title": "Galatasaray vs Kocaelispor",
+    "start_time": "September 13, 2026 10:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-11",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Strasbourg vs Monaco",
-    "start_time": "September 12, 2026 8:15 AM",
+    "title": "Sassuolo vs Juventus",
+    "start_time": "September 13, 2026 11:45 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-6",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "PSG vs Brest",
+    "start_time": "September 13, 2026 11:45 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "VitÃ³ria vs Mirassol",
+    "start_time": "September 13, 2026 12:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-12",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/bein.m3u8",
-      "https://tedesco.formaturamaxi.com.br/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Olympiakos Piraeus vs OPI",
-    "start_time": "September 12, 2026 9:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-30",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/claro.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Lazio vs Milan",
-    "start_time": "September 12, 2026 9:00 AM",
+    "title": "Flamengo vs Corinthians",
+    "start_time": "September 13, 2026 1:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-13",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/tele.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Athletic Club vs Elche",
-    "start_time": "September 12, 2026 9:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-11",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Tottenham vs Everton",
-    "start_time": "September 12, 2026 9:30 AM",
+    "title": "Chicago Fire vs New England",
+    "start_time": "September 13, 2026 2:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-14",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/ncaa13.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "KÃ¶ln vs Werder Bremen",
-    "start_time": "September 12, 2026 9:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/one.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Kilmarnock vs Aberdeen",
-    "start_time": "September 12, 2026 9:45 AM",
+    "title": "Santos Laguna vs JuÃ¡rez",
+    "start_time": "September 13, 2026 6:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-15",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/prem.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Soccer",
-    "title": "Casa Pia vs Porto",
-    "start_time": "September 12, 2026 10:00 AM",
+    "title": "Chivas vs Pumas",
+    "start_time": "September 13, 2026 6:07 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-16",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/bein.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Al Khaleej vs Al Nassr",
-    "start_time": "September 12, 2026 11:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-17",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/fsp.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Atalanta vs Cagliari",
-    "start_time": "September 12, 2026 11:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-1",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dallas.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Auxerre vs Nice",
-    "start_time": "September 12, 2026 11:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-18",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Paris vs Lyon",
-    "start_time": "September 12, 2026 11:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-12",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/bein.m3u8",
-      "https://tedesco.formaturamaxi.com.br/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Arsenal vs Sunderland",
-    "start_time": "September 12, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-7",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/usa.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Real Madrid vs Rayo Vallecano",
-    "start_time": "September 12, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-19",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "AtlÃ©tico Mineiro vs Fluminense",
-    "start_time": "September 12, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-20",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Vasco vs Gremio",
-    "start_time": "September 12, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-21",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana2.m3u8",
-      "https://admin.formaturamaxi.com.br/fana2es.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Chapecoense vs Internacional",
-    "start_time": "September 12, 2026 1:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-22",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana3.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "AtlÃ©tico TucumÃ¡n vs River Plate",
-    "start_time": "September 12, 2026 1:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-23",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana4.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Palmeiras vs SÃ£o Paulo",
-    "start_time": "September 12, 2026 2:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-24",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana5.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Toluca vs Atlas",
-    "start_time": "September 12, 2026 4:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-25",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Inter Miami vs Nashville",
-    "start_time": "September 12, 2026 4:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-26",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8",
-      "https://tedesco.formaturamaxi.com.br/mls.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Orlando City SC vs Toronto",
-    "start_time": "September 12, 2026 4:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-27",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8",
-      "https://tedesco.formaturamaxi.com.br/mls2.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Botafogo vs Braganino",
-    "start_time": "September 12, 2026 4:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-28",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana6.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Santos vs Cruziero",
-    "start_time": "September 12, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-29",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana7.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Monterrey vs Tigres",
-    "start_time": "September 12, 2026 6:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-25",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Cruz Azul vs AmÃ©rica",
-    "start_time": "September 12, 2026 8:15 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-25",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "MLB",
     "title": "Colorado Rockies vs Detroit Tigers",
-    "start_time": "September 12, 2026 10:10 AM",
+    "start_time": "September 13, 2026 09:10 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "New York Mets vs New York Yankees",
-    "start_time": "September 12, 2026 10:35 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-2",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb2.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Pittsburgh Pirates vs Chicago Cubs",
-    "start_time": "September 12, 2026 11:20 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-3",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb3.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Baltimore Orioles vs Toronto Blue Jays",
-    "start_time": "September 12, 2026 12:07 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-4",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb4.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "MLB",
     "title": "Los Angeles Angels vs Washington Nationals",
-    "start_time": "September 12, 2026 01:05 PM",
+    "start_time": "September 13, 2026 10:35 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-5",
+    "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb5.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "San Diego Padres vs San Francisco Giants",
-    "start_time": "September 12, 2026 01:05 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-6",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb6.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Kansas City Royals vs Boston Red Sox",
-    "start_time": "September 12, 2026 01:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-7",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/mlb7.m3u8",
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb7.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Cleveland Guardians vs Minnesota Twins",
-    "start_time": "September 12, 2026 01:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-8",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/mlb8.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Los Angeles Dodgers vs Miami Marlins",
-    "start_time": "September 12, 2026 01:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-9",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/mlb9.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Houston Astros vs Tampa Bay Rays",
-    "start_time": "September 12, 2026 03:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-10",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb10.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Cincinnati Reds vs Milwaukee Brewers",
-    "start_time": "September 12, 2026 04:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-11",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb11.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "MLB",
     "title": "Philadelphia Phillies vs Atlanta Braves",
-    "start_time": "September 12, 2026 04:15 PM",
+    "start_time": "September 13, 2026 10:35 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-12",
+    "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/mlb12.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "New York Mets vs New York Yankees",
+    "start_time": "September 13, 2026 10:35 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-4",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Baltimore Orioles vs Toronto Blue Jays",
+    "start_time": "September 13, 2026 10:37 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-5",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Houston Astros vs Tampa Bay Rays",
+    "start_time": "September 13, 2026 10:40 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-6",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Los Angeles Dodgers vs Miami Marlins",
+    "start_time": "September 13, 2026 10:40 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-7",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cleveland Guardians vs Minnesota Twins",
+    "start_time": "September 13, 2026 11:10 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-8",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cincinnati Reds vs Milwaukee Brewers",
+    "start_time": "September 13, 2026 11:10 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-9",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "MLB",
     "title": "Chicago White Sox vs St. Louis Cardinals",
-    "start_time": "September 12, 2026 04:15 PM",
+    "start_time": "September 13, 2026 11:15 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-13",
+    "stream_page": "https://roxiestreams.su/mlb-streams-10",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/mlb13.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "MLB",
-    "title": "Texas Rangers vs Arizona Diamondbacks",
-    "start_time": "September 12, 2026 05:10 PM",
+    "title": "Pittsburgh Pirates vs Chicago Cubs",
+    "start_time": "September 13, 2026 11:20 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "stream_page": "https://roxiestreams.su/mlb-streams-11",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb14.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Kansas City Royals vs Boston Red Sox",
+    "start_time": "September 13, 2026 12:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-12",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "MLB",
     "title": "Seattle Mariners vs Athletics",
-    "start_time": "September 12, 2026 06:40 PM",
+    "start_time": "September 13, 2026 01:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-13",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Texas Rangers vs Arizona Diamondbacks",
+    "start_time": "September 13, 2026 01:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "MLB",
+    "title": "San Diego Padres vs San Francisco Giants",
+    "start_time": "September 13, 2026 04:20 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-15",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/mlb15.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "NFL RedZone",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/redzone",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Tampa Bay Buccaneers vs Cincinnati Bengals",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-1",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "New Orleans Saints vs Detroit Lions",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-2",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "New York Jets vs Tennessee Titans",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-3",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Baltimore Ravens vs Indianapolis Colts",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-4",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Atlanta Falcons vs Pittsburgh Steelers",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-5",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Chicago Bears vs Carolina Panthers",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-6",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Cleveland Browns vs Jacksonville Jaguars",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-7",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Buffalo Bills vs Houston Texans",
+    "start_time": "Sep 13, 2026 10:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-8",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Miami Dolphins vs Las Vegas Raiders",
+    "start_time": "Sep 13, 2026 1:25 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-9",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Green Bay Packers vs Minnesota Vikings",
+    "start_time": "Sep 13, 2026 1:25 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-10",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Washington Commanders vs Philadelphia Eagles",
+    "start_time": "Sep 13, 2026 1:25 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-11",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Arizona Cardinals vs Los Angeles Chargers",
+    "start_time": "Sep 13, 2026 1:25 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-12",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "NFL",
+    "title": "Dallas Cowboys vs New York Giants",
+    "start_time": "Sep 13, 2026 5:20 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nfl-streams-13",
+    "group": "Football",
+    "epg_id": "Football.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "NHL",
@@ -726,11 +557,8 @@
     "stream_page": "https://roxiestreams.su/nhl-streams-1",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -740,12 +568,8 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-1",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/ppv.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -755,12 +579,8 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-2",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/ppv2.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -770,12 +590,8 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-3",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/ppv3.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -785,13 +601,8 @@
     "stream_page": "https://roxiestreams.su/ufc",
     "group": "Combat Sports",
     "epg_id": "UFC.Fight.Pass.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8",
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8",
-      "https://admin2.formaturamaxi.com.br/tnt.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -801,12 +612,8 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-4",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/ppv4.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -816,13 +623,8 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-5",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/ppv5.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8",
-      "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/12602870383c159bdc826f7bbbe87148/manifest/video.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Fighting",
@@ -832,38 +634,8 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-1",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/dep.m3u8",
-      "https://admin2.formaturamaxi.com.br/ppv.m3u8",
-      "https://admin2.formaturamaxi.com.br/rma.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Motorsports",
-    "title": "World 100 - Race",
-    "start_time": "September 12, 2026 3:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/floracing-2",
-    "group": "Motorsports",
-    "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/flo2.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
-  },
-  {
-    "category": "Motorsports",
-    "title": "ARCA Menards Series - Race",
-    "start_time": "September 12, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/arca",
-    "group": "Motorsports",
-    "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/ncaa4.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Motorsports",
@@ -873,10 +645,8 @@
     "stream_page": "https://roxiestreams.su/mxgp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/mxgp.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Motorsports",
@@ -886,10 +656,8 @@
     "stream_page": "https://roxiestreams.su/mxgp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/mxgp.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Motorsports",
@@ -899,11 +667,19 @@
     "stream_page": "https://roxiestreams.su/motogp",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/tnt2.m3u8",
-      "https://tedesco.formaturamaxi.com.br/mxgp.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "MotoGP - Grand Prix of San Marino",
+    "start_time": "September 13, 2026 5:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/motogp",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Motorsports",
@@ -913,10 +689,8 @@
     "stream_page": "https://roxiestreams.su/f1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/f1.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   },
   {
     "category": "Motorsports",
@@ -926,9 +700,7 @@
     "stream_page": "https://roxiestreams.su/nascar",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/usa.m3u8"
-    ],
-    "scraped_at": "2026-09-13T04:27:40Z"
+    "streams": [],
+    "scraped_at": "2026-09-13T13:23:05Z"
   }
 ]

@@ -1,22 +1,16 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Como vs Parma
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
+https://tedesco.formaturamaxi.com.br/como.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Torino vs Roma
-https://admin2.formaturamaxi.com.br/foot.m3u8
+https://admin2.formaturamaxi.com.br/torino.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Gaziantep FK vs FenerbahÃ§e
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Milan vs Udinese
-https://admin2.formaturamaxi.com.br/alt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Milan vs Udinese (Mirror 1)
-https://admin2.formaturamaxi.com.br/usa.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds vs Newcastle
-https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds vs Newcastle (Mirror 1)
 https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Villarreal vs Real Betis
-https://admin2.formaturamaxi.com.br/pea.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahia vs Remo
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds vs Newcastle
 https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds vs Newcastle (Mirror 1)
+https://admin2.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Villarreal vs Real Betis
+https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs San Luis
 https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Cincinnati Reds

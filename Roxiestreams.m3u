@@ -1,27 +1,113 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cincinnati Reds vs Milwaukee Brewers
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/434afeb0a795102853fbdb7c11a10bc8/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Rangers vs Celtic
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sheffield United vs Wolves
+https://admin2.formaturamaxi.com.br/foot.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celta Vigo vs MÃ¡laga
+https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coventry City vs Brighton
+https://admin2.formaturamaxi.com.br/alt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coventry City vs Brighton (Mirror 1)
+https://admin2.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lille vs Troyes
+https://tedesco.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lille vs Troyes (Mirror 1)
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",RB Leipzig vs Hamburger
+https://admin2.formaturamaxi.com.br/pea.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Man City
+https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Elversberg vs Bayern MÃ¼nchen
+https://admin2.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Benfica vs Gil Vicente
+https://admin2.formaturamaxi.com.br/benfica.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs Mirassol
+https://admin2.formaturamaxi.com.br/pfc2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs Corinthians
+https://admin2.formaturamaxi.com.br/pfc1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colo-Colo vs  Concepcion
+https://admin2.formaturamaxi.com.br/colo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chicago Fire vs New England
+https://admin2.formaturamaxi.com.br/mls.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos Laguna vs JuÃ¡rez
+https://admin2.formaturamaxi.com.br/espnmx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chivas vs Pumas
+https://admin2.formaturamaxi.com.br/peacock.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Colorado Rockies vs Detroit Tigers
+https://admin2.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Angels vs Washington Nationals
+https://admin2.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Atlanta Braves
+https://admin2.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs New York Yankees
+https://daffodil.formaturamaxi.com.br/mlb4.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs Toronto Blue Jays
+https://admin2.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Houston Astros vs Tampa Bay Rays
+https://admin2.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Miami Marlins
+https://admin2.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Minnesota Twins
+https://admin2.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs St. Louis Cardinals
+https://admin2.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Chicago Cubs
+https://admin2.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Kansas City Royals vs Boston Red Sox
+https://admin2.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Seattle Mariners vs Athletics
+https://admin2.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Texas Rangers vs Arizona Diamondbacks
+https://admin2.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs San Francisco Giants
+https://admin2.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",NFL RedZone
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/b75a17476aa149ff7096ad0552869438/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs Cincinnati Bengals
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/fac6b49ca7652cad80ff5d63f95bab8e/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New Orleans Saints vs Detroit Lions
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/1eaba41af298206f1b58e75e8a13a1f5/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Jets vs Tennessee Titans
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/3c3417e7862d2f7d45f7c76b6ce3c782/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Baltimore Ravens vs Indianapolis Colts
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/1835151e7ae95ceaa6a02e940df1afe4/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl4.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Pittsburgh Steelers
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/874c969422f839cb7d438d5da44f8ae1/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl5.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Chicago Bears vs Carolina Panthers
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/6d8b5ce754a960d66eeecdbc085190e5/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl6.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Cleveland Browns vs Jacksonville Jaguars
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/d989525bc3b57581d74557d401715486/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Buffalo Bills vs Houston Texans
+https://admin2.formaturamaxi.com.br/nfl8.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Miami Dolphins vs Las Vegas Raiders
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/cd3ec282a4d757f0ca31663618ba9be7/manifest/video.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Green Bay Packers vs Minnesota Vikings
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/101ac68a360fe03c89341a9a4f3ac676/manifest/video.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Washington Commanders vs Philadelphia Eagles
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/f523e5445f28576faddea879e93695e3/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl9.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Arizona Cardinals vs Los Angeles Chargers
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/6b0391647c3d78befa93c55775341a51/manifest/video.m3u8
+https://admin2.formaturamaxi.com.br/nfl12.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Dallas Cowboys vs New York Giants
+https://admin2.formaturamaxi.com.br/nfl13.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Dallas Cowboys vs New York Giants (Mirror 1)
+https://admin2.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ONE Samurai 3
+https://admin2.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",East vs West XXVI
+https://admin2.formaturamaxi.com.br/ppv2.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Gamebred FC x RCC HARD 21
+https://admin2.formaturamaxi.com.br/ppv3.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Noche: Silva vs. Delgado
+https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Noche: Silva vs. Delgado (Mirror 1)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Misfits: McCann vs. Big Stacks
+https://admin2.formaturamaxi.com.br/ppv4.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Ryan Garcia vs Conor Benn (ZUFFA)
+https://admin2.formaturamaxi.com.br/ppv5.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MXGP (MX2) - Race
+https://tedesco.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Warmup)
+https://tedesco.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Warmup) (Mirror 1)
+https://tedesco.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Spanish Grand Prix
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Spanish Grand Prix (Mirror 1)
+https://admin2.formaturamaxi.com.br/tsn.m3u8

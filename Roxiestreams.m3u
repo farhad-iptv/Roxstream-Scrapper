@@ -1,28 +1,34 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ararat-Armenia vs Sparta Praha
-https://tedesco.formaturamaxi.com.br/tnt3.m3u8
+https://admin2.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Omonia Nicosia vs Celta Vigo
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Omonia Nicosia vs Celta Vigo (Mirror 1)
 https://tedesco.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Madrid vs Osasuna
-https://tedesco.formaturamaxi.com.br/dep.m3u8
+https://admin2.formaturamaxi.com.br/barca.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Madrid vs Osasuna (Mirror 1)
+https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fleetwood Town vs Sheffield
-https://admin2.formaturamaxi.com.br/plus.m3u8
+https://tedesco.formaturamaxi.com.br/vsport.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Wolves
-https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Anderlecht vs Lyon
+https://admin2.formaturamaxi.com.br/everton.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Wolves (Mirror 1)
 https://admin2.formaturamaxi.com.br/vsport.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Anderlecht vs Lyon
+https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sunderland vs AZ
-https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sunderland vs AZ (Mirror 1)
-https://tedesco.formaturamaxi.com.br/beines.m3u8
+https://admin2.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Olympiacos vs Jagiellonia BiaÅystok
+https://admin2.formaturamaxi.com.br/tudn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coventry City vs Aston Villa
+https://admin2.formaturamaxi.com.br/plus.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man United vs Brighton
-https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Santos
-https://admin2.formaturamaxi.com.br/pfc2.m3u8
+https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LDU Quito vs Palmeiras
-https://admin2.formaturamaxi.com.br/pfc1.m3u8
+https://tedesco.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LDU Quito vs Palmeiras (Mirror 1)
+https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Botafogo
 https://admin2.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
@@ -62,11 +68,7 @@ https://tedesco.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://tedesco.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Max Verstappen vs 100 GoKarts
-https://admin2.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Max Verstappen vs 100 GoKarts (Mirror 1)
-https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Max Verstappen vs 100 GoKarts (Mirror 2)
-https://admin2.formaturamaxi.com.br/tsn.m3u8
+https://admin2.formaturamaxi.com.br/max.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race
 https://admin2.formaturamaxi.com.br/usa.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Interstate High Limit Racing

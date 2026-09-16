@@ -10,7 +10,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -23,7 +23,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/dep.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -36,7 +36,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/vsport.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -49,7 +49,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -62,7 +62,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/plus.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -75,7 +75,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/main.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -88,7 +88,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/vsport.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -101,7 +101,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/prem2.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -114,7 +114,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/dep.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -128,7 +128,7 @@
       "https://tedesco.formaturamaxi.com.br/bein.m3u8",
       "https://tedesco.formaturamaxi.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -141,7 +141,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/benfica.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -155,7 +155,7 @@
       "https://tedesco.formaturamaxi.com.br/bein.m3u8",
       "https://tedesco.formaturamaxi.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Soccer",
@@ -166,9 +166,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.formaturamaxi.com.br/dep.m3u8"
+      "https://admin2.formaturamaxi.com.br/espnmx.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -181,7 +181,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -194,7 +194,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -207,7 +207,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb3.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -218,9 +218,10 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
+      "https://admin2.formaturamaxi.com.br/mlb3.m3u8",
       "https://daffodil.formaturamaxi.com.br/mlb4.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -233,7 +234,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb5.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -246,7 +247,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb6.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -259,7 +260,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb7.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -272,7 +273,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb8.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -283,7 +284,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -296,7 +297,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb10.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -309,7 +310,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb11.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -322,7 +323,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb12.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -335,7 +336,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb13.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -348,7 +349,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb14.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "MLB",
@@ -361,7 +362,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb15.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "NFL",
@@ -375,7 +376,7 @@
       "https://admin2.formaturamaxi.com.br/main.m3u8",
       "https://admin2.formaturamaxi.com.br/nfl.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "NHL",
@@ -386,7 +387,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Fighting",
@@ -399,7 +400,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Fighting",
@@ -410,9 +411,9 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+      "https://tedesco.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Fighting",
@@ -425,7 +426,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/aew.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Fighting",
@@ -438,7 +439,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Fighting",
@@ -449,9 +450,9 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+      "https://tedesco.formaturamaxi.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Motorsports",
@@ -464,7 +465,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/usa.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Motorsports",
@@ -477,7 +478,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   },
   {
     "category": "Motorsports",
@@ -490,6 +491,6 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/usa.m3u8"
     ],
-    "scraped_at": "2026-09-15T22:53:43Z"
+    "scraped_at": "2026-09-16T04:24:59Z"
   }
 ]

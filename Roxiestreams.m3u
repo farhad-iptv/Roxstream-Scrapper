@@ -5,8 +5,12 @@ https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 https://tedesco.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Betis vs Getafe
 https://tedesco.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man City vs Norwich City
+https://admin2.formaturamaxi.com.br/norwich.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AFC Wimbledon vs MK Dons
 https://admin2.formaturamaxi.com.br/foot.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BeÅiktaÅ vs Marseille
+https://admin2.formaturamaxi.com.br/lyon.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celtic vs FerencvÃ¡ros
 https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Crystal Palace vs Lech PoznaÅ

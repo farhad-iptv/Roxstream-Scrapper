@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayern MÃ¼nchen vs Union Berlin
 https://tedesco.formaturamaxi.com.br/vsport.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monza vs Sassuolo
+https://admin2.formaturamaxi.com.br/monza.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monaco vs Lens
 https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brentford vs Chelsea

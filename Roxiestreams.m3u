@@ -11,15 +11,29 @@ https://tedesco.formaturamaxi.com.br/golazo.m3u8
 https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Werder Bremen vs Augsburg
 https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Chapecoense
-https://admin.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Chapecoense (Mirror 1)
-https://admin.formaturamaxi.com.br/l1max.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Huracan
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Ipswich
+https://admin2.formaturamaxi.com.br/everton.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Newcastle vs Hull
+https://admin2.formaturamaxi.com.br/newcastle.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Gillingham vs Bristol Rovers
+https://admin2.formaturamaxi.com.br/gill.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wrexham vs Southampton
+https://admin2.formaturamaxi.com.br/south.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Paris vs Strasbourg
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Coventry
+https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Nottingham vs Coventry (Mirror 1)
+https://admin2.formaturamaxi.com.br/ncaa16.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Angers SCO vs Troyes
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlas vs Pumas
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Chapecoense
 https://admin.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs Botafogo
+https://admin.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",FIM EWC - 24 HR Race
 https://admin2.formaturamaxi.com.br/wec.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",SuperMotocross - Qualifying
+https://admin2.formaturamaxi.com.br/sx.m3u8

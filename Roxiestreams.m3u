@@ -1,96 +1,16 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fiorentina vs Napoli
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Azerbaijan vs Tajikistan
 https://tedesco.passionepizza.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fiorentina vs Napoli (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Azerbaijan vs Tajikistan (Mirror 1)
 https://tedesco.yaylapsikoteknik.com/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celtic vs Rangers
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahamas vs Sain Martin
 https://tedesco.passionepizza.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celtic vs Rangers (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahamas vs Sain Martin (Mirror 1)
 https://tedesco.yaylapsikoteknik.com/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs West Bromwich
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Seattle Sounders vs Real Salt Lake
 https://tedesco.passionepizza.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs West Bromwich (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Seattle Sounders vs Real Salt Lake (Mirror 1)
 https://tedesco.yaylapsikoteknik.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Getafe vs Malaga
-https://admin2.passionepizza.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Getafe vs Malaga (Mirror 1)
-https://admin2.yaylapsikoteknik.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Liverpool
-https://admin2.passionepizza.com.br/bayern.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Liverpool (Mirror 1)
-https://admin2.passionepizza.com.br/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Liverpool (Mirror 2)
-https://admin2.yaylapsikoteknik.com/bayern.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Liverpool (Mirror 3)
-https://admin2.yaylapsikoteknik.com/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds vs Crystal Palace
-https://admin2.passionepizza.com.br/leeds.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leeds vs Crystal Palace (Mirror 1)
-https://admin2.yaylapsikoteknik.com/leeds.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man City vs Sunderland
-https://admin2.passionepizza.com.br/sunderland.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Man City vs Sunderland (Mirror 1)
-https://admin2.yaylapsikoteknik.com/sunderland.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Auxerre vs Brest
-https://tedesco.passionepizza.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Auxerre vs Brest (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/beines.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayer Leverkusen vs Leipzig
-https://admin2.passionepizza.com.br/one.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayer Leverkusen vs Leipzig (Mirror 1)
-https://admin2.yaylapsikoteknik.com/one.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Palmeiras
-https://admin.passionepizza.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Palmeiras (Mirror 1)
-https://admin.passionepizza.com.br/fanaen.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Palmeiras (Mirror 2)
-https://admin.passionepizza.com.br/fanaes.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Palmeiras (Mirror 3)
-https://admin.yaylapsikoteknik.com/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Palmeiras (Mirror 4)
-https://admin.yaylapsikoteknik.com/fanaen.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Palmeiras (Mirror 5)
-https://admin.yaylapsikoteknik.com/fanaes.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Man United
-https://admin2.passionepizza.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fulham vs Man United (Mirror 1)
-https://admin2.yaylapsikoteknik.com/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",San Lorenzo vs Boca Juniors
-https://admin.passionepizza.com.br/fana2en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",San Lorenzo vs Boca Juniors (Mirror 1)
-https://admin.passionepizza.com.br/fana2es.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",San Lorenzo vs Boca Juniors (Mirror 2)
-https://admin.yaylapsikoteknik.com/fana2en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",San Lorenzo vs Boca Juniors (Mirror 3)
-https://admin.yaylapsikoteknik.com/fana2es.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Corinthians vs Fluminense
-https://admin.passionepizza.com.br/fana3pt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Corinthians vs Fluminense (Mirror 1)
-https://admin.yaylapsikoteknik.com/fana3pt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs Cruzeiro
-https://admin.passionepizza.com.br/fana4pt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs Cruzeiro (Mirror 1)
-https://admin.yaylapsikoteknik.com/fana4pt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Benfica vs Porto
-https://tedesco.passionepizza.com.br/benfica.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Benfica vs Porto (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/benfica.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs RB Bragantino
-https://admin.passionepizza.com.br/fana5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs RB Bragantino (Mirror 1)
-https://admin.yaylapsikoteknik.com/fana5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Athletico-PR vs Bahia
-https://admin.passionepizza.com.br/fana6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Athletico-PR vs Bahia (Mirror 1)
-https://admin.yaylapsikoteknik.com/fana6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs San Diego
-https://tedesco.passionepizza.com.br/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs San Diego (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Tijuana
-https://admin.passionepizza.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Tijuana (Mirror 1)
-https://admin.yaylapsikoteknik.com/foxmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Baltimore Orioles
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Baltimore Orioles (Mirror 1)
@@ -102,7 +22,11 @@ https://admin2.yaylapsikoteknik.com/mlb2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams
 https://admin2.passionepizza.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 1)
+https://admin2.passionepizza.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 2)
 https://admin2.yaylapsikoteknik.com/nfl.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 3)
+https://admin2.yaylapsikoteknik.com/nflalt.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
 https://admin2.passionepizza.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW (Mirror 1)

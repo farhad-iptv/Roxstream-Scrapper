@@ -1,8 +1,8 @@
 [
   {
     "category": "Soccer",
-    "title": "Fiorentina vs Napoli",
-    "start_time": "September 20, 2026 3:30 AM",
+    "title": "Azerbaijan vs Tajikistan",
+    "start_time": "September 23, 2026 9:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
@@ -11,12 +11,26 @@
       "https://tedesco.passionepizza.com.br/fubo.m3u8",
       "https://tedesco.yaylapsikoteknik.com/fubo.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Soccer",
-    "title": "Celtic vs Rangers",
-    "start_time": "September 20, 2026 4:00 AM",
+    "title": "Turks And Caicos Islands vs Montserrat",
+    "start_time": "September 23, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/fubo.m3u8",
+      "https://tedesco.yaylapsikoteknik.com/fubo.m3u8"
+    ],
+    "scraped_at": "2026-09-21T20:23:26Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Bahamas vs Sain Martin",
+    "start_time": "September 23, 2026 1:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
@@ -25,12 +39,26 @@
       "https://tedesco.passionepizza.com.br/golazo.m3u8",
       "https://tedesco.yaylapsikoteknik.com/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Soccer",
-    "title": "Wolves vs West Bromwich",
-    "start_time": "September 20, 2026 4:00 AM",
+    "title": "Aruba vs Antigua & Barbuda",
+    "start_time": "September 23, 2026 4:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-2",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/golazo.m3u8",
+      "https://tedesco.yaylapsikoteknik.com/golazo.m3u8"
+    ],
+    "scraped_at": "2026-09-21T20:23:26Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Seattle Sounders vs Real Salt Lake",
+    "start_time": "September 23, 2026 6:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
@@ -39,411 +67,7 @@
       "https://tedesco.passionepizza.com.br/cbssn.m3u8",
       "https://tedesco.yaylapsikoteknik.com/cbssn.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Getafe vs Malaga",
-    "start_time": "September 20, 2026 5:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/dep.m3u8",
-      "https://admin2.yaylapsikoteknik.com/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Bournemouth vs Liverpool",
-    "start_time": "September 20, 2026 6:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-5",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/bayern.m3u8",
-      "https://admin2.passionepizza.com.br/main.m3u8",
-      "https://admin2.yaylapsikoteknik.com/bayern.m3u8",
-      "https://admin2.yaylapsikoteknik.com/main.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Leeds vs Crystal Palace",
-    "start_time": "September 20, 2026 6:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-6",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/leeds.m3u8",
-      "https://admin2.yaylapsikoteknik.com/leeds.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Man City vs Sunderland",
-    "start_time": "September 20, 2026 6:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-7",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/sunderland.m3u8",
-      "https://admin2.yaylapsikoteknik.com/sunderland.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Auxerre vs Brest",
-    "start_time": "September 20, 2026 6:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-8",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/beines.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Parma vs Genoa",
-    "start_time": "September 20, 2026 6:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-3",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/cbssn.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/cbssn.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Bayer Leverkusen vs Leipzig",
-    "start_time": "September 20, 2026 6:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/one.m3u8",
-      "https://admin2.yaylapsikoteknik.com/one.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "GrÃªmio vs Palmeiras",
-    "start_time": "September 20, 2026 7:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-10",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/fana.m3u8",
-      "https://admin.passionepizza.com.br/fanaen.m3u8",
-      "https://admin.passionepizza.com.br/fanaes.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana.m3u8",
-      "https://admin.yaylapsikoteknik.com/fanaen.m3u8",
-      "https://admin.yaylapsikoteknik.com/fanaes.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "AtlÃ©tico Madrid vs Real Madrid",
-    "start_time": "September 20, 2026 7:15 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/dep.m3u8",
-      "https://admin2.yaylapsikoteknik.com/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Nice vs Lille",
-    "start_time": "September 20, 2026 8:15 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-8",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/beines.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Fulham vs Man United",
-    "start_time": "September 20, 2026 8:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-11",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/fubo.m3u8",
-      "https://admin2.passionepizza.com.br/main.m3u8",
-      "https://admin2.passionepizza.com.br/sunderland.m3u8",
-      "https://admin2.yaylapsikoteknik.com/fubo.m3u8",
-      "https://admin2.yaylapsikoteknik.com/main.m3u8",
-      "https://admin2.yaylapsikoteknik.com/sunderland.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Schalke 04 vs Elversberg",
-    "start_time": "September 20, 2026 8:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/one.m3u8",
-      "https://admin2.yaylapsikoteknik.com/one.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Juventus vs Atalanta",
-    "start_time": "September 20, 2026 9:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-2",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/golazo.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/golazo.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Deportivo La CoruÃ±a vs Real Betis",
-    "start_time": "September 20, 2026 9:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/dep.m3u8",
-      "https://admin2.yaylapsikoteknik.com/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Paderborn vs Hoffenheim",
-    "start_time": "September 20, 2026 10:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/one.m3u8",
-      "https://admin2.yaylapsikoteknik.com/one.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "San Lorenzo vs Boca Juniors",
-    "start_time": "September 20, 2026 10:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-12",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/fana2en.m3u8",
-      "https://admin.passionepizza.com.br/fana2es.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana2en.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana2es.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Marseille vs PSG",
-    "start_time": "September 20, 2026 11:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-8",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/beines.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Milan vs Lecce",
-    "start_time": "September 20, 2026 11:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-2",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/golazo.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/golazo.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Valencia vs Real Sociedad",
-    "start_time": "September 20, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/dep.m3u8",
-      "https://admin2.yaylapsikoteknik.com/dep.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Corinthians vs Fluminense",
-    "start_time": "September 20, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-13",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/fana3pt.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana3pt.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "VitÃ³ria vs Cruzeiro",
-    "start_time": "September 20, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-14",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/fana4pt.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana4pt.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Benfica vs Porto",
-    "start_time": "September 20, 2026 12:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-23",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/benfica.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/benfica.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Flamengo vs RB Bragantino",
-    "start_time": "September 20, 2026 2:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-15",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/fana5.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana5.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Athletico-PR vs Bahia",
-    "start_time": "September 20, 2026 3:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-16",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/fana6.m3u8",
-      "https://admin.yaylapsikoteknik.com/fana6.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Inter Miami vs San Diego",
-    "start_time": "September 20, 2026 4:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-17",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/mls.m3u8",
-      "https://tedesco.yaylapsikoteknik.com/mls.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Pachuca vs Tijuana",
-    "start_time": "September 20, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-18",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/foxmx.m3u8",
-      "https://admin.yaylapsikoteknik.com/foxmx.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Toluca vs Santos",
-    "start_time": "September 20, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-19",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/foxmx.m3u8",
-      "https://admin.yaylapsikoteknik.com/foxmx.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "QuerÃ©taro vs Leon",
-    "start_time": "September 20, 2026 7:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-19",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/foxmx.m3u8",
-      "https://admin.yaylapsikoteknik.com/foxmx.m3u8"
-    ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "MLB",
@@ -457,7 +81,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.yaylapsikoteknik.com/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "MLB",
@@ -471,7 +95,7 @@
       "https://admin2.passionepizza.com.br/mlb2.m3u8",
       "https://admin2.yaylapsikoteknik.com/mlb2.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "MLB",
@@ -482,7 +106,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "NFL",
@@ -494,9 +118,11 @@
     "epg_id": "Football.Dummy.us",
     "streams": [
       "https://admin2.passionepizza.com.br/nfl.m3u8",
-      "https://admin2.yaylapsikoteknik.com/nfl.m3u8"
+      "https://admin2.passionepizza.com.br/nflalt.m3u8",
+      "https://admin2.yaylapsikoteknik.com/nfl.m3u8",
+      "https://admin2.yaylapsikoteknik.com/nflalt.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "NHL",
@@ -507,7 +133,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Fighting",
@@ -521,7 +147,7 @@
       "https://admin2.passionepizza.com.br/wwe.m3u8",
       "https://admin2.yaylapsikoteknik.com/wwe.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Fighting",
@@ -535,7 +161,7 @@
       "https://admin2.passionepizza.com.br/ppv.m3u8",
       "https://admin2.yaylapsikoteknik.com/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Fighting",
@@ -549,7 +175,7 @@
       "https://admin2.passionepizza.com.br/wwe.m3u8",
       "https://admin2.yaylapsikoteknik.com/wwe.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Motorsports",
@@ -560,7 +186,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Motorsports",
@@ -571,7 +197,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Motorsports",
@@ -582,7 +208,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Motorsports",
@@ -596,7 +222,7 @@
       "https://tedesco.passionepizza.com.br/tnt2.m3u8",
       "https://tedesco.yaylapsikoteknik.com/tnt2.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Motorsports",
@@ -610,7 +236,7 @@
       "https://tedesco.passionepizza.com.br/tnt2.m3u8",
       "https://tedesco.yaylapsikoteknik.com/tnt2.m3u8"
     ],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   },
   {
     "category": "Motorsports",
@@ -621,6 +247,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-21T15:04:38Z"
+    "scraped_at": "2026-09-21T20:23:26Z"
   }
 ]

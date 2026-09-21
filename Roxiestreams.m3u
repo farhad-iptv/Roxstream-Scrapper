@@ -84,25 +84,13 @@ https://admin.passionepizza.com.br/fana6.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Athletico-PR vs Bahia (Mirror 1)
 https://admin.yaylapsikoteknik.com/fana6.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs San Diego
-https://admin.passionepizza.com.br/fana3.m3u8
+https://tedesco.passionepizza.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs San Diego (Mirror 1)
-https://admin.passionepizza.com.br/fana3en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs San Diego (Mirror 2)
-https://admin.yaylapsikoteknik.com/fana3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs San Diego (Mirror 3)
-https://admin.yaylapsikoteknik.com/fana3en.m3u8
+https://tedesco.yaylapsikoteknik.com/mls.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Tijuana
-https://admin.passionepizza.com.br/fana4.m3u8
+https://admin.passionepizza.com.br/foxmx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Tijuana (Mirror 1)
-https://admin.passionepizza.com.br/fana4en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Tijuana (Mirror 2)
-https://admin.yaylapsikoteknik.com/fana4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pachuca vs Tijuana (Mirror 3)
-https://admin.yaylapsikoteknik.com/fana4en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs Santos
-https://admin2.passionepizza.com.br/espnmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Toluca vs Santos (Mirror 1)
-https://admin2.yaylapsikoteknik.com/espnmx.m3u8
+https://admin.yaylapsikoteknik.com/foxmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs New York Mets
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs New York Mets (Mirror 1)
@@ -178,7 +166,11 @@ https://admin2.yaylapsikoteknik.com/nfl13.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Kansas City Chiefs
 https://admin2.passionepizza.com.br/nfl14.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Kansas City Chiefs (Mirror 1)
+https://admin2.passionepizza.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Kansas City Chiefs (Mirror 2)
 https://admin2.yaylapsikoteknik.com/nfl14.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Kansas City Chiefs (Mirror 3)
+https://admin2.yaylapsikoteknik.com/nflalt.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Hedges vs. Brown
 https://admin2.passionepizza.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Hedges vs. Brown (Mirror 1)

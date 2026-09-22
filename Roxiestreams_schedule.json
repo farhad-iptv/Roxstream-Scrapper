@@ -10,7 +10,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fubo.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Soccer",
@@ -23,7 +23,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fubo.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Soccer",
@@ -36,7 +36,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Soccer",
@@ -49,7 +49,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Soccer",
@@ -62,12 +62,12 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/cbssn.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "MLB",
-    "title": "Toronto Blue Jays vs Baltimore Orioles",
-    "start_time": "September 21, 2026 03:35 PM",
+    "title": "Tampa Bay Rays vs New York Yankees",
+    "start_time": "September 22, 2026 10:05 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
@@ -75,12 +75,12 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "MLB",
-    "title": "Washington Nationals vs Detroit Tigers",
-    "start_time": "September 21, 2026 03:40 PM",
+    "title": "Tampa Bay Rays vs New York Yankees",
+    "start_time": "September 22, 2026 04:05 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
@@ -88,18 +88,165 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "MLB",
-    "title": "Minnesota Twins vs San Francisco Giants",
-    "start_time": "September 21, 2026 06:45 PM",
+    "title": "Toronto Blue Jays vs Baltimore Orioles",
+    "start_time": "September 22, 2026 03:35 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-3",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Washington Nationals vs Detroit Tigers",
+    "start_time": "September 22, 2026 03:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-4",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/mlb4.m3u8"
+    ],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "St. Louis Cardinals vs Pittsburgh Pirates",
+    "start_time": "September 22, 2026 03:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-5",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Milwaukee Brewers vs Philadelphia Phillies",
+    "start_time": "September 22, 2026 03:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-6",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cleveland Guardians vs Boston Red Sox",
+    "start_time": "September 22, 2026 03:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-7",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cincinnati Reds vs Atlanta Braves",
+    "start_time": "September 22, 2026 04:15 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-8",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Chicago White Sox vs Kansas City Royals",
+    "start_time": "September 22, 2026 04:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-9",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Miami Marlins vs Chicago Cubs",
+    "start_time": "September 22, 2026 04:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-10",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "New York Mets vs Texas Rangers",
+    "start_time": "September 22, 2026 05:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-11",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Arizona Diamondbacks vs Colorado Rockies",
+    "start_time": "September 22, 2026 05:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-12",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Los Angeles Angels vs Athletics",
+    "start_time": "September 22, 2026 06:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-13",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Houston Astros vs Seattle Mariners",
+    "start_time": "September 22, 2026 06:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-14",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Minnesota Twins vs San Francisco Giants",
+    "start_time": "September 22, 2026 06:45 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-15",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/mlb15.m3u8"
+    ],
+    "scraped_at": "2026-09-22T13:20:43Z"
+  },
+  {
+    "category": "MLB",
+    "title": "San Diego Padres vs Los Angeles Dodgers",
+    "start_time": "September 22, 2026 07:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-16",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "NFL",
@@ -113,7 +260,7 @@
       "https://admin2.passionepizza.com.br/nfl.m3u8",
       "https://admin2.passionepizza.com.br/nflalt.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "NHL",
@@ -124,21 +271,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-22T04:21:45Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "WWE RAW",
-    "start_time": "September 21, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/wwe.m3u8",
-      "https://admin2.passionepizza.com.br/wwealt.m3u8"
-    ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Fighting",
@@ -151,7 +284,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Fighting",
@@ -165,7 +298,7 @@
       "https://admin2.passionepizza.com.br/wwe.m3u8",
       "https://admin2.passionepizza.com.br/wwealt.m3u8"
     ],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   },
   {
     "category": "Motorsports",
@@ -176,6 +309,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-22T04:21:45Z"
+    "scraped_at": "2026-09-22T13:20:43Z"
   }
 ]

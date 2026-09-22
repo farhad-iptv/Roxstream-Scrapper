@@ -8,7 +8,7 @@ https://tedesco.passionepizza.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs New York Yankees
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs New York Yankees (Mirror 1)
-https://admin2.passionepizza.com.br/mlb2.m3u8
+https://tedesco.passionepizza.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Detroit Tigers
 https://admin2.passionepizza.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Minnesota Twins vs San Francisco Giants
@@ -18,8 +18,10 @@ https://admin2.passionepizza.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 1)
 https://admin2.passionepizza.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
-https://admin2.passionepizza.com.br/ppv.m3u8
+https://tedesco.passionepizza.com.br/ctv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series (Mirror 1)
+https://tedesco.passionepizza.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series (Mirror 2)
+https://tedesco.passionepizza.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
 https://admin2.passionepizza.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT (Mirror 1)
-https://admin2.passionepizza.com.br/wwealt.m3u8

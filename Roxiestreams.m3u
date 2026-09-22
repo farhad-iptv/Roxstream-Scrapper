@@ -1,41 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Azerbaijan vs Tajikistan
 https://tedesco.passionepizza.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Azerbaijan vs Tajikistan (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/fubo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahamas vs Sain Martin
 https://tedesco.passionepizza.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bahamas vs Sain Martin (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/golazo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Seattle Sounders vs Real Salt Lake
 https://tedesco.passionepizza.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Seattle Sounders vs Real Salt Lake (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/cbssn.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Baltimore Orioles
 https://admin2.passionepizza.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Baltimore Orioles (Mirror 1)
-https://admin2.yaylapsikoteknik.com/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Detroit Tigers
 https://admin2.passionepizza.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Detroit Tigers (Mirror 1)
-https://admin2.yaylapsikoteknik.com/mlb2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams
 https://admin2.passionepizza.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 1)
 https://admin2.passionepizza.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 2)
-https://admin2.yaylapsikoteknik.com/nfl.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 3)
-https://admin2.yaylapsikoteknik.com/nflalt.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
 https://admin2.passionepizza.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW (Mirror 1)
-https://admin2.yaylapsikoteknik.com/wwe.m3u8
+https://admin2.passionepizza.com.br/wwealt.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
 https://admin2.passionepizza.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series (Mirror 1)
-https://admin2.yaylapsikoteknik.com/ppv.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
-https://tedesco.passionepizza.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
-https://tedesco.yaylapsikoteknik.com/tnt2.m3u8

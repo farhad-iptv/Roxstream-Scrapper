@@ -21,7 +21,11 @@ https://admin2.passionepizza.com.br/mlb2.m3u8
 https://admin2.passionepizza.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Green Bay Packers
 https://admin2.passionepizza.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Green Bay Packers (Mirror 1)
+https://admin2.passionepizza.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",UFC BJJ 11: Musumeci vs Mitchell
 https://tedesco.passionepizza.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
+https://admin2.passionepizza.com.br/ppv2.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.passionepizza.com.br/wwe.m3u8

@@ -1,15 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Washington Nationals vs Detroit Tigers
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Japan vs Uruguay
+https://tedesco.passionepizza.com.br/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Korea vs Ecuador
+https://tedesco.passionepizza.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Andorra vs Malta
+https://tedesco.passionepizza.com.br/mls.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Serbia vs Greece
+https://admin2.passionepizza.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Wales
+https://admin2.passionepizza.com.br/bayern.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Wales (Mirror 1)
+https://admin2.passionepizza.com.br/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Norway vs Denmark
+https://admin2.passionepizza.com.br/leeds.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Germany
+https://admin2.passionepizza.com.br/sunderland.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Dominican Republic vs Nicaragua
+https://tedesco.passionepizza.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Costa Rica vs CuraÃ§ao
+https://admin2.passionepizza.com.br/one.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",St. Louis Cardinals vs Pittsburgh Pirates
 https://admin2.passionepizza.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Toronto Blue Jays vs Baltimore Orioles
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Kansas City Royals
 https://admin2.passionepizza.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Minnesota Twins vs San Francisco Giants
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Texas Rangers
 https://admin2.passionepizza.com.br/mlb4.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Los Angeles Dodgers
-https://admin2.passionepizza.com.br/mlb15.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Green Bay Packers
 https://admin2.passionepizza.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Giants vs Los Angeles Rams (Mirror 1)
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs Green Bay Packers (Mirror 1)
 https://admin2.passionepizza.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
 https://tedesco.passionepizza.com.br/ppv.m3u8

@@ -20,9 +20,7 @@ https://admin.passionepizza.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Egypt vs Angola
 https://tedesco.passionepizza.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colo-Colo vs Audax Italiano
-https://admin.passionepizza.com.br/fana2en.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colo-Colo vs Audax Italiano (Mirror 1)
-https://admin.passionepizza.com.br/fana2es.m3u8
+https://tedesco.passionepizza.com.br/colo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Monterrey
 https://admin.passionepizza.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Monterrey (Mirror 1)
@@ -30,7 +28,11 @@ https://admin.passionepizza.com.br/fanaen.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Monterrey (Mirror 2)
 https://admin.passionepizza.com.br/fanaes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Suriname vs Honduras
+https://admin2.passionepizza.com.br/fubo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Suriname vs Honduras (Mirror 1)
 https://admin2.passionepizza.com.br/main.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Suriname vs Honduras (Mirror 2)
+https://admin2.passionepizza.com.br/sunderland.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs Boston Red Sox
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs New York Yankees
@@ -39,7 +41,17 @@ https://admin2.passionepizza.com.br/mlb2.m3u8
 https://admin2.passionepizza.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.passionepizza.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Zuffa Boxing 11: Fisher vs. Pirotton
+https://admin2.passionepizza.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Davies vs. Collins: Home Stretch
+https://admin2.passionepizza.com.br/ppv2.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Rosas Jr. vs. Barcelos
+https://admin2.passionepizza.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Rosas Jr. vs. Barcelos (Mirror 1)
+https://admin2.passionepizza.com.br/hub.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW All Out
+https://tedesco.passionepizza.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice
 https://admin2.passionepizza.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",ARCA Menards Series - Race
-https://admin2.passionepizza.com.br/ncaa4.m3u8
+https://admin.passionepizza.com.br/arca.m3u8

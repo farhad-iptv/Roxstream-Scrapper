@@ -10,7 +10,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -23,7 +23,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -33,10 +33,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/fsp.m3u8"
-    ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "streams": [],
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -46,10 +44,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-4",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/fubo.m3u8"
-    ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "streams": [],
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -60,9 +56,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin.passionepizza.com.br/fana4pt.m3u8"
+      "https://admin2.passionepizza.com.br/abu.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -75,7 +71,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -86,9 +82,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin.passionepizza.com.br/fs2.m3u8"
+      "https://tedesco.passionepizza.com.br/fsp.m3u8",
+      "https://tedesco.passionepizza.com.br/tubi.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -99,9 +96,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/poland.m3u8"
+      "https://tedesco.passionepizza.com.br/foot.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -112,9 +109,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin.passionepizza.com.br/fs2.m3u8"
+      "https://tedesco.passionepizza.com.br/fsp.m3u8",
+      "https://tedesco.passionepizza.com.br/tubi.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -125,9 +123,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin.passionepizza.com.br/bein.m3u8"
+      "https://admin2.passionepizza.com.br/espn.m3u8",
+      "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -140,20 +139,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Mexico vs Colombia",
-    "start_time": "September 26, 2026 1:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -163,10 +149,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-10",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/espnmx.m3u8"
-    ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "streams": [],
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -179,7 +163,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -192,7 +176,7 @@
     "streams": [
       "https://admin.passionepizza.com.br/vix.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -205,7 +189,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/colo.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -218,7 +202,20 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/tudn.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Mexico vs Colombia",
+    "start_time": "September 26, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/beines.m3u8"
+    ],
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -231,7 +228,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -244,7 +241,7 @@
     "streams": [
       "https://admin.passionepizza.com.br/vix.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Soccer",
@@ -257,7 +254,7 @@
     "streams": [
       "https://admin.passionepizza.com.br/vix.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -270,7 +267,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -283,7 +280,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -294,7 +291,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -304,10 +301,8 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-4",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb4.m3u8"
-    ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "streams": [],
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -318,7 +313,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -329,7 +324,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -340,7 +335,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -351,7 +346,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -362,7 +357,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -373,7 +368,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -384,7 +379,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -395,7 +390,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "MLB",
@@ -406,7 +401,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "NHL",
@@ -417,7 +412,33 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
+    "start_time": "September 26, 2026 9:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/ppv.m3u8"
+    ],
+    "scraped_at": "2026-09-26T19:15:10Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Oktagon 94",
+    "start_time": "September 26, 2026 9:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-4",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/ppv4.m3u8"
+    ],
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Fighting",
@@ -430,7 +451,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/ppv2.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Fighting",
@@ -440,21 +461,11 @@
     "stream_page": "https://roxiestreams.su/ppv-streams-3",
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
-    "start_time": "September 26, 2026 11:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/ppv-streams-1",
-    "group": "Combat Sports",
-    "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/f1.m3u8"
+      "https://admin2.passionepizza.com.br/ppv2.m3u8",
+      "https://admin2.passionepizza.com.br/ppv3.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Fighting",
@@ -465,10 +476,9 @@
     "group": "Combat Sports",
     "epg_id": "UFC.Fight.Pass.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/abbiecadabrii.m3u8",
-      "https://admin2.passionepizza.com.br/hub.m3u8"
+      "https://admin2.passionepizza.com.br/ppv2.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Fighting",
@@ -481,7 +491,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/aew.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Fighting",
@@ -492,9 +502,9 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/f1.m3u8"
+      "https://admin2.passionepizza.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Fighting",
@@ -505,9 +515,9 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/f1.m3u8"
+      "https://admin2.passionepizza.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -518,9 +528,9 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/f1.m3u8"
+      "https://admin2.passionepizza.com.br/ppv2.m3u8"
     ],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -531,7 +541,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -542,7 +552,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -553,7 +563,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -564,7 +574,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -575,7 +585,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   },
   {
     "category": "Motorsports",
@@ -586,6 +596,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T12:59:12Z"
+    "scraped_at": "2026-09-26T19:15:10Z"
   }
 ]

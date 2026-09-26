@@ -13,6 +13,8 @@ https://tedesco.passionepizza.com.br/tubi.m3u8
 https://tedesco.passionepizza.com.br/foot.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",England vs Spain
 https://admin2.passionepizza.com.br/espn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Peru
+https://tedesco.passionepizza.com.br/usa.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruz Azul vs Toluca
 https://admin.passionepizza.com.br/vix.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Canada vs Chile
@@ -25,6 +27,8 @@ https://tedesco.passionepizza.com.br/beines.m3u8
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Pittsburgh Pirates vs Detroit Tigers
 https://admin2.passionepizza.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs San Francisco Giants
+https://admin2.passionepizza.com.br/mlb4.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Zuffa Boxing 11: Fisher vs. Pirotton
 https://admin2.passionepizza.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Oktagon 94
@@ -33,5 +37,9 @@ https://admin2.passionepizza.com.br/ppv4.m3u8
 https://admin2.passionepizza.com.br/ppv2.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",BKFC 94
 https://admin2.passionepizza.com.br/ppv3.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Rosas Jr. vs. Barcelos
+https://admin2.passionepizza.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Rosas Jr. vs. Barcelos (Mirror 1)
+https://admin2.passionepizza.com.br/hub.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW All Out
 https://tedesco.passionepizza.com.br/aew.m3u8

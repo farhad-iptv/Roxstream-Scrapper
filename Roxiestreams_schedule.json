@@ -1,34 +1,34 @@
 [
   {
     "category": "Soccer",
-    "title": "Australia vs Brazil",
-    "start_time": "September 25, 2026 3:00 AM",
+    "title": "Scotland vs Slovenia",
+    "start_time": "September 26, 2026 6:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/brazil.m3u8"
+      "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "India vs Panama",
-    "start_time": "September 25, 2026 7:00 AM",
+    "title": "Cambridge United vs Wimbledon",
+    "start_time": "September 26, 2026 7:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/pan.m3u8"
+      "https://tedesco.passionepizza.com.br/golazo.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "Georgia vs Northern Ireland",
-    "start_time": "September 25, 2026 9:00 AM",
+    "title": "Plymouth Argyle vs Burton Albion",
+    "start_time": "September 26, 2026 7:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
@@ -36,12 +36,12 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "Armenia vs Latvia",
-    "start_time": "September 25, 2026 9:00 AM",
+    "title": "York City vs Gillingham",
+    "start_time": "September 26, 2026 7:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-4",
     "group": "Soccer",
@@ -49,26 +49,38 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fubo.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "Turkey vs France",
-    "start_time": "September 25, 2026 11:45 AM",
+    "title": "Kuwait vs Iraq",
+    "start_time": "September 26, 2026 8:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-14",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin.passionepizza.com.br/fana4pt.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Bulgaria vs Luxembourg",
+    "start_time": "September 26, 2026 9:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-5",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/france.m3u8",
-      "https://admin2.passionepizza.com.br/francees.m3u8"
+      "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "Italy vs Belgium",
-    "start_time": "September 25, 2026 11:45 AM",
+    "title": "Iceland vs Estonia",
+    "start_time": "September 26, 2026 9:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
@@ -76,25 +88,12 @@
     "streams": [
       "https://admin.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "Sweden vs Romania",
-    "start_time": "September 25, 2026 11:45 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-3",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/fsp.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Poland vs Bosnia & Herzegovina",
-    "start_time": "September 25, 2026 11:45 AM",
+    "title": "Oldham Athletic vs Salford",
+    "start_time": "September 26, 2026 9:30 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
@@ -102,114 +101,12 @@
     "streams": [
       "https://admin2.passionepizza.com.br/poland.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Soccer",
-    "title": "Morocco vs Gabon",
-    "start_time": "September 25, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-8",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/bein.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Egypt vs Angola",
-    "start_time": "September 25, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-9",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/beines.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Grenada vs Cuba",
-    "start_time": "September 25, 2026 2:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-3",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/fsp.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Colo-Colo vs Audax Italiano",
-    "start_time": "September 25, 2026 4:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-12",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/colo.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Jamaica vs Guatemala",
-    "start_time": "September 25, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-3",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/fsp.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Atlante vs Monterrey",
-    "start_time": "September 25, 2026 6:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-10",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/espnmx.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Suriname vs Honduras",
-    "start_time": "September 25, 2026 6:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-11",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "Tijuana vs Atlas",
-    "start_time": "September 25, 2026 8:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-13",
-    "group": "Soccer",
-    "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.passionepizza.com.br/tudn.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Soccer",
-    "title": "El Salvador vs Martinique",
-    "start_time": "September 25, 2026 8:00 PM",
+    "title": "Czech Republic vs Croatia",
+    "start_time": "September 26, 2026 11:45 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
@@ -217,12 +114,155 @@
     "streams": [
       "https://admin.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "England vs Spain",
+    "start_time": "September 26, 2026 11:45 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-8",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin.passionepizza.com.br/bein.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "North Macedonia vs Switzerland",
+    "start_time": "September 26, 2026 11:45 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/fsp.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Mexico vs Colombia",
+    "start_time": "September 26, 2026 1:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/beines.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "USA vs Peru",
+    "start_time": "September 26, 2026 1:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-10",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/espnmx.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Saint Vincent & The Grenadines vs French Guiana",
+    "start_time": "September 26, 2026 2:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/fsp.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Cruz Azul vs Toluca",
+    "start_time": "September 26, 2026 3:50 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin.passionepizza.com.br/vix.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Canada vs Chile",
+    "start_time": "September 26, 2026 4:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-12",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/colo.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Chivas vs Queretaro",
+    "start_time": "September 26, 2026 4:07 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-13",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/tudn.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Sint Maarten vs Belize",
+    "start_time": "September 26, 2026 7:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-5",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://tedesco.passionepizza.com.br/fsp.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Santos Laguna vs Pachuca",
+    "start_time": "September 26, 2026 8:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin.passionepizza.com.br/vix.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Tigres vs Puebla",
+    "start_time": "September 26, 2026 8:10 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [
+      "https://admin.passionepizza.com.br/vix.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Chicago Cubs vs Boston Red Sox",
-    "start_time": "September 25, 2026 10:05 AM",
+    "title": "New York Mets vs Washington Nationals",
+    "start_time": "September 26, 2026 09:35 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
@@ -230,191 +270,143 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Chicago Cubs vs Boston Red Sox",
-    "start_time": "September 25, 2026 02:30 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-1",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Baltimore Orioles vs New York Yankees",
-    "start_time": "September 25, 2026 01:05 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-2",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb2.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Baltimore Orioles vs New York Yankees",
-    "start_time": "September 25, 2026 04:05 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-2",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb2.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
     "title": "Pittsburgh Pirates vs Detroit Tigers",
-    "start_time": "September 25, 2026 03:40 PM",
+    "start_time": "September 26, 2026 10:10 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-2",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/mlb2.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Cincinnati Reds vs Toronto Blue Jays",
+    "start_time": "September 26, 2026 12:07 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-3",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Los Angeles Dodgers vs San Francisco Giants",
+    "start_time": "September 26, 2026 01:05 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-4",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/mlb4.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Texas Rangers vs Minnesota Twins",
+    "start_time": "September 26, 2026 01:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-5",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Tampa Bay Rays vs Philadelphia Phillies",
-    "start_time": "September 25, 2026 03:40 PM",
+    "title": "Atlanta Braves vs Miami Marlins",
+    "start_time": "September 26, 2026 01:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-6",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "New York Mets vs Washington Nationals",
-    "start_time": "September 25, 2026 03:45 PM",
+    "title": "Cleveland Guardians vs Kansas City Royals",
+    "start_time": "September 26, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-7",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Cincinnati Reds vs Toronto Blue Jays",
-    "start_time": "September 25, 2026 04:07 PM",
+    "title": "Colorado Rockies vs Chicago White Sox",
+    "start_time": "September 26, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-8",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Atlanta Braves vs Miami Marlins",
-    "start_time": "September 25, 2026 04:10 PM",
+    "title": "St. Louis Cardinals vs Milwaukee Brewers",
+    "start_time": "September 26, 2026 04:10 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-9",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Cleveland Guardians vs Kansas City Royals",
-    "start_time": "September 25, 2026 04:40 PM",
+    "title": "Tampa Bay Rays vs Philadelphia Phillies",
+    "start_time": "September 26, 2026 04:15 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-10",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Colorado Rockies vs Chicago White Sox",
-    "start_time": "September 25, 2026 04:40 PM",
+    "title": "Arizona Diamondbacks vs San Diego Padres",
+    "start_time": "September 26, 2026 05:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-11",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "St. Louis Cardinals vs Milwaukee Brewers",
-    "start_time": "September 25, 2026 04:40 PM",
+    "title": "Houston Astros vs Athletics",
+    "start_time": "September 26, 2026 06:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-12",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "MLB",
-    "title": "Texas Rangers vs Minnesota Twins",
-    "start_time": "September 25, 2026 05:10 PM",
+    "title": "Los Angeles Angels vs Seattle Mariners",
+    "start_time": "September 26, 2026 06:40 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-13",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Houston Astros vs Athletics",
-    "start_time": "September 25, 2026 06:40 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-14",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Arizona Diamondbacks vs San Diego Padres",
-    "start_time": "September 25, 2026 06:40 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-15",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb15.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Los Angeles Angels vs Seattle Mariners",
-    "start_time": "September 25, 2026 07:10 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-16",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Los Angeles Dodgers vs San Francisco Giants",
-    "start_time": "September 25, 2026 07:15 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-17",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "NHL",
@@ -425,33 +417,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "WWE Smackdown",
-    "start_time": "September 25, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/wwe.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
-    "start_time": "September 26, 2026 9:00 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/ppv-streams-1",
-    "group": "Combat Sports",
-    "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/ppv.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Fighting",
@@ -464,7 +430,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/ppv2.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Fighting",
@@ -475,7 +441,20 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
+    "start_time": "September 26, 2026 11:30 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/f1.m3u8"
+    ],
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Fighting",
@@ -489,7 +468,7 @@
       "https://admin2.passionepizza.com.br/abbiecadabrii.m3u8",
       "https://admin2.passionepizza.com.br/hub.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Fighting",
@@ -502,7 +481,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/aew.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Fighting",
@@ -513,9 +492,9 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/ppv.m3u8"
+      "https://admin2.passionepizza.com.br/f1.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Fighting",
@@ -526,14 +505,14 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/ppv.m3u8"
+      "https://admin2.passionepizza.com.br/f1.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Motorsports",
-    "title": "Formula 1 - Free Practice",
-    "start_time": "September 25, 2026 1:30 AM",
+    "title": "Formula 1 - Azerbaijan Grand Prix",
+    "start_time": "September 26, 2026 4:00 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/f1",
     "group": "Motorsports",
@@ -541,54 +520,72 @@
     "streams": [
       "https://admin2.passionepizza.com.br/f1.m3u8"
     ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Motorsports",
-    "title": "Formula 1 - Qualifying",
-    "start_time": "September 25, 2026 5:00 AM",
+    "title": "SuperMotocross - Qualifying",
+    "start_time": "September 26, 2026 10:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/f1",
+    "stream_page": "https://roxiestreams.su/supercross",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/f1.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "streams": [],
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "NASCAR Craftsman Truck Series - Race",
+    "start_time": "September 26, 2026 10:20 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nascar",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Motorsports",
     "title": "High Limit Racing - Race",
-    "start_time": "September 25, 2026 3:00 PM",
+    "start_time": "September 26, 2026 3:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/floracing-1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Motorsports",
-    "title": "ARCA Menards Series - Race",
-    "start_time": "September 25, 2026 5:00 PM",
+    "title": "SuperMotocross - Race",
+    "start_time": "September 26, 2026 3:30 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/arca",
+    "stream_page": "https://roxiestreams.su/supercross",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
-    "streams": [
-      "https://admin.passionepizza.com.br/arca.m3u8"
-    ],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "streams": [],
+    "scraped_at": "2026-09-26T12:59:12Z"
   },
   {
     "category": "Motorsports",
     "title": "WoO Sprint Cars - Race",
-    "start_time": "September 25, 2026 6:30 PM",
+    "start_time": "September 26, 2026 6:30 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/floracing-2",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-26T04:36:15Z"
+    "scraped_at": "2026-09-26T12:59:12Z"
+  },
+  {
+    "category": "Motorsports",
+    "title": "WEC - 6 Hours of Fuji Race",
+    "start_time": "September 26, 2026 7:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/wec",
+    "group": "Motorsports",
+    "epg_id": "Racing.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-09-26T12:59:12Z"
   }
 ]

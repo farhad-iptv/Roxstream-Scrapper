@@ -7,16 +7,20 @@ https://tedesco.passionepizza.com.br/fsp.m3u8
 https://admin2.passionepizza.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Norway vs Portugal
 https://admin2.passionepizza.com.br/port.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Norway vs Portugal (Mirror 1)
+https://admin2.passionepizza.com.br/portes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Racing Club vs Boca Juniors
-https://tedesco.passionepizza.com.br/tubi.m3u8
+https://admin2.passionepizza.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bolivia vs Paraguay
-https://tedesco.passionepizza.com.br/foot.m3u8
+https://admin2.passionepizza.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Columbus Crew vs Inter Miami
-https://admin2.passionepizza.com.br/espn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Columbus Crew vs Inter Miami (Mirror 1)
-https://admin2.passionepizza.com.br/fs2.m3u8
+https://tedesco.passionepizza.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CuraÃ§ao vs Nicaragua
+https://admin2.passionepizza.com.br/azteca7mx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CuraÃ§ao vs Nicaragua (Mirror 1)
 https://admin2.passionepizza.com.br/canal5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CuraÃ§ao vs Nicaragua (Mirror 2)
+https://admin2.passionepizza.com.br/claromx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs AmÃ©rica
 https://tedesco.passionepizza.com.br/usa.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Washington Nationals
@@ -43,8 +47,16 @@ https://admin2.passionepizza.com.br/nfl6.m3u8
 https://admin2.passionepizza.com.br/nfl7.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Washington Commanders
 https://admin2.passionepizza.com.br/nfl8.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Washington Commanders (Mirror 1)
+https://admin2.passionepizza.com.br/seahawks.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New England Patriots vs Jacksonville Jaguars
 https://admin2.passionepizza.com.br/nfl9.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Minnesota Vikings vs Tampa Bay Buccaneers
+https://admin2.passionepizza.com.br/bucs.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Baltimore Ravens vs Dallas Cowboys
+https://admin2.passionepizza.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Las Vegas Raiders vs New Orleans Saints
+https://admin.passionepizza.com.br/nfl13.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Rams vs Denver Broncos
 https://admin2.passionepizza.com.br/nfl14.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Inoue vs. Tenshin II

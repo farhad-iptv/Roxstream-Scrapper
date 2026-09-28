@@ -1,24 +1,22 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lituania vs Azerbaijan
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Georgia vs Ukraine
 https://admin2.passionepizza.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Denmark vs Wales
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Montenegro
 https://tedesco.passionepizza.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Pumas vs San Luis
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Latvia vs Cyprus
 https://admin2.passionepizza.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Norway vs Portugal
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Northern Ireland vs Hungary
 https://admin2.passionepizza.com.br/port.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Norway vs Portugal (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Northern Ireland vs Hungary (Mirror 1)
 https://admin2.passionepizza.com.br/portes.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Racing Club vs Boca Juniors
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Romania vs Bosnia and Herzegovina
 https://admin2.passionepizza.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bolivia vs Paraguay
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sweden vs Poland
 https://admin2.passionepizza.com.br/foxd.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Columbus Crew vs Inter Miami
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs France
 https://tedesco.passionepizza.com.br/mls.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",CuraÃ§ao vs Nicaragua
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Guatemala vs El Salvador
 https://admin2.passionepizza.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs AmÃ©rica
-https://admin2.passionepizza.com.br/foxdep.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Washington Nationals
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs New York Yankees

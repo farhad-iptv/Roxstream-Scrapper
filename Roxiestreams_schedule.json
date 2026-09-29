@@ -11,7 +11,7 @@
       "https://tedesco.passionepizza.com.br/sportv.m3u8",
       "https://tedesco.passionepizza.com.br/tubi.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -24,7 +24,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/bein.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -37,7 +37,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -50,7 +50,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -63,7 +63,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -76,7 +76,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/bein.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -89,7 +89,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/virgin.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -100,7 +100,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -110,8 +110,10 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-8",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "streams": [
+      "https://admin2.passionepizza.com.br/tubi.m3u8"
+    ],
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -124,7 +126,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -137,7 +139,7 @@
     "streams": [
       "https://admin.passionepizza.com.br/fs1.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -150,7 +152,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -163,7 +165,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/bein.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -176,7 +178,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -189,7 +191,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -202,7 +204,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -213,7 +215,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -226,7 +228,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/uni.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Soccer",
@@ -239,7 +241,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "MLB",
@@ -249,8 +251,10 @@
     "stream_page": "https://roxiestreams.su/mlb-streams-1",
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "streams": [
+      "https://admin.passionepizza.com.br/mlb.m3u8"
+    ],
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "MLB",
@@ -261,7 +265,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "MLB",
@@ -272,7 +276,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "MLB",
@@ -283,7 +287,7 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "NFL",
@@ -294,7 +298,7 @@
     "group": "Football",
     "epg_id": "Football.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "NHL",
@@ -305,7 +309,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "NHL",
@@ -318,7 +322,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "NHL",
@@ -331,7 +335,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "NHL",
@@ -344,7 +348,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "NHL",
@@ -355,7 +359,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Fighting",
@@ -366,7 +370,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Fighting",
@@ -377,7 +381,7 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Motorsports",
@@ -388,7 +392,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Motorsports",
@@ -399,7 +403,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   },
   {
     "category": "Motorsports",
@@ -410,6 +414,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-29T10:36:50Z"
+    "scraped_at": "2026-09-29T18:01:19Z"
   }
 ]

@@ -21,5 +21,9 @@ https://admin.passionepizza.com.br/fs1.m3u8
 https://tedesco.passionepizza.com.br/uni.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Atlanta Braves
 https://admin.passionepizza.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Florida Panthers vs Carolina Hurricanes
+https://admin2.passionepizza.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Montreal Canadiens vs Toronto Maple Leafs
-https://tedesco.passionepizza.com.br/nhl.m3u8
+https://admin2.passionepizza.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
+https://admin2.passionepizza.com.br/ppv.m3u8

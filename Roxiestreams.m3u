@@ -1,25 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Georgia vs Ukraine
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brazil vs Australia
+https://tedesco.passionepizza.com.br/sportv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brazil vs Australia (Mirror 1)
 https://tedesco.passionepizza.com.br/tubi.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Armenia vs Montenegro
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lesotho vs Morocco
+https://tedesco.passionepizza.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",South Sudan vs Egypt
+https://tedesco.passionepizza.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Finland vs Belarus
 https://admin2.passionepizza.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Latvia vs Cyprus
-https://tedesco.passionepizza.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Latvia vs Cyprus (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Moldova vs Faroe Islands
 https://tedesco.passionepizza.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Turkey vs Italy
-https://admin2.passionepizza.com.br/italy.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs France
-https://admin.passionepizza.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botswana vs Tunisia
-https://admin.passionepizza.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",New York Mets vs Washington Nationals
-https://admin2.passionepizza.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Baltimore Orioles vs New York Yankees
-https://admin2.passionepizza.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Philadelphia Eagles vs Chicago Bears
-https://admin2.passionepizza.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
-https://admin2.passionepizza.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
-https://admin2.passionepizza.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Czech Republic vs England
+https://admin2.passionepizza.com.br/virgin.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Spain vs Croatia
+https://admin.passionepizza.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mexico vs Peru
+https://tedesco.passionepizza.com.br/uni.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Montreal Canadiens vs Toronto Maple Leafs
+https://tedesco.passionepizza.com.br/nhl.m3u8

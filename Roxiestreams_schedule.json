@@ -8,10 +8,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/sportv.m3u8",
+      "https://tedesco.passionepizza.com.br/bein.m3u8",
       "https://tedesco.passionepizza.com.br/tubi.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Soccer",
@@ -22,9 +22,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/bein.m3u8"
+      "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Soccer",
@@ -37,7 +37,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Soccer",
@@ -50,7 +50,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/fs2.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "MLB",
@@ -63,12 +63,38 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "MLB",
     "title": "Chicago White Sox vs Houston Astros",
     "start_time": "September 30, 2026 02:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-1",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/mlb.m3u8"
+    ],
+    "scraped_at": "2026-09-30T20:43:46Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Boston Red Sox vs New York Yankees",
+    "start_time": "September 30, 2026 05:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/mlb-streams-1",
+    "group": "Baseball",
+    "epg_id": "MLB.Baseball.Dummy.us",
+    "streams": [
+      "https://admin2.passionepizza.com.br/mlb.m3u8"
+    ],
+    "scraped_at": "2026-09-30T20:43:46Z"
+  },
+  {
+    "category": "MLB",
+    "title": "Chicago Cubs vs San Diego Padres",
+    "start_time": "September 30, 2026 07:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/mlb-streams-2",
     "group": "Baseball",
@@ -77,33 +103,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.passionepizza.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Boston Red Sox vs New York Yankees",
-    "start_time": "September 30, 2026 05:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-3",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8"
-    ],
-    "scraped_at": "2026-09-30T14:51:32Z"
-  },
-  {
-    "category": "MLB",
-    "title": "Chicago Cubs vs San Diego Padres",
-    "start_time": "September 30, 2026 07:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/mlb-streams-4",
-    "group": "Baseball",
-    "epg_id": "MLB.Baseball.Dummy.us",
-    "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8"
-    ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "NFL",
@@ -116,7 +116,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "NHL",
@@ -130,7 +130,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.passionepizza.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "NHL",
@@ -141,24 +141,22 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8",
-      "https://admin2.passionepizza.com.br/nhl2.m3u8"
+      "https://tedesco.passionepizza.com.br/nhl2.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "NHL",
     "title": "Los Angeles Kings vs Colorado Avalanche",
     "start_time": "September 30, 2026 07:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nhl-streams-3",
+    "stream_page": "https://roxiestreams.su/nhl-streams-2",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/nhl.m3u8",
       "https://tedesco.passionepizza.com.br/nhl2.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Fighting",
@@ -169,9 +167,9 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8"
+      "https://tedesco.passionepizza.com.br/aew.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Fighting",
@@ -185,7 +183,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.passionepizza.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Fighting",
@@ -199,7 +197,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.passionepizza.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Motorsports",
@@ -210,7 +208,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Motorsports",
@@ -223,7 +221,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   },
   {
     "category": "Motorsports",
@@ -234,6 +232,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-30T14:51:32Z"
+    "scraped_at": "2026-09-30T20:43:46Z"
   }
 ]

@@ -7,10 +7,10 @@ https://admin.passionepizza.com.br/bein.m3u8
 https://tedesco.passionepizza.com.br/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ireland vs Austria
 https://admin.passionepizza.com.br/rte.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Denmark vs Portugal
+https://admin2.passionepizza.com.br/port.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wales vs Norway
 https://admin.passionepizza.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wales vs Norway (Mirror 1)
-https://admin.passionepizza.com.br/port.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Germany vs Serbia
 https://admin2.passionepizza.com.br/tubi.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruz Azul vs AmÃ©rica
@@ -21,6 +21,8 @@ https://admin2.passionepizza.com.br/mlb.m3u8
 https://tedesco.passionepizza.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Philadelphia Flyers vs New Jersey Devils
 https://admin2.passionepizza.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Tampa Bay Lightning vs New York Rangers
+https://tedesco.passionepizza.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
 https://admin2.passionepizza.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown

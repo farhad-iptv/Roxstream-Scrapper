@@ -6,17 +6,19 @@ https://tedesco.passionepizza.com.br/tubi.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lithuania vs Andorra
 https://tedesco.passionepizza.com.br/fsp.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",New York RB vs St. Louis City
-https://tedesco.passionepizza.com.br/beines.m3u8
+https://admin2.passionepizza.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Argentina vs Bolivia
-https://admin2.passionepizza.com.br/fs2.m3u8
+https://admin2.passionepizza.com.br/vixmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Atlanta Braves
 https://admin2.passionepizza.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs San Diego Padres
-https://admin2.passionepizza.com.br/mlb2.m3u8
+https://admin.passionepizza.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago Cubs vs San Diego Padres (Mirror 1)
+https://admin.passionepizza.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Pittsburgh Penguins vs Philadelphia Flyers
-https://admin2.passionepizza.com.br/nhl.m3u8
+https://tedesco.passionepizza.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",New York Islanders vs Toronto Maple Leafs
-https://tedesco.passionepizza.com.br/nhl2.m3u8
+https://admin2.passionepizza.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",AEW
 https://tedesco.passionepizza.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA

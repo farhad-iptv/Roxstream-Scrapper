@@ -11,7 +11,7 @@
       "https://tedesco.passionepizza.com.br/bein.m3u8",
       "https://tedesco.passionepizza.com.br/tubi.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Soccer",
@@ -24,7 +24,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/fsp.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Soccer",
@@ -35,9 +35,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/beines.m3u8"
+      "https://admin2.passionepizza.com.br/mls.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Soccer",
@@ -48,9 +48,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/fs2.m3u8"
+      "https://admin2.passionepizza.com.br/vixmx.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "MLB",
@@ -63,7 +63,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "MLB",
@@ -76,7 +76,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "MLB",
@@ -89,7 +89,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "MLB",
@@ -100,10 +100,10 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8",
-      "https://admin2.passionepizza.com.br/mlb2.m3u8"
+      "https://admin.passionepizza.com.br/mlb.m3u8",
+      "https://admin.passionepizza.com.br/mlb2.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "NFL",
@@ -116,7 +116,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "NHL",
@@ -127,10 +127,9 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [
-      "https://admin2.passionepizza.com.br/mlb.m3u8",
-      "https://admin2.passionepizza.com.br/nhl.m3u8"
+      "https://tedesco.passionepizza.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "NHL",
@@ -141,22 +140,23 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/nhl2.m3u8"
+      "https://admin2.passionepizza.com.br/mlb.m3u8",
+      "https://admin2.passionepizza.com.br/nhl2.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "NHL",
     "title": "Los Angeles Kings vs Colorado Avalanche",
     "start_time": "September 30, 2026 07:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nhl-streams-2",
+    "stream_page": "https://roxiestreams.su/nhl-streams-1",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [
-      "https://tedesco.passionepizza.com.br/nhl2.m3u8"
+      "https://tedesco.passionepizza.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Fighting",
@@ -169,7 +169,7 @@
     "streams": [
       "https://tedesco.passionepizza.com.br/aew.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Fighting",
@@ -183,7 +183,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.passionepizza.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Fighting",
@@ -197,7 +197,7 @@
       "https://admin2.passionepizza.com.br/mlb.m3u8",
       "https://admin2.passionepizza.com.br/wwe.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Motorsports",
@@ -208,7 +208,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Motorsports",
@@ -221,7 +221,7 @@
     "streams": [
       "https://admin2.passionepizza.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   },
   {
     "category": "Motorsports",
@@ -232,6 +232,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-09-30T20:43:46Z"
+    "scraped_at": "2026-10-01T05:19:30Z"
   }
 ]

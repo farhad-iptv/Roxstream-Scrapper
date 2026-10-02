@@ -1,41 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Japan vs Ecaudor
-https://tedesco.passionepizza.com.br/ecu.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Guinea vs Kenya
-https://admin.passionepizza.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Azerbaijan vs Liechtenstein
-https://tedesco.passionepizza.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ireland vs Austria
-https://admin.passionepizza.com.br/rte.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Denmark vs Portugal
-https://admin2.passionepizza.com.br/port.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wales vs Norway
-https://admin.passionepizza.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Germany vs Serbia
-https://admin2.passionepizza.com.br/tubi.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruz Azul vs AmÃ©rica
-https://admin2.passionepizza.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Philadelphia Phillies vs Atlanta Braves
-https://admin2.passionepizza.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Pittsburgh Steelers vs Cleveland Browns
-https://admin2.passionepizza.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Buffalo Sabres vs Columbus Blue Jackets
-https://admin2.passionepizza.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Philadelphia Flyers vs New Jersey Devils
-https://admin2.passionepizza.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Tampa Bay Lightning vs New York Rangers
-https://admin2.passionepizza.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Minnesota Wild vs Nashville Predators
-https://admin2.passionepizza.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
-https://admin.passionepizza.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA (Mirror 1)
-https://admin.passionepizza.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Latvia vs Montenegro
+https://tedesco.formaturamaxi.com.br/ecu.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Latvia vs Montenegro (Mirror 1)
+https://tedesco.formaturamaxi.com.br/tubi.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cyprus vs Armenia
+https://tedesco.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Belgium vs Turkey
+https://admin2.formaturamaxi.com.br/tubi.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Italy
+https://admin.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Suriname vs Guatemala
+https://admin2.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Santos
+https://admin.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",New York Rangers vs Detroit Red Wings
+https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Washington Capitals vs Carolina Hurricanes
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Boston Bruins vs Winnipeg Jets
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",St. Louis Blues vs Dallas Stars
+https://admin2.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Anaheim Ducks vs Vegas Golden Knights
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
-https://admin2.passionepizza.com.br/wwe.m3u8
+https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ONE FN 48: Erdogan vs. Elliott
+https://admin.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",RIZIN LANDMARK 16
+https://admin2.formaturamaxi.com.br/ppv2.m3u8
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 332: Silva vs. Wang
-https://admin2.passionepizza.com.br/tnt.m3u8
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Sprint Cars - Race
+https://admin.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
-https://admin2.passionepizza.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice
-https://admin2.passionepizza.com.br/f1.m3u8
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Free Practice 3
+https://admin2.formaturamaxi.com.br/f1.m3u8

@@ -18,12 +18,16 @@ https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Washington Commanders (London) (Mirror 1)
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",NFL RedZone
-https://admin2.formaturamaxi.com.br/redzone.m3u8
+https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",NFL RedZone (Mirror 1)
+https://admin2.formaturamaxi.com.br/redzone.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",NFL RedZone (Mirror 2)
 https://admin2.formaturamaxi.com.br/redzonealt.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New England Patriots vs Buffalo Bills
 https://tedesco.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Jets vs Chicago Bears
+https://temp.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Jets vs Chicago Bears (Mirror 1)
 https://temp.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Jacksonville Jaguars vs Cincinnati Bengals
 https://temp.formaturamaxi.com.br/nfl4.m3u8
@@ -35,14 +39,18 @@ https://admin2.formaturamaxi.com.br/nfl6.m3u8
 https://admin2.formaturamaxi.com.br/nfl7.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tennessee Titans vs Baltimore Ravens
 https://temp.formaturamaxi.com.br/nfl8.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Miami Dolphins vs Minnesota Vikings
+https://temp.formaturamaxi.com.br/nfl10.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Kansas City Chiefs vs Las Vegas Raiders
-https://admin2.formaturamaxi.com.br/nfl2.m3u8
+https://admin.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Kansas City Chiefs vs Las Vegas Raiders (Mirror 1)
-https://admin2.formaturamaxi.com.br/nfl4.m3u8
+https://admin.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Kansas City Chiefs vs Las Vegas Raiders (Mirror 2)
+https://admin.formaturamaxi.com.br/nfl6.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Chargers vs Seattle Seahawks
+https://admin.formaturamaxi.com.br/nfl13.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Chargers vs Seattle Seahawks (Mirror 1)
 https://admin.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Detroit Lions vs Carolina Panthers
-https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Winnipeg Jets vs Detroit Red Wings
 https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Utah Mammoth vs New York Rangers
@@ -59,3 +67,5 @@ https://admin2.formaturamaxi.com.br/wwe.m3u8
 https://tedesco.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MXGP - Race
 https://admin.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Cup Series - Race
+https://admin2.formaturamaxi.com.br/nas.m3u8

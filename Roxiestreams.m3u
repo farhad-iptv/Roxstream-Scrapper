@@ -1,66 +1,32 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Azerbaijan vs Lithuania
-https://admin2.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Malta vs Andorra
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cyprus vs Lativa
+https://admin.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",France vs Belgium
 https://admin2.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wales vs Denamrk
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Ukraine vs Hungary
 https://admin.formaturamaxi.com.br/s4c.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Portugal vs Norway
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Romania vs Sweden
+https://admin2.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Romania vs Sweden (Mirror 1)
 https://admin2.formaturamaxi.com.br/portes.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Netherlands vs Serbia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Northern Ireland vs Georgia
 https://admin2.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chivas vs AmÃ©rica
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bosnia & Herzegovina vs Poland
 https://admin.formaturamaxi.com.br/tele.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",San Diego Padres vs Milwaukee Brewers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Washington Commanders (London)
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs New Orleans Saints
 https://tedesco.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Washington Commanders (London) (Mirror 1)
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Atlanta Falcons vs New Orleans Saints (Mirror 1)
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",NFL RedZone
-https://admin2.formaturamaxi.com.br/redzone.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",NFL RedZone (Mirror 1)
-https://admin2.formaturamaxi.com.br/redzonealt.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New England Patriots vs Buffalo Bills
-https://tedesco.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",New York Jets vs Chicago Bears
-https://temp.formaturamaxi.com.br/nfl3.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Jacksonville Jaguars vs Cincinnati Bengals
-https://temp.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Arizona Cardinals vs New York Giants
-https://admin2.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Rams vs Philadelphia Eagles
-https://admin2.formaturamaxi.com.br/nfl6.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Green Bay Packers vs Tampa Bay Buccaneers
-https://admin2.formaturamaxi.com.br/nfl7.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tennessee Titans vs Baltimore Ravens
-https://temp.formaturamaxi.com.br/nfl8.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Miami Dolphins vs Minnesota Vikings
-https://temp.formaturamaxi.com.br/nfl10.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Kansas City Chiefs vs Las Vegas Raiders
-https://admin.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Kansas City Chiefs vs Las Vegas Raiders (Mirror 1)
-https://admin.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Kansas City Chiefs vs Las Vegas Raiders (Mirror 2)
-https://admin.formaturamaxi.com.br/nfl6.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Chargers vs Seattle Seahawks
-https://admin.formaturamaxi.com.br/nfl13.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Los Angeles Chargers vs Seattle Seahawks (Mirror 1)
-https://admin.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Detroit Lions vs Carolina Panthers
-https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Detroit Lions vs Carolina Panthers (Mirror 1)
-https://admin2.formaturamaxi.com.br/nfl14.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Winnipeg Jets vs Detroit Red Wings
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Philadelphia Flyers vs Tampa Bay Lightning
 https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Utah Mammoth vs New York Rangers
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Ottawa Senators vs Boston Bruins
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Florida Panthers vs Anaheim Ducks
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Winnipeg Jets vs Pittsburgh Penguins
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Calgary Flames vs Seattle Kraken
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",San Jose Sharks vs Dallas Stars
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vegas Golden Knights vs Vancouver Canucks
-https://tedesco.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Malaysian Grand Prix

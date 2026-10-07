@@ -1,28 +1,22 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",India vs Uruguay
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",RB Bragantino vs Mirassol
 https://admin2.formaturamaxi.com.br/sonyhindi.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Kazakhstan vs Faroe Islands
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Internacional vs Corinthians
 https://admin.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Croatia vs Spain
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Remo vs GrÃªmio
 https://tedesco.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Croatia vs Spain (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Remo vs GrÃªmio (Mirror 1)
 https://tedesco.formaturamaxi.com.br/spain.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Switzerland vs North Macedonia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Vasco da Gama
 https://admin.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Angola vs Malawi
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",UNAN Managua vs Real EstelÃ­
 https://admin.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Argentina vs Benin (Messi's Farewell)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs SÃ£o Paulo
 https://admin2.formaturamaxi.com.br/prem2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Argentina vs Benin (Messi's Farewell) (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs SÃ£o Paulo (Mirror 1)
 https://admin2.formaturamaxi.com.br/sportdigital.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Argentina vs Benin (Messi's Farewell) (Mirror 2)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs SÃ£o Paulo (Mirror 2)
 https://admin2.formaturamaxi.com.br/vix.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Colombia vs Peru
-https://admin2.formaturamaxi.com.br/peru.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",USA vs Canada
-https://admin2.formaturamaxi.com.br/usa.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mexico vs Chile
-https://admin.formaturamaxi.com.br/uni.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Atlanta Braves
 https://tedesco.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Atlanta Braves (Mirror 1)

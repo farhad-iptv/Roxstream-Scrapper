@@ -1,20 +1,32 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Leones vs Barranquilla
 https://admin2.formaturamaxi.com.br/win.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",RB Bragantino vs Mirassol
+https://admin.formaturamaxi.com.br/fana1pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Internacional vs Corinthians
+https://admin.formaturamaxi.com.br/fana2pt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Remo vs GrÃªmio
 https://admin.formaturamaxi.com.br/fana3pt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs Chapecoense
 https://admin.formaturamaxi.com.br/fana4pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Vasco da Gama
+https://admin.formaturamaxi.com.br/fana5es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Botafogo vs Vasco da Gama (Mirror 1)
+https://admin.formaturamaxi.com.br/fana5pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs SÃ£o Paulo
+https://admin.formaturamaxi.com.br/fana6pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs SÃ£o Paulo (Mirror 1)
+https://admin.formaturamaxi.com.br/l1max.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Atlanta Braves
-https://tedesco.formaturamaxi.com.br/mlb2.m3u8
+https://admin2.formaturamaxi.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Pittsburgh Penguins vs Washington Capitals
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Colorado Avalanche vs Winnipeg Jets
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Edmonton Oilers vs Anaheim Ducks
-https://admin2.formaturamaxi.com.br/nhl3.m3u8
+https://admin.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
 https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown

@@ -1,16 +1,18 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Flamengo
 https://admin.formaturamaxi.com.br/fana1pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Flamengo (Mirror 1)
+https://admin.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Flamengo (Mirror 2)
+https://admin.formaturamaxi.com.br/fanapt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Athletico-PR vs Athletico Mineiro
-https://admin.formaturamaxi.com.br/fana2pt.m3u8
+https://admin.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Coritiba
 https://admin.formaturamaxi.com.br/fana3pt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Palmeiras vs Bahia
 https://admin.formaturamaxi.com.br/fana4pt.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Chicago White Sox
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs New York Yankees
-https://admin2.formaturamaxi.com.br/mlb2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs Dallas Cowboys
 https://admin.formaturamaxi.com.br/espn2.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Tampa Bay Buccaneers vs Dallas Cowboys (Mirror 1)
@@ -43,3 +45,7 @@ https://admin.formaturamaxi.com.br/wwe.m3u8
 https://admin2.formaturamaxi.com.br/flo2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Energy Sprint Cars - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
+https://admin2.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage (Mirror 1)
+https://admin2.formaturamaxi.com.br/mlb2.m3u8

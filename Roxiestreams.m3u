@@ -35,23 +35,29 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 https://admin2.formaturamaxi.com.br/rma.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Madrid vs Villarreal (Mirror 1)
 https://admin2.formaturamaxi.com.br/rmaen.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Remo
+https://admin.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",JuÃ¡rez vs Tijuana
-https://admin2.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",JuÃ¡rez vs Tijuana (Mirror 1)
-https://admin2.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",JuÃ¡rez vs Tijuana (Mirror 2)
-https://admin2.formaturamaxi.com.br/westham.m3u8
+https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",QuerÃ©taro vs Atlante
-https://admin.formaturamaxi.com.br/foxmx.m3u8
+https://admin2.formaturamaxi.com.br/foxone.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Miami vs DC United
+https://admin2.formaturamaxi.com.br/foxmx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Orlando City vs Columbus Crew
+https://tedesco.formaturamaxi.com.br/tsn5.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Vitoria
 https://admin.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",River Plate vs Estudiantes Rio Cuarto
 https://admin.formaturamaxi.com.br/fana5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlas vs Chivas
+https://tedesco.formaturamaxi.com.br/benfica.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Chicago White Sox vs Cleveland Guardians
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Philadelphia Flyers vs Boston Bruins
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vancouver Canucks vs New Jersey Devils
+https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vancouver Canucks vs New Jersey Devils (Mirror 1)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Edmonton Oilers vs San Jose Sharks
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
@@ -59,17 +65,17 @@ https://admin2.formaturamaxi.com.br/nhl3.m3u8
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Utah Mammoth vs Buffalo Sabres
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Detroit Red Wings vs Montreal Canadiens
-https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Nashville Predators vs Ottawa Senators
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Dallas Stars vs Pittsburgh Penguins
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs Chicago Blackhawks
 https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Columbus Blue Jackets vs St. Louis Blues
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Toronto Maple Leafs vs Colorado Avalanche
 https://tedesco.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Anaheim Ducks vs Calgary Flames
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Los Angeles Kings vs Vegas Golden Knights
 https://admin2.formaturamaxi.com.br/nhl13.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ESSEX vs DAPPER (Misfits)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
@@ -85,6 +91,8 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Sprint
+https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Super DIRTweek - Oswego
 https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR O'Reilly Auto Parts Series - Race

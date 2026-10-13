@@ -1,36 +1,76 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atalanta vs Venezia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sabah vs Slavia Praha
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coventry City vs Newcastle
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lens vs Sporting
 https://admin2.formaturamaxi.com.br/hub.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coventry City vs Newcastle (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lens vs Sporting (Mirror 1)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coventry City vs Newcastle (Mirror 2)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lens vs Sporting (Mirror 2)
 https://admin2.formaturamaxi.com.br/usa.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Levante vs Sevilla
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Millwall vs Swansea
 https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coritiba vs Botafogo
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Wolves vs Bolton Wandeerers
 https://admin.formaturamaxi.com.br/fanapt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",RB Bragantino vs Cruzeiro
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Arsenal vs Lille
 https://admin.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Los Angeles Dodgers vs Milwaukee Brewers
-https://admin2.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Barcelona vs Galatasaray
+https://admin2.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayern MÃ¼nchen vs Viking
+https://admin2.formaturamaxi.com.br/forest.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bayern MÃ¼nchen vs Viking (Mirror 1)
+https://admin2.formaturamaxi.com.br/wnba.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Inter Milan vs Club Brugge
+https://admin2.formaturamaxi.com.br/uni.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",RB Leipzig vs PSV
+https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Villarreal vs Napoli
+https://admin2.formaturamaxi.com.br/benfica.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Middlesbrough
+https://admin.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Middlesbrough (Mirror 1)
+https://admin.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stoke City vs Middlesbrough (Mirror 2)
+https://admin.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",TapatÃ­o vs TepatitlÃ¡n
+https://admin.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",TapatÃ­o vs TepatitlÃ¡n (Mirror 1)
+https://admin.formaturamaxi.com.br/fana2es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Vasco Gama
+https://admin2.formaturamaxi.com.br/flu.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Cleveland Guardians vs Tampa Bay Rays
-https://admin2.formaturamaxi.com.br/mlb2.m3u8
+https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Buffalo Bills vs Los Angeles Rams
 https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Buffalo Bills vs Los Angeles Rams (Mirror 1)
 https://admin2.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Florida Panthers vs Buffalo Sabres
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",New Jersey Devils vs Detroit Red Wings
 https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Ottawa Senators vs New Jersey Devils
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Florida Panthers vs Columbus Blue Jackets
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vegas Golden Knights vs Minnesota Wild
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Buffalo Sabres vs Montreal Canadiens
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE RAW
-https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Washington Capitals vs Carolina Hurricanes
+https://admin2.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Seattle Kraken vs Philadelphia Flyers
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Tampa Bay Lightning vs New York Rangers
+https://admin2.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",St. Louis Blues vs Ottawa Senators
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vancouver Canucks vs New York Islanders
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Pittsburgh Penguins vs Chicago Blackhawks
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Minnesota Wild vs Winnipeg Jets
+https://admin2.formaturamaxi.com.br/nhl10.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Colorado Avalanche vs Dallas Stars
+https://tedesco.formaturamaxi.com.br/nhl11.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Toronto Maple Leafs vs Utah Mammoth
+https://admin2.formaturamaxi.com.br/nhl13.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Dana White's Contender Series
 https://admin2.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE NXT
+https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Indonesian Grand Prix
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",Formula 1 - Singapore Grand Prix

@@ -18,19 +18,19 @@ https://admin2.formaturamaxi.com.br/mars.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mansfield Town vs Oxford
 https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes vs Flamengo
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
+https://admin.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes vs Flamengo (Mirror 1)
+https://admin.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Cleveland Guardians
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Denver Broncos
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Seattle Seahawks vs Denver Broncos (Mirror 1)
-https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Buffalo Sabres vs Toronto Maple Leafs
 https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",New York Islanders vs Ottawa Senators
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Seattle Kraken vs Tampa Bay Lightning
-https://tedesco.formaturamaxi.com.br/nhl3.m3u8
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vancouver Canucks vs Florida Panthers
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",New York Rangers vs New Jersey Devils
@@ -46,7 +46,7 @@ https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Utah Mammoth vs Edmonton Oilers
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Calgary Flames vs Vegas Golden Knights
-https://tedesco.formaturamaxi.com.br/nhl11.m3u8
+https://admin2.formaturamaxi.com.br/nhl11.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",TNA
 https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown

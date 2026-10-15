@@ -1,34 +1,22 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lyon vs Crystal Palace
-https://admin2.formaturamaxi.com.br/foxone2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lyon vs Crystal Palace (Mirror 1)
-https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Salzburg vs Milan
 https://admin2.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Salzburg vs Milan (Mirror 1)
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Salzburg vs Milan (Mirror 2)
-https://admin2.formaturamaxi.com.br/tntmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Torreense vs Sunderland
-https://admin2.formaturamaxi.com.br/qpr.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Sturm Graz
-https://admin2.formaturamaxi.com.br/norwich.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celta Vigo vs Juventus
-https://admin2.formaturamaxi.com.br/hbomax1.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celta Vigo vs Juventus (Mirror 1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lyon vs Crystal Palace (Mirror 1)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Salzburg vs Milan
+https://tedesco.formaturamaxi.com.br/tnt5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Torreense vs Sunderland
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Benfica vs Celtic
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Celta Vigo vs Juventus
+https://admin2.formaturamaxi.com.br/juve.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hearts vs NordsjÃ¦lland
-https://admin2.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Betis vs Porto
-https://admin2.formaturamaxi.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Real Betis vs Porto (Mirror 1)
-https://admin2.formaturamaxi.com.br/porto.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",KÃ¸benhavn vs Sporting Braga/a>
-https://admin2.formaturamaxi.com.br/athens.m3u8
+https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Marseille vs Olympiakos
-https://admin2.formaturamaxi.com.br/stutt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LMansfield Town vs Oxford
-https://admin2.formaturamaxi.com.br/westham.m3u8
+https://admin2.formaturamaxi.com.br/mars.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mansfield Town vs Oxford
+https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Estudiantes vs Flamengo
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Cleveland Guardians

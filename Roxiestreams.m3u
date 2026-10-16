@@ -13,6 +13,8 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Los Chankas vs ADT
 https://admin2.formaturamaxi.com.br/mars.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Defensa y Justicia vs Instituto
+https://admin.formaturamaxi.com.br/afaplay1.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs Internacional
 https://admin.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Talleres Cordoba
@@ -20,6 +22,8 @@ https://admin.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Atlas
 https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tijuana vs Puebla
+https://admin2.formaturamaxi.com.br/foxmx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tijuana vs Puebla (Mirror 1)
 https://admin2.formaturamaxi.com.br/porto.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Pumas UNAM
 https://admin2.formaturamaxi.com.br/athens.m3u8
@@ -34,6 +38,6 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series
-https://admin2.formaturamaxi.com.br/ncaa6.m3u8
+https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Sprint Cars - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8

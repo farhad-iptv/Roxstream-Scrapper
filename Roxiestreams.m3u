@@ -16,27 +16,35 @@ https://admin2.formaturamaxi.com.br/mars.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Defensa y Justicia vs Instituto
 https://admin.formaturamaxi.com.br/afaplay1.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Mirassol vs Internacional
-https://admin.formaturamaxi.com.br/fana.m3u8
+https://admin.formaturamaxi.com.br/fanapt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Talleres Cordoba
-https://admin.formaturamaxi.com.br/fana2.m3u8
+https://admin.formaturamaxi.com.br/afaplay2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Boca Juniors vs Talleres Cordoba (Mirror 1)
+https://admin.formaturamaxi.com.br/afaplay2en.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Atlas
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
+https://admin2.formaturamaxi.com.br/foxdep.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tijuana vs Puebla
-https://admin2.formaturamaxi.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Tijuana vs Puebla (Mirror 1)
-https://admin2.formaturamaxi.com.br/porto.m3u8
+https://admin2.formaturamaxi.com.br/tijuana.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Pumas UNAM
-https://admin2.formaturamaxi.com.br/athens.m3u8
+https://admin2.formaturamaxi.com.br/aztecadep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs Pumas UNAM (Mirror 1)
+https://admin2.formaturamaxi.com.br/espnmx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Cleveland Guardians
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Pittsburgh Penguins vs Colorado Avalanche
 https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Boston Bruins vs Anaheim Ducks
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",The Inner Circle 35
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",ONE Samurai 4
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
-https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",DUBOIS VS WARDLEY II
+https://admin2.formaturamaxi.com.br/ppv2.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Buckley vs. Malott
+https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Buckley vs. Malott (Mirror 1)
+https://admin2.formaturamaxi.com.br/hub.m3u8
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC Fight Night: Buckley vs. Malott (Mirror 2)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Craftsman Truck Series
 https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Sprint Cars - Race

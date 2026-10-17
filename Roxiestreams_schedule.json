@@ -10,7 +10,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/one.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -23,7 +23,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/prem.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -36,7 +36,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/beines.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -50,7 +50,7 @@
       "https://admin2.formaturamaxi.com.br/golazo.m3u8",
       "https://admin2.formaturamaxi.com.br/main.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -63,7 +63,7 @@
     "streams": [
       "https://tedesco.formaturamaxi.com.br/dep.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -76,7 +76,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mars.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -89,7 +89,7 @@
     "streams": [
       "https://admin.formaturamaxi.com.br/afaplay1.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -100,9 +100,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin.formaturamaxi.com.br/fana.m3u8"
+      "https://admin.formaturamaxi.com.br/fanapt.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -113,9 +113,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin.formaturamaxi.com.br/fana2.m3u8"
+      "https://admin.formaturamaxi.com.br/afaplay2.m3u8",
+      "https://admin.formaturamaxi.com.br/afaplay2en.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -126,9 +127,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/tnt4.m3u8"
+      "https://admin2.formaturamaxi.com.br/foxdep.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -139,10 +140,9 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/foxmx.m3u8",
-      "https://admin2.formaturamaxi.com.br/porto.m3u8"
+      "https://admin2.formaturamaxi.com.br/tijuana.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Soccer",
@@ -153,9 +153,10 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [
-      "https://admin2.formaturamaxi.com.br/athens.m3u8"
+      "https://admin2.formaturamaxi.com.br/aztecadep.m3u8",
+      "https://admin2.formaturamaxi.com.br/espnmx.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "MLB",
@@ -168,7 +169,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/mlb.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "NHL",
@@ -181,7 +182,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/nhl.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "NHL",
@@ -194,33 +195,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/nhl2.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "The Inner Circle 35",
-    "start_time": "October 16, 2026 4:30 AM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/ppv-streams-1",
-    "group": "Combat Sports",
-    "epg_id": "Combat.Sports.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/ppv.m3u8"
-    ],
-    "scraped_at": "2026-10-16T22:45:42Z"
-  },
-  {
-    "category": "Fighting",
-    "title": "WWE Smackdown",
-    "start_time": "October 16, 2026 5:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-    ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Fighting",
@@ -233,7 +208,61 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/ppv.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "DUBOIS VS WARDLEY II",
+    "start_time": "October 17, 2026 8:00 AM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-2",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/ppv2.m3u8"
+    ],
+    "scraped_at": "2026-10-17T03:57:00Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "UFC Fight Night: Buckley vs. Malott",
+    "start_time": "October 17, 2026 2:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ufc",
+    "group": "Combat Sports",
+    "epg_id": "UFC.Fight.Pass.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8",
+      "https://admin2.formaturamaxi.com.br/hub.m3u8",
+      "https://admin2.formaturamaxi.com.br/tnt.m3u8"
+    ],
+    "scraped_at": "2026-10-17T03:57:00Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "Fundora vs. Hadribeaj: The Fight",
+    "start_time": "October 17, 2026 2:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/ppv.m3u8"
+    ],
+    "scraped_at": "2026-10-17T03:57:00Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "RAF 14: Tsarukyan vs. Danis",
+    "start_time": "October 23, 2026 1:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/ppv-streams-1",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [
+      "https://admin2.formaturamaxi.com.br/ppv.m3u8"
+    ],
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Motorsports",
@@ -246,7 +275,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/nas.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Motorsports",
@@ -259,7 +288,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Motorsports",
@@ -272,7 +301,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/nas.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Motorsports",
@@ -285,7 +314,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Motorsports",
@@ -298,7 +327,7 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/flo.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   },
   {
     "category": "Motorsports",
@@ -311,6 +340,6 @@
     "streams": [
       "https://admin2.formaturamaxi.com.br/nas.m3u8"
     ],
-    "scraped_at": "2026-10-16T22:45:42Z"
+    "scraped_at": "2026-10-17T03:57:00Z"
   }
 ]

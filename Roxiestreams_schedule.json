@@ -1,80 +1,201 @@
 [
   {
     "category": "Soccer",
-    "title": "Al-Fayha vs Al-Ahli",
-    "start_time": "October 19, 2026 8:05 AM",
+    "title": "Al Taawon vs Al Quadisiya",
+    "start_time": "October 20, 2026 8:10 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Soccer",
-    "title": "Monza vs Cagliari",
-    "start_time": "October 19, 2026 9:30 AM",
+    "title": "Dortmund vs Sabah",
+    "start_time": "October 20, 2026 9:45 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Soccer",
-    "title": "Al Hilal vs Al Hazm",
-    "start_time": "October 19, 2026 11:00 AM",
+    "title": "FenerbahÃ§e vs Slavia Praha",
+    "start_time": "October 20, 2026 9:45 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Soccer",
-    "title": "Parma vs Torino",
-    "start_time": "October 19, 2026 11:45 AM",
+    "title": "Al Nassr vs NEOM",
+    "start_time": "October 20, 2026 11:00 AM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/soccer-streams-4",
+    "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Soccer",
-    "title": "Getafe vs Rayo Vallecano",
-    "start_time": "October 19, 2026 12:00 PM",
+    "title": "Wolves vs Portsmouth",
+    "start_time": "October 20, 2026 11:45 AM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-5",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Soccer",
-    "title": "Tottenham vs Coventry",
-    "start_time": "October 19, 2026 12:00 PM",
+    "title": "Atletico Madrid vs Stuttgart",
+    "start_time": "October 20, 2026 12:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-6",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Soccer",
-    "title": "Corinthians vs Vitoria",
-    "start_time": "October 19, 2026 4:00 PM",
+    "title": "Barcelona vs PSG",
+    "start_time": "October 20, 2026 12:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Liverpool vs Villarreal",
+    "start_time": "October 20, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-8",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Manchester City vs Athens",
+    "start_time": "October 20, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-9",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Napoli vs Bodo / Glimt",
+    "start_time": "October 20, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-10",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Roma vs Slovan Bratislava",
+    "start_time": "October 20, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-11",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Porto vs PSV",
+    "start_time": "October 20, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-12",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Gillingham vs Port Vale",
+    "start_time": "October 20, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-13",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Chivas vs Necaxa",
+    "start_time": "October 20, 2026 5:07 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-14",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Vasco Gama vs Boca Juniors",
+    "start_time": "October 20, 2026 5:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-15",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "JuÃ¡rez vs Atlante",
+    "start_time": "October 20, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-16",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "AtlÃ©tico San Luis vs QuerÃ©taro",
+    "start_time": "October 20, 2026 6:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-17",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "Tigres vs Leon",
+    "start_time": "October 20, 2026 8:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-18",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "MLB",
@@ -85,73 +206,128 @@
     "group": "Baseball",
     "epg_id": "MLB.Baseball.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
-  },
-  {
-    "category": "NFL",
-    "title": "Washington Commanders vs San Francisco 49ers",
-    "start_time": "Oct 19, 2026 5:15 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/nfl-streams-1",
-    "group": "Football",
-    "epg_id": "Football.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "NHL",
-    "title": "Anaheim Ducks vs New York Rangers",
-    "start_time": "October 19, 2026 04:00 PM",
+    "title": "San Jose Sharks vs Montreal Canadiens",
+    "start_time": "October 20, 2026 04:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nhl-streams-1",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "NHL",
-    "title": "Colorado Avalanche vs Philadelphia Flyers",
-    "start_time": "October 19, 2026 04:00 PM",
+    "title": "Colorado Avalanche vs New Jersey Devils",
+    "start_time": "October 20, 2026 04:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nhl-streams-2",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "NHL",
-    "title": "San Jose Sharks vs Toronto Maple Leafs",
-    "start_time": "October 19, 2026 04:30 PM",
+    "title": "Anaheim Ducks vs New York Islanders",
+    "start_time": "October 20, 2026 04:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nhl-streams-3",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "NHL",
-    "title": "Pittsburgh Penguins vs Utah Mammoth",
-    "start_time": "October 19, 2026 06:00 PM",
+    "title": "Los Angeles Kings vs Washington Capitals",
+    "start_time": "October 20, 2026 04:00 PM",
     "is_live": false,
     "stream_page": "https://roxiestreams.su/nhl-streams-4",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
-    "category": "Fighting",
-    "title": "WWE RAW",
-    "start_time": "October 19, 2026 5:00 PM",
+    "category": "NHL",
+    "title": "Toronto Maple Leafs vs Columbus Blue Jackets",
+    "start_time": "October 20, 2026 04:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/wwe-streams",
-    "group": "Combat Sports",
-    "epg_id": "PPV.EVENTS.Dummy.us",
+    "stream_page": "https://roxiestreams.su/nhl-streams-5",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "NHL",
+    "title": "Winnipeg Jets vs St. Louis Blues",
+    "start_time": "October 20, 2026 05:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nhl-streams-6",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "NHL",
+    "title": "Boston Bruins vs Dallas Stars",
+    "start_time": "October 20, 2026 05:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nhl-streams-7",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "NHL",
+    "title": "Minnesota Wild vs Edmonton Oilers",
+    "start_time": "October 20, 2026 06:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nhl-streams-8",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "NHL",
+    "title": "Detroit Red Wings vs Seattle Kraken",
+    "start_time": "October 20, 2026 06:40 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nhl-streams-9",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "NHL",
+    "title": "Carolina Hurricanes vs Vancouver Canucks",
+    "start_time": "October 20, 2026 07:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nhl-streams-10",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "NHL",
+    "title": "Tampa Bay Lightning vs Vegas Golden Knights",
+    "start_time": "October 20, 2026 07:30 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/nhl-streams-11",
+    "group": "Hockey",
+    "epg_id": "NHL.Hockey.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Fighting",
@@ -162,7 +338,18 @@
     "group": "Combat Sports",
     "epg_id": "PPV.EVENTS.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "AEW",
+    "start_time": "October 20, 2026 5:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/aew",
+    "group": "Combat Sports",
+    "epg_id": "Combat.Sports.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Fighting",
@@ -173,7 +360,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Motorsports",
@@ -184,7 +371,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Motorsports",
@@ -195,7 +382,7 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   },
   {
     "category": "Motorsports",
@@ -206,6 +393,6 @@
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-10-20T04:24:45Z"
+    "scraped_at": "2026-10-20T13:33:57Z"
   }
 ]

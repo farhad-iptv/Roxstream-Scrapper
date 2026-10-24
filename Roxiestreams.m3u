@@ -21,14 +21,18 @@ https://admin2.formaturamaxi.com.br/dep.m3u8
 https://admin2.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Remo
 https://admin.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Remo (Mirror 1)
+https://admin.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Remo (Mirror 2)
+https://admin.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Necaxa vs Juarez
-https://admin2.formaturamaxi.com.br/monaco.m3u8
+https://admin2.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Atlante vs AtlÃ©tico San Luis
-https://admin2.formaturamaxi.com.br/benfica.m3u8
+https://admin2.formaturamaxi.com.br/espn2mx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Milwaukee Brewers
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Montreal Canadiens vs Chicago Blackhawks
-https://tedesco.formaturamaxi.com.br/nhl.m3u8
+https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Tampa Bay Lightning vs Colorado Avalanche
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
@@ -41,3 +45,5 @@ https://admin2.formaturamaxi.com.br/f1alt.m3u8
 https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Sprint Cars - Race
+https://admin2.formaturamaxi.com.br/flo.m3u8

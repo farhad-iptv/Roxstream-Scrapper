@@ -50,37 +50,41 @@ https://admin.formaturamaxi.com.br/fana5.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Corinthians (Mirror 1)
 https://admin.formaturamaxi.com.br/fana5es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chapecoense vs Fluminense
-https://admin2.formaturamaxi.com.br/canal5mx.m3u8
+https://admin.formaturamaxi.com.br/fana6.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",LeÃ³n vs Toluca
-https://admin2.formaturamaxi.com.br/tudnus.m3u8
+https://admin2.formaturamaxi.com.br/foxone7mx.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Bahia
+https://admin.formaturamaxi.com.br/fana7.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Bahia (Mirror 1)
+https://admin.formaturamaxi.com.br/fana7en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Santos vs Bahia (Mirror 2)
+https://admin.formaturamaxi.com.br/fana7es.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Monterrey vs Chivas
-https://admin2.formaturamaxi.com.br/tudn.m3u8
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Milwaukee Brewers
 https://admin2.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Tampa Bay Rays vs Milwaukee Brewers (Mirror 1)
+https://admin2.formaturamaxi.com.br/mlbalt.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Anaheim Ducks vs Philadelphia Flyers
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Los Angeles Kings vs New Jersey Devils
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",San Jose Sharks vs Boston Bruins
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",New York Rangers vs Ottawa Senators
-https://tedesco.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Nashville Predators vs Pittsburgh Penguins
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Buffalo Sabres vs Washington Capitals
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Vegas Golden Knights vs Columbus Blue Jackets
-https://admin.formaturamaxi.com.br/nhl7.m3u8
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Carolina Hurricanes vs St. Louis Blues
 https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Toronto Maple Leafs vs Edmonton Oilers
-https://admin2.formaturamaxi.com.br/nhl9.m3u8
+https://tedesco.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Tampa Bay Lightning vs Utah Mammoth
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Detroit Red Wings vs Calgary Flames
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Combat Sports",UFC 333: Volkanovski vs. Evloev
-https://temp.formaturamaxi.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Minnesota Wild vs Seattle Kraken
+https://admin2.formaturamaxi.com.br/nhl12.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",Smith vs. Puello (MB)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",East vs West XXVII
@@ -94,4 +98,6 @@ https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR O'Reilly Series - Race
 https://admin2.formaturamaxi.com.br/ncaa5.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Sprint Cars - Race
+https://admin2.formaturamaxi.com.br/flo2.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",WoO Late Models - Race
 https://admin2.formaturamaxi.com.br/flo.m3u8

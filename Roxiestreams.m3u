@@ -8,13 +8,21 @@ https://admin2.formaturamaxi.com.br/sportdigital2.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Everton vs Newcastle
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Cruzeiro
-https://admin2.formaturamaxi.com.br/golazo.m3u8
+https://admin.formaturamaxi.com.br/fanaes.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Cruzeiro (Mirror 1)
-https://admin2.formaturamaxi.com.br/para.m3u8
+https://admin.formaturamaxi.com.br/fanapt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",AtlÃ©tico Mineiro vs Cruzeiro (Mirror 2)
+https://admin.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Flamengo
-https://admin2.formaturamaxi.com.br/bayern.m3u8
+https://admin.formaturamaxi.com.br/fana2en.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Flamengo (Mirror 1)
+https://admin.formaturamaxi.com.br/fana2es.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Flamengo (Mirror 2)
+https://admin.formaturamaxi.com.br/fana2pt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Gama vs Flamengo (Mirror 3)
+https://admin.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Athletico-PR
-https://tedesco.formaturamaxi.com.br/fulham.m3u8
+https://admin.formaturamaxi.com.br/fana3pt.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Tampa Bay Rays
 https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" group-title="Baseball",Milwaukee Brewers vs Tampa Bay Rays (Mirror 1)
@@ -28,7 +36,7 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Utah Mammoth vs Pittsburgh Penguins
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Columbus Blue Jackets vs Carolina Hurricanes
-https://tedesco.formaturamaxi.com.br/nhl3.m3u8
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Chicago Blackhawks vs Detroit Red Wings
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Boston Bruins vs St. Louis Blues
@@ -48,6 +56,6 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="Combat Sports",WWE Smackdown
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
-https://admin2.formaturamaxi.com.br/tnt.m3u8
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",NASCAR Truck Series - Race
 https://admin2.formaturamaxi.com.br/nas.m3u8

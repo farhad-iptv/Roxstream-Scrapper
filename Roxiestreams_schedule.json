@@ -7,10 +7,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-1",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/tnt2.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -20,10 +18,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-2",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/tnt3.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -33,10 +29,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-3",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/tnt.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -47,7 +41,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -58,7 +52,18 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
+  },
+  {
+    "category": "Soccer",
+    "title": "UEFA Goals Show",
+    "start_time": "November 4, 2026 12:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/soccer-streams-18",
+    "group": "Soccer",
+    "epg_id": "Soccer.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -69,7 +74,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -79,10 +84,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-7",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/cbssn.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -93,7 +96,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -104,7 +107,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -115,7 +118,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -126,7 +129,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -137,7 +140,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -147,10 +150,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-13",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -160,10 +161,8 @@
     "stream_page": "https://roxiestreams.su/soccer-streams-14",
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
-    "streams": [
-      "https://admin.formaturamaxi.com.br/fana2.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -174,7 +173,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -185,7 +184,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Soccer",
@@ -196,7 +195,7 @@
     "group": "Soccer",
     "epg_id": "Soccer.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "NHL",
@@ -206,10 +205,8 @@
     "stream_page": "https://roxiestreams.su/nhl-streams-1",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nhl.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "NHL",
@@ -219,10 +216,8 @@
     "stream_page": "https://roxiestreams.su/nhl-streams-2",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
-    "streams": [
-      "https://admin2.formaturamaxi.com.br/nhl2.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "NHL",
@@ -233,7 +228,7 @@
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "NHL",
@@ -243,10 +238,19 @@
     "stream_page": "https://roxiestreams.su/nhl-streams-4",
     "group": "Hockey",
     "epg_id": "NHL.Hockey.Dummy.us",
-    "streams": [
-      "https://tedesco.formaturamaxi.com.br/nhl4.m3u8"
-    ],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
+  },
+  {
+    "category": "Fighting",
+    "title": "WWE NXT",
+    "start_time": "November 4, 2026 5:00 PM",
+    "is_live": false,
+    "stream_page": "https://roxiestreams.su/wwe-streams",
+    "group": "Combat Sports",
+    "epg_id": "PPV.EVENTS.Dummy.us",
+    "streams": [],
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Fighting",
@@ -257,7 +261,7 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Fighting",
@@ -268,28 +272,17 @@
     "group": "Combat Sports",
     "epg_id": "Combat.Sports.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   },
   {
     "category": "Motorsports",
-    "title": "NASCAR Cup Series - Race",
-    "start_time": "November 1, 2026 11:00 AM",
+    "title": "WoO World Finals",
+    "start_time": "November 4, 2026 2:00 PM",
     "is_live": false,
-    "stream_page": "https://roxiestreams.su/nascar",
+    "stream_page": "https://roxiestreams.su/floracing-1",
     "group": "Motorsports",
     "epg_id": "Racing.Dummy.us",
     "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
-  },
-  {
-    "category": "Motorsports",
-    "title": "Formula 1 - Mexican Grand Prix",
-    "start_time": "November 1, 2026 12:00 PM",
-    "is_live": false,
-    "stream_page": "https://roxiestreams.su/f1",
-    "group": "Motorsports",
-    "epg_id": "Racing.Dummy.us",
-    "streams": [],
-    "scraped_at": "2026-11-04T19:47:07Z"
+    "scraped_at": "2026-11-05T00:54:31Z"
   }
 ]

@@ -10,13 +10,13 @@ https://admin2.formaturamaxi.com.br/oldham.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Stockport vs Reading
 https://admin2.formaturamaxi.com.br/plus.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Uganda vs Botswana
-https://tedesco.formaturamaxi.com.br/bein.m3u8
+https://admin2.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Norway vs Wales
 https://admin2.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fleetwood Town vs Tranmere Rovers
+https://admin2.formaturamaxi.com.br/darts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Angola vs South Sudan
-https://admin2.formaturamaxi.com.br/ice.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Basque Country vs Venezuela
-https://admin2.formaturamaxi.com.br/lux.m3u8
+https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Austria vs Ireland Republic
 https://tedesco.formaturamaxi.com.br/colo.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Romania vs Poland
@@ -39,10 +39,6 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Minnesota Wild vs Boston Bruins
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Edmonton Oilers vs Toronto Maple Leafs
-https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Colorado Avalanche vs Montreal Canadiens
-https://tedesco.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Detroit Red Wings vs Tampa Bay Lightning
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Ottawa Senators vs Pittsburgh Penguins

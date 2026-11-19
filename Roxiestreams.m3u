@@ -1,16 +1,20 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Coritiba vs Santos
-https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Remo vs Chapecoense
-https://admin.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Flamengo vs Athletico-PR
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",VitÃ³ria vs RB Bragantino
+https://admin.formaturamaxi.com.br/fanatiz.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Vasco Da Gama vs Internacional
+https://admin.formaturamaxi.com.br/fanatiz2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Fluminense
 https://admin2.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Cruzeiro vs Palmeiras
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Orlando City SC vs Cincinnati
 https://admin.formaturamaxi.com.br/fana4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",GrÃªmio vs Bahia
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Seattle Sounders FC vs Real Salt Lake
 https://admin.formaturamaxi.com.br/fana5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Corinthians vs Botafogo
-https://admin.formaturamaxi.com.br/fana6.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Houston Texans
+https://admin2.formaturamaxi.com.br/abbiecadabra.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Houston Texans (Mirror 1)
+https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Indianapolis Colts vs Houston Texans (Mirror 2)
+https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Boston Bruins vs Detroit Red Wings
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Montreal Canadiens vs New Jersey Devils

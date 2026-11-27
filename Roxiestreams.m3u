@@ -1,17 +1,31 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Kairat vs MjÃ¤llby
+https://admin2.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Celta Vigo
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brighton vs CSU Craiova
 https://tedesco.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Benfica vs Viktoria PlzeÅ
+https://admin2.formaturamaxi.com.br/benfica.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hearts vs Monaco
 https://tedesco.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BeÅiktaÅ vs Hapoel Be'er
+https://admin2.formaturamaxi.com.br/besiktas.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Marseille vs Levski Sofia
+https://admin2.formaturamaxi.com.br/marseille.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Milan vs Olympiakos
 https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Doncaster Rovers vs Huddersfield Town
 https://admin2.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lyon vs LillestrÃ¸m
+https://admin2.formaturamaxi.com.br/lyon.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sunderland vs Jagiellonia BiaÅystok
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Remo
 https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lyon vs LillestrÃ¸m (Mirror 1)
-https://admin.formaturamaxi.com.br/l1max.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Chicago Bears vs Detroit Lions
+https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Chicago Bears vs Detroit Lions (Mirror 1)
 https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Pittsburgh Penguins vs Buffalo Sabres
 https://tedesco.formaturamaxi.com.br/nhl14.m3u8

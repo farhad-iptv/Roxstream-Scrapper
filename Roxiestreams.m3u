@@ -1,31 +1,25 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Kairat vs MjÃ¤llby
-https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Bournemouth vs Celta Vigo
-https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brighton vs CSU Craiova
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Werder Bremen vs Borussia M'gladbach
 https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Benfica vs Viktoria PlzeÅ
-https://admin2.formaturamaxi.com.br/benfica.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Hearts vs Monaco
-https://tedesco.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",BeÅiktaÅ vs Hapoel Be'er
-https://admin2.formaturamaxi.com.br/besiktas.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Marseille vs Levski Sofia
-https://admin2.formaturamaxi.com.br/marseille.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Milan vs Olympiakos
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Doncaster Rovers vs Huddersfield Town
-https://admin2.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Lyon vs LillestrÃ¸m
-https://admin2.formaturamaxi.com.br/lyon.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Sunderland vs Jagiellonia BiaÅystok
-https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",SÃ£o Paulo vs Remo
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Brest vs Paris
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Venezia vs Bologna
+https://tedesco.formaturamaxi.com.br/beinhk.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Chelsea vs Nottingham
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Southampton vs Middlesbrough
+https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Soccer",Fluminense vs Cruzeiro
 https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Chicago Bears vs Detroit Lions
-https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Chicago Bears vs Detroit Lions (Mirror 1)
+#EXTINF:-1 tvg-id="Football.Dummy.us" group-title="Football",Denver Broncos vs Pittsburgh Steelers
 https://admin2.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Toronto Maple Leafs vs Boston Bruins
+https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Calgary Flames vs New Jersey Devils
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="Hockey",Pittsburgh Penguins vs Buffalo Sabres
 https://tedesco.formaturamaxi.com.br/nhl14.m3u8
+#EXTINF:-1 tvg-id="Combat.Sports.Dummy.us" group-title="Combat Sports",CW 215: Davies vs. Vucenic
+https://admin.formaturamaxi.com.br/sn360.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="Motorsports",MotoGP - Coverage
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
